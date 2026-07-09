@@ -8,7 +8,7 @@
       "id": "hdfilmizle",
       "enabled": true,
       "priority": 1,
-      "domain": "https://hdfilmizle.now",
+      "domain": "https://hdfilmizlee.now",
       "resolver": "vidrame",
       "iframeSelector": "iframe.vpx",
       "playSelector": ".play-that-video",
