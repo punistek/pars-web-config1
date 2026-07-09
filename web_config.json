@@ -1,7 +1,11 @@
 {
   "version": 1,
+  "minimumAppVersion": 1,
+  "maintenance": false,
+  "maintenanceMessage": "",
 
   "sites": [
+
     {
       "id": "hdfilmizle",
 
@@ -10,10 +14,6 @@
       "priority": 1,
 
       "domain": "https://hdfilmizle.now",
-
-      "moviePrefix": "/",
-
-      "categoryPrefix": "/tur/",
 
       "resolver": "vidrame",
 
@@ -26,6 +26,29 @@
       "headers": {
         "Referer": "https://hdfilmizle.now/"
       }
+    },
+
+    {
+      "id": "filmmakinesi",
+
+      "enabled": true,
+
+      "priority": 2,
+
+      "domain": "https://filmmakinesi.to",
+
+      "resolver": "rapid_close",
+
+      "iframeSelector": "iframe",
+
+      "playSelector": ".play-button",
+
+      "masterRegex": "master\\.m3u8|index.*\\.m3u8",
+
+      "headers": {
+        "Referer": "https://filmmakinesi.to/"
+      }
     }
+
   ]
 }
