@@ -1,0 +1,31 @@
+{
+  "version": 1,
+
+  "sites": [
+    {
+      "id": "hdfilmizle",
+
+      "enabled": true,
+
+      "priority": 1,
+
+      "domain": "https://hdfilmizle.now",
+
+      "moviePrefix": "/",
+
+      "categoryPrefix": "/tur/",
+
+      "resolver": "vidrame",
+
+      "iframeSelector": "iframe.vpx",
+
+      "playSelector": ".play-that-video",
+
+      "masterRegex": "master\\.m3u8",
+
+      "headers": {
+        "Referer": "https://hdfilmizle.now/"
+      }
+    }
+  ]
+}
