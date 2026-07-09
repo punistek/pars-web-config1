@@ -1,12 +1,12 @@
 {
-  "version": 7,
+  "version": 8,
   "minimumAppVersion": 1,
   "maintenance": true,
   "maintenanceMessage": "",
   "sites": [
     {
       "id": "hdfilmizle",
-      "enabled": false,
+      "enabled": true,
       "priority": 1,
       "domain": "https://hdfilmizle.now",
       "provider": "auto",
@@ -38,7 +38,7 @@
     },
     {
       "id": "filmmakinesi",
-      "enabled": false,
+      "enabled": true,
       "priority": 3,
       "domain": "https://filmmakinesi.to",
       "provider": "auto",
