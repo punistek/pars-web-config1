@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "minimumAppVersion": 1,
   "maintenance": false,
   "maintenanceMessage": "",
@@ -22,7 +22,7 @@
     },
     {
       "id": "hdfilmcehennemi",
-      "enabled": false,
+      "enabled": true,
       "priority": 2,
       "domain": "https://www.hdfilmcehennemi.nl",
       "provider": "auto",
@@ -38,7 +38,7 @@
     },
     {
       "id": "filmmakinesi",
-      "enabled": true,
+      "enabled": false,
       "priority": 3,
       "domain": "https://filmmakinesi.to",
       "provider": "auto",
