@@ -38,7 +38,7 @@
     },
     {
       "id": "filmmakinesi",
-      "enabled": false,
+      "enabled": true,
       "priority": 3,
       "domain": "https://filmmakinesi.to",
       "provider": "auto",
@@ -54,7 +54,7 @@
     },
     {
       "id": "fullhdfilmizlesene",
-      "enabled": true,
+      "enabled": false,
       "priority": 4,
       "domain": "https://www.fullhdfilmizlesene.life",
       "provider": "auto",
