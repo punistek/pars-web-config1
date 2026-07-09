@@ -38,7 +38,7 @@
     },
     {
       "id": "filmmakinesi",
-      "enabled": true,
+      "enabled": false,
       "priority": 3,
       "domain": "https://filmmakinesi.to",
       "provider": "auto",
