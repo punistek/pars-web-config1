@@ -6,7 +6,7 @@
   "sites": [
     {
       "id": "hdfilmizle",
-      "enabled": true,
+      "enabled": false,
       "priority": 1,
       "domain": "https://hdfilmizle.now",
       "provider": "auto",
@@ -22,7 +22,7 @@
     },
     {
       "id": "hdfilmcehennemi",
-      "enabled": true,
+      "enabled": false,
       "priority": 2,
       "domain": "https://www.hdfilmcehennemi.nl",
       "provider": "auto",
@@ -38,7 +38,7 @@
     },
     {
       "id": "filmmakinesi",
-      "enabled": true,
+      "enabled": false,
       "priority": 3,
       "domain": "https://filmmakinesi.to",
       "provider": "auto",
