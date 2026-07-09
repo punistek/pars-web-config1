@@ -1,7 +1,7 @@
 {
-  "version": 8,
+  "version": 2,
   "minimumAppVersion": 1,
-  "maintenance": true,
+  "maintenance": false,
   "maintenanceMessage": "",
   "sites": [
     {
@@ -9,63 +9,25 @@
       "enabled": true,
       "priority": 1,
       "domain": "https://hdfilmizle.now",
-      "provider": "auto",
-      "providers": ["vidrame", "rapidrame", "closeload", "imagehub"],
-      "movieCardSelector": "a.poster, a[class*=\"poster\"], .poster",
-      "imageSelector": "img",
-      "iframeSelector": "iframe.vpx, iframe",
-      "playSelector": ".play-that-video, .jw-icon-display, .play, [class*=play]",
+      "resolver": "vidrame",
+      "iframeSelector": "iframe.vpx",
+      "playSelector": ".play-that-video",
       "masterRegex": "master\\.m3u8|1080\\.m3u8|720\\.m3u8|index.*\\.m3u8",
       "headers": {
         "Referer": "https://hdfilmizle.now/"
       }
     },
     {
-      "id": "hdfilmcehennemi",
-      "enabled": false,
-      "priority": 2,
-      "domain": "https://www.hdfilmcehennemi.nl",
-      "provider": "auto",
-      "providers": ["rapidrame", "vidrame", "imagehub", "closeload"],
-      "movieCardSelector": "a.poster, a[class*=\"poster\"], .poster, a[href*=\"/film/\"], a[href*=\"/izle/\"]",
-      "imageSelector": "img",
-      "iframeSelector": "iframe",
-      "playSelector": ".part-tab, .player-tab, button, a, .jw-icon-display, [class*=play]",
-      "masterRegex": "master\\.m3u8|1080\\.m3u8|720\\.m3u8|index.*\\.m3u8",
-      "headers": {
-        "Referer": "https://www.hdfilmcehennemi.nl/"
-      }
-    },
-    {
       "id": "filmmakinesi",
-      "enabled": false,
-      "priority": 3,
+      "enabled": true,
+      "priority": 2,
       "domain": "https://filmmakinesi.to",
-      "provider": "auto",
-      "providers": ["rapidrame", "closeload", "vidrame", "imagehub"],
-      "movieCardSelector": "a.item, a[href*=\"/film/\"]",
-      "imageSelector": "img",
+      "resolver": "rapid_close",
       "iframeSelector": "iframe",
-      "playSelector": ".before-player, .after-player, .video-parts a[data-video_url], a[data-video_url], .jw-icon-display, [class*=play]",
+      "playSelector": ".before-player, .after-player, .video-parts a[data-video_url]",
       "masterRegex": "master\\.(m3u8|txt)|index.*\\.m3u8|playlist\\.txt",
       "headers": {
         "Referer": "https://filmmakinesi.to/"
-      }
-    },
-    {
-      "id": "fullhdfilmizlesene",
-      "enabled": false,
-      "priority": 4,
-      "domain": "https://www.fullhdfilmizlesene.life",
-      "provider": "auto",
-      "providers": ["rapidrame", "imagehub", "vidrame", "closeload"],
-      "movieCardSelector": "a.poster, a[class*=\"poster\"], .poster, a[href*=\"/film/\"]",
-      "imageSelector": "img",
-      "iframeSelector": "iframe",
-      "playSelector": ".ply, #play-video, .part-selector a, button, a, .jw-icon-display, [class*=play]",
-      "masterRegex": "master\\.m3u8|1080.*\\.m3u8|720.*\\.m3u8|index.*\\.m3u8",
-      "headers": {
-        "Referer": "https://www.fullhdfilmizlesene.life/"
       }
     }
   ]
