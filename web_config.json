@@ -8,7 +8,7 @@
       "id": "hdfilmizle",
       "enabled": true,
       "priority": 1,
-      "domain": "https://hdfilmizlee.now",
+      "domain": "https://hdfilmizle.now",
       "resolver": "vidrame",
       "iframeSelector": "iframe.vpx",
       "playSelector": ".play-that-video",
@@ -21,7 +21,7 @@
       "id": "hdfilmcehennemi",
       "enabled": true,
       "priority": 2,
-      "domain": "https://www.hdfilmcehennemii.nl",
+      "domain": "https://www.hdfilmcehennemi.nl",
       "resolver": "rapid_close",
       "iframeSelector": "iframe",
       "playSelector": ".part-tab, .player-tab, button, a",
@@ -34,7 +34,7 @@
       "id": "filmmakinesi",
       "enabled": true,
       "priority": 3,
-      "domain": "https://filmmakinesii.to",
+      "domain": "https://filmmakinesi.to",
       "resolver": "rapid_close",
       "iframeSelector": "iframe",
       "playSelector": ".before-player, .after-player, .video-parts a[data-video_url]",
@@ -42,19 +42,6 @@
       "headers": {
         "Referer": "https://filmmakinesi.to/"
       }
-    },
-    {
-  "id": "fullhdfilmizlesene",
-  "enabled": true,
-  "priority": 4,
-  "domain": "https://www.fullhdfilmizlesene.life",
-  "resolver": "rapid_close",
-  "iframeSelector": "iframe",
-  "playSelector": ".ply, #play-video, .part-selector a, button",
-  "masterRegex": "master\\.m3u8|1080.*\\.m3u8|720.*\\.m3u8|index.*\\.m3u8",
-  "headers": {
-    "Referer": "https://www.fullhdfilmizlesene.life/"
-  }
-}
+    }
   ]
 }
