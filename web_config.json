@@ -1,12 +1,12 @@
 {
-  "version": 2,
+  "version": 3,
   "minimumAppVersion": 1,
   "maintenance": false,
   "maintenanceMessage": "",
   "sites": [
     {
       "id": "hdfilmizle",
-      "enabled": true,
+      "enabled": false,
       "priority": 1,
       "domain": "https://hdfilmizle.now",
       "resolver": "vidrame",
