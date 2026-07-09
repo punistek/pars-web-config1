@@ -1,7 +1,7 @@
 {
-  "version": 6,
+  "version": 7,
   "minimumAppVersion": 1,
-  "maintenance": false,
+  "maintenance": true,
   "maintenanceMessage": "",
   "sites": [
     {
@@ -22,7 +22,7 @@
     },
     {
       "id": "hdfilmcehennemi",
-      "enabled": true,
+      "enabled": false,
       "priority": 2,
       "domain": "https://www.hdfilmcehennemi.nl",
       "provider": "auto",
