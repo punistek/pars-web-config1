@@ -21,7 +21,7 @@
       "id": "hdfilmcehennemi",
       "enabled": true,
       "priority": 2,
-      "domain": "https://www.hdfilmcehennemi.nl",
+      "domain": "https://www.hdfilmcehennemii.nl",
       "resolver": "rapid_close",
       "iframeSelector": "iframe",
       "playSelector": ".part-tab, .player-tab, button, a",
@@ -42,6 +42,19 @@
       "headers": {
         "Referer": "https://filmmakinesi.to/"
       }
-    }
+    },
+    {
+  "id": "fullhdfilmizlesene",
+  "enabled": true,
+  "priority": 4,
+  "domain": "https://www.fullhdfilmizlesene.life",
+  "resolver": "rapid_close",
+  "iframeSelector": "iframe",
+  "playSelector": ".ply, #play-video, .part-selector a, button",
+  "masterRegex": "master\\.m3u8|1080.*\\.m3u8|720.*\\.m3u8|index.*\\.m3u8",
+  "headers": {
+    "Referer": "https://www.fullhdfilmizlesene.life/"
+  }
+}
   ]
 }
