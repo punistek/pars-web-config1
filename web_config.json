@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "minimumAppVersion": 1,
   "maintenance": false,
   "maintenanceMessage": "",
@@ -18,9 +18,22 @@
       }
     },
     {
-      "id": "filmmakinesi",
+      "id": "hdfilmcehennemi",
       "enabled": true,
       "priority": 2,
+      "domain": "https://www.hdfilmcehennemii.nl",
+      "resolver": "rapid_close",
+      "iframeSelector": "iframe",
+      "playSelector": ".part-tab, .player-tab, button, a",
+      "masterRegex": "master\\.m3u8|1080\\.m3u8|720\\.m3u8|index.*\\.m3u8",
+      "headers": {
+        "Referer": "https://www.hdfilmcehennemi.nl/"
+      }
+    },
+    {
+      "id": "filmmakinesi",
+      "enabled": true,
+      "priority": 3,
       "domain": "https://filmmakinesi.to",
       "resolver": "rapid_close",
       "iframeSelector": "iframe",
