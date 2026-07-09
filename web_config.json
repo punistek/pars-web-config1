@@ -1,54 +1,34 @@
 {
-  "version": 1,
+  "version": 2,
   "minimumAppVersion": 1,
   "maintenance": false,
   "maintenanceMessage": "",
-
   "sites": [
-
     {
       "id": "hdfilmizle",
-
       "enabled": true,
-
       "priority": 1,
-
       "domain": "https://hdfilmizle.now",
-
       "resolver": "vidrame",
-
       "iframeSelector": "iframe.vpx",
-
       "playSelector": ".play-that-video",
-
-      "masterRegex": "master\\.m3u8",
-
+      "masterRegex": "master\\.m3u8|1080\\.m3u8|720\\.m3u8|index.*\\.m3u8",
       "headers": {
         "Referer": "https://hdfilmizle.now/"
       }
     },
-
     {
       "id": "filmmakinesi",
-
       "enabled": true,
-
       "priority": 2,
-
       "domain": "https://filmmakinesi.to",
-
       "resolver": "rapid_close",
-
       "iframeSelector": "iframe",
-
-      "playSelector": ".play-button",
-
-      "masterRegex": "master\\.m3u8|index.*\\.m3u8",
-
+      "playSelector": ".before-player, .after-player, .video-parts a[data-video_url]",
+      "masterRegex": "master\\.(m3u8|txt)|index.*\\.m3u8|playlist\\.txt",
       "headers": {
         "Referer": "https://filmmakinesi.to/"
       }
     }
-
   ]
 }
