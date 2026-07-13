@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "minimumAppVersion": 1,
   "maintenance": false,
   "maintenanceMessage": "",
@@ -28,19 +28,6 @@
       "masterRegex": "master\\.(m3u8|txt)|index.*\\.m3u8|playlist\\.txt",
       "headers": {
         "Referer": "https://filmmakinesi.to/"
-      }
-    },
-    {
-      "id": "fullhdfilmizlesene",
-      "enabled": false,
-      "priority": 3,
-      "domain": "https://www.fullhdfilmizlesene.life",
-      "resolver": "fullhd_webview",
-      "iframeSelector": "iframe, .izle iframe, .player iframe, .video iframe",
-      "playSelector": ".play, .play-button, .jw-icon-display, .vjs-big-play-button, .plyr__control--overlaid, [class*=play], [id*=play], video",
-      "masterRegex": "master\\.m3u8|1080\\.m3u8|720\\.m3u8|index.*\\.m3u8|playlist.*\\.m3u8",
-      "headers": {
-        "Referer": "https://www.fullhdfilmizlesene.life/"
       }
     }
   ]
