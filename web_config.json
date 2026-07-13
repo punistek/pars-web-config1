@@ -1,12 +1,12 @@
 {
-  "version": 6,
+  "version": 7,
   "minimumAppVersion": 1,
   "maintenance": false,
   "maintenanceMessage": "",
   "sites": [
     {
       "id": "hdfilmizle",
-      "enabled": false,
+      "enabled": true,
       "priority": 1,
       "domain": "https://hdfilmizle.now",
       "resolver": "vidrame",
@@ -19,7 +19,7 @@
     },
     {
       "id": "filmmakinesi",
-      "enabled": false,
+      "enabled": true,
       "priority": 2,
       "domain": "https://filmmakinesi.to",
       "resolver": "rapid_close",
@@ -32,7 +32,7 @@
     },
     {
       "id": "fullhdfilmizlesene",
-      "enabled": true,
+      "enabled": false,
       "priority": 3,
       "domain": "https://www.fullhdfilmizlesene.life",
       "resolver": "fullhd_webview",
