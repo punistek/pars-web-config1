@@ -1,0 +1,10 @@
+[Unit]
+Description=Update Vavoo M3U every 4 hours
+
+[Timer]
+OnCalendar=*-*-* 00/4:13:00
+Persistent=true
+Unit=vavoo.service
+
+[Install]
+WantedBy=timers.target

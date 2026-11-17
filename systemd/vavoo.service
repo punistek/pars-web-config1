@@ -1,0 +1,11 @@
+[Unit]
+Description=Vavoo Standalone M3U Updater
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=ubuntu
+WorkingDirectory=/opt/vavoo-m3u-bot
+ExecStart=/usr/bin/python3 /opt/vavoo-m3u-bot/vavoo_bot.py
+TimeoutStartSec=3300

@@ -1,0 +1,17 @@
+{
+  "source_url": "https://www2.vavoo.to/live2/index?output=m3u8",
+  "output_dir": "output",
+  "timeout_seconds": 9,
+  "workers": 16,
+  "check_hls_segments": true,
+  "deduplicate_channels": true,
+  "minimum_publish": 1,
+  "allow_private_urls": false,
+  "xmltv_url": "",
+  "epg_overrides": "epg_overrides.json",
+  "metadata": {
+    "enabled": true,
+    "channels_url": "https://iptv-org.github.io/api/channels.json",
+    "logos_url": "https://iptv-org.github.io/api/logos.json"
+  }
+}
