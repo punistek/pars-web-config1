@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Standalone Vavoo M3U builder: fetch, parse, enrich, probe and publish.
+"""Vavoo playlist publisher: preserve all source channels, report URL changes.
 
 Requires: Python 3.11+, requests. Does not attempt authentication bypass or proxying.
 """
 from __future__ import annotations
 
 import argparse
-from collections import Counter, defaultdict
+from collections import Counter, defaultdict, deque
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
@@ -58,7 +58,9 @@ class Channel:
     logo: str = ''
     country: str = ''
     headers: dict[str, str] = field(default_factory=dict)
-    status: str = ''
+    status: str = 'not_checked'
+    url_status: str = ''
+    previous_url: str = ''
 
 
 def clean_text(text: Any) -> str:
@@ -290,6 +292,10 @@ def infer_country(ch: Channel) -> str:
     if re.fullmatch(r'[A-Za-z]{2}', ch.country):
         return ch.country.upper()
     for raw in (ch.group,):
+        # Allow country + subcategory names such as 'Turkey Sport' / 'Türk Haber'.
+        group_ascii = unicodedata.normalize('NFKD', raw.casefold()).encode('ascii', 'ignore').decode()
+        if re.match(r'^\s*(?:turkey|turkiye|turk|tr)\b', group_ascii):
+            return 'TR'
         words = re.split(r'\s*[|/,:\-]\s*', raw)
         for part in [raw, *words]:
             code = COUNTRY_ALIASES.get(unicodedata.normalize('NFKD', part.casefold()).encode('ascii', 'ignore').decode().strip())
@@ -488,16 +494,101 @@ def read_json(path: Path) -> Any:
     return json.loads(path.read_text(encoding='utf-8-sig'))
 
 
-def deduplicate(channels: list[Channel]) -> list[Channel]:
-    seen = set()
-    output: list[Channel] = []
+def load_previous_entries(out_dir: Path) -> list[dict[str, Any]]:
+    """Load previous URLs, expanding legacy 'sources' without counting them twice."""
+    previous_path = out_dir / 'vavoo.json'
+    if not previous_path.exists():
+        return []
+    try:
+        previous = read_json(previous_path)
+    except (OSError, ValueError) as exc:
+        LOG.warning('Önceki JSON okunamadı; URL değişimi geçmişi sıfır: %s', exc)
+        return []
+    if not isinstance(previous, list):
+        LOG.warning('Önceki JSON kanal listesi değil; URL değişimi geçmişi sıfır')
+        return []
+    flattened: list[dict[str, Any]] = []
+    for entry in previous:
+        if not isinstance(entry, dict):
+            continue
+        variants = entry.get('sources')
+        if not isinstance(variants, list) or not variants:
+            variants = [entry]
+        for item in variants:
+            if isinstance(item, dict) and isinstance(item.get('url'), str):
+                flattened.append({'name': entry.get('name', ''),
+                                  'group': entry.get('group', 'Diğer'),
+                                  'url': item['url']})
+    return flattened
+
+
+def compare_channel_urls(channels: list[Channel], previous: list[dict[str, Any]]) -> dict[str, Any]:
+    """Multiset comparison of URLs within name+group.
+
+    Match exact URLs first, then pair unmatched URLs as changes. This handles
+    multiple sources for one channel without discarding any alternative.
+    """
+    current_groups: dict[tuple[str, str], list[Channel]] = defaultdict(list)
+    previous_groups: dict[tuple[str, str], list[dict[str, str]]] = defaultdict(list)
     for ch in channels:
-        # Keep same channel in different groups, remove repeated channel+group entries.
-        key = (key_name(ch.group), key_name(ch.name))
-        if key not in seen:
-            seen.add(key)
-            output.append(ch)
-    return output
+        current_groups[(key_name(ch.group), key_name(ch.name))].append(ch)
+    for item in previous:
+        if not item.get('url'):
+            continue
+        group = key_name(item.get('group', 'Diğer'))
+        name = key_name(item.get('name', ''))
+        previous_groups[(group, name)].append({'url': str(item['url']),
+                                               'name': str(item.get('name', '')),
+                                               'group': str(item.get('group', 'Diğer'))})
+
+    changes: list[dict[str, str]] = []
+    removed: list[dict[str, str]] = []
+    counts: Counter[str] = Counter()
+    for key in sorted(set(current_groups) | set(previous_groups)):
+        now = current_groups.get(key, [])
+        before = previous_groups.get(key, [])
+        by_url: dict[str, deque[int]] = defaultdict(deque)
+        for i, item in enumerate(before):
+            by_url[item['url']].append(i)
+        consumed: set[int] = set()
+        unmatched: list[Channel] = []
+        for channel in now:
+            old_matches = by_url.get(channel.url)
+            if old_matches:
+                consumed.add(old_matches.popleft())
+                channel.url_status = 'unchanged'
+                counts['unchanged'] += 1
+            else:
+                unmatched.append(channel)
+        remaining = [item for i, item in enumerate(before) if i not in consumed]
+        for channel, old in zip(unmatched, remaining):
+            old_url = old['url']
+            channel.url_status = 'changed'
+            channel.previous_url = old_url
+            counts['changed'] += 1
+            changes.append({'name': channel.name, 'group': channel.group,
+                            'old_url': old_url, 'new_url': channel.url})
+        for channel in unmatched[len(remaining):]:
+            channel.url_status = 'new'
+            counts['new'] += 1
+        for old in remaining[len(unmatched):]:
+            counts['removed'] += 1
+            removed.append({'name': old['name'], 'group': old['group'],
+                            'old_url': old['url']})
+    return {'unchanged': counts['unchanged'], 'changed': counts['changed'],
+            'new': counts['new'], 'removed': counts['removed'],
+            'changes': changes, 'removed_entries': removed}
+
+
+def channel_json(channel: Channel) -> dict[str, Any]:
+    return {'name': channel.name, 'url': channel.url, 'group': channel.group,
+            'tvg_id': channel.tvg_id, 'logo': channel.logo,
+            'country': infer_country(channel), 'headers': channel.headers,
+            'probe': channel.status, 'url_status': channel.url_status,
+            'previous_url': channel.previous_url,
+            # This entry is an independent source; no alternatives are collapsed.
+            'sources': [{'url': channel.url, 'headers': channel.headers,
+                         'probe': channel.status}]}
 
 
 def build(settings: dict[str, Any], path: Path) -> dict[str, Any]:
@@ -510,13 +601,29 @@ def build(settings: dict[str, Any], path: Path) -> dict[str, Any]:
     LOG.info('Kaynak alınıyor: %s', source)
     b, ct, origin = get_bytes(source, {}, timeout, 24_000_000, allow_private=allow_private)
     content = b.decode('utf-8-sig', errors='replace')
-    if content.lstrip().startswith(('{','[')) or 'json' in ct:
+    if content.lstrip().startswith(('{', '[')) or 'json' in ct:
         channels = parse_json(content, origin)
     else:
         channels = parse_m3u(content, origin)
-    LOG.info('Ham kanal: %d', len(channels))
+    LOG.info('Kaynaktaki toplam kanal: %d', len(channels))
     if not channels:
-        raise RuntimeError('Hiç kanal bulunamadı; eski liste korunuyor')
+        raise RuntimeError('Kaynakta kanal bulunamadı; eski liste korunuyor')
+
+    # Never let a temporary empty/partial upstream response replace a full list.
+    minimum_source = max(1, int(settings.get('minimum_source_channels', 1)))
+    if len(channels) < minimum_source:
+        raise RuntimeError(f'Kaynak kanal sayısı {len(channels)} < {minimum_source}; eski liste korunuyor')
+    previous_status_path = out_dir / 'status.json'
+    previous_status = {}
+    if previous_status_path.exists():
+        try:
+            previous_status = read_json(previous_status_path)
+        except (OSError, ValueError):
+            pass
+    previous_total = previous_status.get('input_channels', 0) if isinstance(previous_status, dict) else 0
+    min_ratio = float(settings.get('minimum_source_ratio', 0))
+    if previous_total and min_ratio > 0 and len(channels) < int(previous_total * min_ratio):
+        raise RuntimeError(f'Kaynak aniden küçüldü ({previous_total} -> {len(channels)}); eski liste korunuyor')
 
     meta = Metadata(settings.get('metadata', {}), timeout)
     meta.load()
@@ -524,57 +631,81 @@ def build(settings: dict[str, Any], path: Path) -> dict[str, Any]:
     overrides = read_json(override_path) if override_path.exists() else {}
     for ch in channels:
         meta.enrich(ch, overrides)
-    unique_urls: dict[tuple[str, tuple[tuple[str, str], ...]], Channel] = {}
-    for ch in channels:
-        unique_urls.setdefault((ch.url, tuple(sorted(ch.headers.items()))), ch)
-    check_segments = bool(settings.get('check_hls_segments', True))
-    LOG.info('Benzersiz test adresi: %d / işçi: %d', len(unique_urls), workers)
-    checked: dict[tuple[str, tuple[tuple[str, str], ...]], tuple[bool, str]] = {}
-    with ThreadPoolExecutor(max_workers=workers) as executor:
-        futures = {executor.submit(probe, ch, timeout, check_segments, allow_private): key
-                   for key, ch in unique_urls.items()}
-        for future in as_completed(futures):
-            checked[futures[future]] = future.result()
-    good: list[Channel] = []
+
+    # URL-change checking compares SOURCE URLs over consecutive runs. This is
+    # deliberately not a stream health check, so offline/slow sources stay listed.
+    comparisons = compare_channel_urls(channels, load_previous_entries(out_dir))
+    probe_mode = str(settings.get('probe_mode', 'url_change_only')).strip().lower()
+    if probe_mode not in ('url_change_only', 'health_report_only'):
+        raise ValueError('probe_mode: url_change_only veya health_report_only olmalı')
     errors: Counter[str] = Counter()
-    for ch in channels:
-        key = (ch.url, tuple(sorted(ch.headers.items())))
-        ok, reason = checked[key]
-        ch.status = reason
-        if ok:
-            good.append(ch)
-        else:
-            errors[reason] += 1
-    LOG.info('Sağlam: %d, başarısız: %d', len(good), len(channels)-len(good))
-    # Preserve every healthy alternative in JSON, while the M3U presents one
-    # canonical entry per channel+group for broad IPTV-player compatibility.
-    alternatives: dict[tuple[str, str], list[Channel]] = defaultdict(list)
-    for ch in good:
-        alternatives[(key_name(ch.group), key_name(ch.name))].append(ch)
-    if bool(settings.get('deduplicate_channels', True)):
-        good = deduplicate(good)
-    good.sort(key=lambda c: (key_name(c.group), key_name(c.name), c.url))
-    min_publish = max(1, int(settings.get('minimum_publish', 1)))
-    if len(good) < min_publish:
-        raise RuntimeError(f'Sağlam kanal {len(good)} < alt sınır {min_publish}; eski liste korunuyor')
+    passed = failed = 0
+    unique_urls: dict[tuple[str, tuple[tuple[str, str], ...]], Channel] = {}
+    if probe_mode == 'health_report_only':
+        for ch in channels:
+            unique_urls.setdefault((ch.url, tuple(sorted(ch.headers.items()))), ch)
+        LOG.info('Bilgilendirme amaçlı yayın testi: %d URL (listeden eleme yok)', len(unique_urls))
+        checked: dict[tuple[str, tuple[tuple[str, str], ...]], tuple[bool, str]] = {}
+        with ThreadPoolExecutor(max_workers=workers) as executor:
+            futures = {executor.submit(probe, ch, timeout, bool(settings.get('check_hls_segments', False)), allow_private): key
+                       for key, ch in unique_urls.items()}
+            for future in as_completed(futures):
+                checked[futures[future]] = future.result()
+        for ch in channels:
+            ok, reason = checked[(ch.url, tuple(sorted(ch.headers.items())))]
+            ch.status = reason
+            if ok:
+                passed += 1
+            else:
+                failed += 1
+                errors[reason] += 1
+
+    # Full means full: no filtering on health and no name/URL deduplication.
+    # Keep source ordering; it is stable and preserves alternative streams.
+    turkey = [ch for ch in channels if infer_country(ch) == 'TR']
+    min_turkey = max(0, int(settings.get('minimum_turkey_channels', 0)))
+    if len(turkey) < min_turkey:
+        raise RuntimeError(f'Türkiye kanal sayısı {len(turkey)} < {min_turkey}; eski liste korunuyor')
+    prior_turkey = previous_status.get('turkey_channels', 0) if isinstance(previous_status, dict) else 0
+    min_turkey_ratio = float(settings.get('minimum_turkey_ratio', 0))
+    if prior_turkey and min_turkey_ratio > 0 and len(turkey) < int(prior_turkey * min_turkey_ratio):
+        raise RuntimeError(f'Türkiye kaynağı aniden küçüldü ({prior_turkey} -> {len(turkey)}); eski liste korunuyor')
     epg_url = str(settings.get('xmltv_url') or '')
-    m3u = output_m3u(good, epg_url)
-    atomic_write(out_dir / 'vavoo.m3u', m3u)
-    atomic_write(out_dir / 'vavoo.json', json.dumps([
-        {'name': c.name, 'url': c.url, 'group': c.group, 'tvg_id': c.tvg_id,
-         'logo': c.logo, 'country': infer_country(c), 'headers': c.headers, 'probe': c.status,
-         'sources': [{'url': alt.url, 'headers': alt.headers, 'probe': alt.status}
-                     for alt in alternatives[(key_name(c.group), key_name(c.name))]]}
-        for c in good], ensure_ascii=False, indent=2) + '\n')
-    report = {'updated_at_utc': started, 'source': source, 'input_channels': len(channels),
-              'unique_test_urls': len(unique_urls), 'passed_before_deduplication': len([c for c in channels if checked[(c.url, tuple(sorted(c.headers.items())))][0]]),
-              'published_channels': len(good), 'failed_channels': len(channels) - sum(1 for c in channels if checked[(c.url, tuple(sorted(c.headers.items())))][0]),
-              'with_epg_id': sum(bool(c.tvg_id) for c in good),
-              'with_logo': sum(bool(c.logo) for c in good),
-              'groups': dict(sorted(Counter(c.group for c in good).items())),
-              'sample_errors': dict(errors.most_common(15))}
-    atomic_write(out_dir / 'status.json', json.dumps(report, ensure_ascii=False, indent=2) + '\n')
-    LOG.info('Yayınlandı: %s (%d kanal)', out_dir / 'vavoo.m3u', len(good))
+    all_json = [channel_json(ch) for ch in channels]
+    turkey_json = [channel_json(ch) for ch in turkey]
+    report = {
+        'updated_at_utc': started, 'source': source,
+        'input_channels': len(channels), 'published_channels': len(channels),
+        'turkey_channels': len(turkey), 'probe_mode': probe_mode,
+        'health_checked_urls': len(unique_urls), 'health_passed': passed,
+        'health_failed': failed, 'not_removed_due_to_failed_probe': failed,
+        'url_unchanged': comparisons['unchanged'],
+        'url_changed': comparisons['changed'], 'url_new': comparisons['new'],
+        'url_removed_from_source': comparisons['removed'],
+        'with_epg_id': sum(bool(c.tvg_id) for c in channels),
+        'with_logo': sum(bool(c.logo) for c in channels),
+        'groups': dict(sorted(Counter(c.group for c in channels).items())),
+        'sample_errors': dict(errors.most_common(15))
+    }
+    url_report = {'updated_at_utc': started, 'source': source,
+                  'unchanged': comparisons['unchanged'],
+                  'changed': comparisons['changed'], 'new': comparisons['new'],
+                  'removed': comparisons['removed'],
+                  'changes': comparisons['changes'],
+                  'removed_entries': comparisons['removed_entries']}
+    # Complete all validation and output serialization before writing to disk.
+    contents = {
+        'vavoo.m3u': output_m3u(channels, epg_url),
+        'vavoo.json': json.dumps(all_json, ensure_ascii=False, indent=2) + '\n',
+        'turkiye.m3u': output_m3u(turkey, epg_url),
+        'turkiye.json': json.dumps(turkey_json, ensure_ascii=False, indent=2) + '\n',
+        'url_changes.json': json.dumps(url_report, ensure_ascii=False, indent=2) + '\n',
+        'status.json': json.dumps(report, ensure_ascii=False, indent=2) + '\n',
+    }
+    for filename, payload in contents.items():
+        atomic_write(out_dir / filename, payload)
+    LOG.info('Tam liste: %d | Türkiye: %d | Değişen URL: %d | Kaynaktan silinen: %d',
+             len(channels), len(turkey), comparisons['changed'], comparisons['removed'])
     return report
 
 

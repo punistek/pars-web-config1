@@ -51,14 +51,6 @@ class TestParse(unittest.TestCase):
         channels = bot.parse_json(json.dumps(data), 'https://www2.vavoo.to/')
         self.assertEqual(channels[0].group, 'Turkey')
 
-    def test_dedup(self):
-        entries = [
-            bot.Channel('TRT 1 HD', 'https://a.example/1', group='TR'),
-            bot.Channel('TRT-1 HD', 'https://a.example/2', group='TR'),
-            bot.Channel('TRT 1 HD', 'https://a.example/3', group='DE'),
-        ]
-        self.assertEqual(len(bot.deduplicate(entries)), 2)
-
     def test_output_m3u(self):
         ch = bot.Channel('Example TV', 'https://video.example/live.m3u8',
                          'TR', 'example.tr', 'https://example.com/logo.png',
@@ -121,27 +113,110 @@ class TestValidation(unittest.TestCase):
                     bot.build(config, root / 'config.json')
             self.assertEqual(playlist.read_text(), 'PREVIOUS HEALTHY PLAYLIST')
 
-    def test_build_selects_healthy_alternative(self):
+    def test_build_publishes_every_valid_channel_without_probing(self):
         with tempfile.TemporaryDirectory() as folder:
             root = Path(folder)
             config = {'source_url': 'https://source.example/index.m3u', 'timeout_seconds': 4,
-                      'workers': 2, 'metadata': {'enabled': False}, 'minimum_publish': 1}
+                      'workers': 2, 'metadata': {'enabled': False},
+                      'probe_mode': 'url_change_only'}
             def fake_bytes(url, headers, timeout, max_bytes, **kwargs):
                 if 'source.example' in url:
                     return EXAMPLE_M3U.encode(), 'application/x-mpegurl', url
                 raise AssertionError(url)
-            def fake_probe(ch, timeout, check_segments, allow_private):
-                return (False, 'http 404') if 'broken' in ch.url or 'trt.m3u8' in ch.url else (True, 'mock_live')
             with patch.object(bot, 'get_bytes', side_effect=fake_bytes), \
+                 patch.object(bot, 'probe', side_effect=AssertionError('Liveness probe must not run')):
+                report = bot.build(config, root / 'config.json')
+            self.assertEqual(report['published_channels'], 4)
+            self.assertEqual(report['turkey_channels'], 2)
+            self.assertEqual(report['url_new'], 4)
+            self.assertEqual(report['health_checked_urls'], 0)
+            result = (root / 'output' / 'vavoo.m3u').read_text(encoding='utf-8')
+            self.assertEqual(result.count('#EXTINF:'), 4)
+            self.assertIn('https://stream.example/live/trt.m3u8', result)
+            self.assertIn('https://stream.example/live/trt-other.m3u8', result)
+            self.assertIn('https://stream.example/broken.m3u8', result)
+            turkiye = (root / 'output' / 'turkiye.m3u').read_text(encoding='utf-8')
+            self.assertEqual(turkiye.count('#EXTINF:'), 2)
+            self.assertNotIn('Sample TV', turkiye)
+            self.assertEqual(len(json.loads((root / 'output' / 'vavoo.json').read_text())), 4)
+            self.assertEqual(len(json.loads((root / 'output' / 'turkiye.json').read_text())), 2)
+
+    def test_url_change_is_detected_without_dropping_other_sources(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            config = {'source_url': 'https://source.example/index.m3u',
+                      'metadata': {'enabled': False}}
+            body = EXAMPLE_M3U
+            with patch.object(bot, 'get_bytes', return_value=(body.encode(), 'text/plain', config['source_url'])):
+                bot.build(config, root / 'config.json')
+            # One duplicate source URL rotates; the other is unchanged.
+            updated = body.replace('trt-other.m3u8', 'trt-new.m3u8')
+            with patch.object(bot, 'get_bytes', return_value=(updated.encode(), 'text/plain', config['source_url'])):
+                report = bot.build(config, root / 'config.json')
+            self.assertEqual(report['published_channels'], 4)
+            self.assertEqual(report['url_changed'], 1)
+            self.assertEqual(report['url_unchanged'], 3)
+            self.assertEqual(report['url_new'], 0)
+            delta = json.loads((root / 'output' / 'url_changes.json').read_text())
+            self.assertEqual(delta['changes'][0]['old_url'], 'https://stream.example/live/trt-other.m3u8')
+            self.assertEqual(delta['changes'][0]['new_url'], 'https://stream.example/live/trt-new.m3u8')
+            output = json.loads((root / 'output' / 'vavoo.json').read_text())
+            self.assertEqual(sum(c['url_status'] == 'changed' for c in output), 1)
+            self.assertEqual(len(output), 4)
+
+    def test_reordered_alternatives_not_misreported_as_changed(self):
+        before = [
+            {'name': 'TRT', 'group': 'Turkey', 'url': 'https://a.example/a'},
+            {'name': 'TRT', 'group': 'Turkey', 'url': 'https://a.example/b'}]
+        now = [bot.Channel('TRT', 'https://a.example/b', 'Turkey'),
+               bot.Channel('TRT', 'https://a.example/a', 'Turkey')]
+        result = bot.compare_channel_urls(now, before)
+        self.assertEqual(result['unchanged'], 2)
+        self.assertEqual(result['changed'], 0)
+
+    def test_removed_source_is_reported(self):
+        before = [{'name': 'A', 'group': 'Turkey', 'url': 'https://a.example/1'},
+                  {'name': 'B', 'group': 'Turkey', 'url': 'https://a.example/2'}]
+        now = [bot.Channel('A', 'https://a.example/1', 'Turkey')]
+        result = bot.compare_channel_urls(now, before)
+        self.assertEqual(result['removed'], 1)
+        self.assertEqual(result['removed_entries'][0]['name'], 'B')
+
+    def test_turkish_country_detection(self):
+        examples = [bot.Channel('TRT 1', 'https://a.example/a', 'Turkey'),
+                    bot.Channel('TRT 1', 'https://a.example/b', 'Türkiye'),
+                    bot.Channel('TRT 1', 'https://a.example/c', 'TR | Spor'),
+                    bot.Channel('TRT 1', 'https://a.example/d', 'Misc', country='TR')]
+        self.assertTrue(all(bot.infer_country(ch) == 'TR' for ch in examples))
+
+    def test_health_probe_is_report_only(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            config = {'source_url': 'https://source.example/index.m3u',
+                      'metadata': {'enabled': False}, 'probe_mode': 'health_report_only'}
+            def fake_probe(ch, timeout, check_segments, allow_private):
+                return (False, 'HTTP 404') if 'broken' in ch.url else (True, 'mock_live')
+            with patch.object(bot, 'get_bytes', return_value=(EXAMPLE_M3U.encode(), 'text/plain', config['source_url'])), \
                  patch.object(bot, 'probe', side_effect=fake_probe):
                 report = bot.build(config, root / 'config.json')
-            self.assertEqual(report['published_channels'], 2)
-            result = (root / 'output' / 'vavoo.m3u').read_text(encoding='utf-8')
-            self.assertIn('https://stream.example/live/trt-other.m3u8', result)
-            self.assertNotIn('https://stream.example/live/trt.m3u8', result)
-            self.assertNotIn('broken', result)
-            self.assertEqual(json.loads((root / 'output' / 'vavoo.json').read_text())[-1]['group'], 'Turkey')
-            self.assertEqual(len(json.loads((root / 'output' / 'vavoo.json').read_text())[-1]['sources']), 1)
+            self.assertEqual(report['health_failed'], 1)
+            self.assertEqual(report['published_channels'], 4)
+            self.assertEqual(report['not_removed_due_to_failed_probe'], 1)
+
+    def test_partial_source_does_not_overwrite_previous_outputs(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            cfg = {'source_url': 'https://source.example/index.m3u',
+                   'metadata': {'enabled': False},
+                   'minimum_source_ratio': 0.8}
+            with patch.object(bot, 'get_bytes', return_value=(EXAMPLE_M3U.encode(), 'text/plain', cfg['source_url'])):
+                bot.build(cfg, root / 'config.json')
+            previous = (root / 'output' / 'vavoo.m3u').read_text()
+            reduced = EXAMPLE_M3U.split('#EXTINF:-1 group-title="Germany",Sample TV')[0]
+            with patch.object(bot, 'get_bytes', return_value=(reduced.encode(), 'text/plain', cfg['source_url'])):
+                with self.assertRaisesRegex(RuntimeError, 'Kaynak aniden küçüldü'):
+                    bot.build(cfg, root / 'config.json')
+            self.assertEqual((root / 'output' / 'vavoo.m3u').read_text(), previous)
 
 
 if __name__ == '__main__':
