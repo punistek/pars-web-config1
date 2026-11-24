@@ -1,2913 +1,3598 @@
 {
-  "updated_at_utc": "2026-11-24T02:53:07+00:00",
+  "updated_at_utc": "2026-11-24T14:48:43+00:00",
   "source": "https://www2.vavoo.to/live2/index?output=m3u8",
-  "unchanged": 9039,
+  "unchanged": 8846,
   "changed": 1,
-  "new": 523,
-  "removed": 579,
+  "new": 567,
+  "removed": 716,
   "changes": [
     {
-      "name": "SKY KRIMI HD (BACKUP) (1)",
-      "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3979079292.m3u8",
-      "new_url": "https://vavoo.to/live2/play3/2969860284.m3u8"
+      "name": "4 MUSIC (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/736546194.m3u8",
+      "new_url": "https://vavoo.to/live2/play3/3252427628.m3u8"
     }
   ],
   "removed_entries": [
     {
-      "name": "AMOL TV (6)",
+      "name": "8OVA DRAME (7)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/4194896858.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4095030988.m3u8"
     },
     {
-      "name": "CIFTELI TV (6)",
+      "name": "ABC STORY (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2908446371.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/413654390.m3u8"
     },
     {
-      "name": "DARK PRIME 1 (7)",
+      "name": "ALB ISLAM (1)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2304157507.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1779579735.m3u8"
     },
     {
-      "name": "DARK PRIME 3 (7)",
+      "name": "ALBKANALE MUZIK (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/4086756387.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/245423842.m3u8"
     },
     {
-      "name": "EUROSPORT 1 (1)",
+      "name": "ANIMAL PLANET HD (1)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/932736266.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3225026685.m3u8"
     },
     {
-      "name": "FILM BOX ARTHOUSE (7)",
+      "name": "APOLLON TV (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/3709985633.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/963000117.m3u8"
     },
     {
-      "name": "FILM BOX PLUS (7)",
+      "name": "ARABIYA AL HADATH (FHD) [NOT 24/7] (1)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/985970962.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/618341186.m3u8"
     },
     {
-      "name": "FILM GOLD 4 (1)",
+      "name": "ART GURMANIA (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2898591747.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2278058852.m3u8"
     },
     {
-      "name": "HAYAT TV (720P) (1)",
+      "name": "ASHKALI TV (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/1022337640.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/532224411.m3u8"
     },
     {
-      "name": "IRAQIA NEWS (720P) (1)",
+      "name": "ASHK TV 2 (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2405636391.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/375179453.m3u8"
     },
     {
-      "name": "JAZEERA MUBASHER (FHD) (1)",
+      "name": "ASHK TV 3 (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/314704738.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/725410061.m3u8"
     },
     {
-      "name": "KUJTESA SPORT 1 [LIVE DURING EVENTS ONLY] (7)",
+      "name": "BBF MUSIC TV (1)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/158095501.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2409719353.m3u8"
     },
     {
-      "name": "KUJTESA SPORT 3 [LIVE DURING EVENTS ONLY] (7)",
+      "name": "BESA TV (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/346261807.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2714601883.m3u8"
     },
     {
-      "name": "LIONTV PARLAMENTI (6)",
+      "name": "DING DONG (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2096357028.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2464464221.m3u8"
     },
     {
-      "name": "L-STAR FILM SHQIP (6)",
+      "name": "FILMA24 HINDI (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2275532820.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/795212720.m3u8"
     },
     {
-      "name": "L-STAR HALO (6)",
+      "name": "FILMA24 WESTERN (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/1610390688.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2706625286.m3u8"
     },
     {
-      "name": "LUGINA ISLAM 2 (1)",
+      "name": "HBO 3 (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2414744747.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/431438664.m3u8"
     },
     {
-      "name": "MAALI TV (FHD) (1)",
+      "name": "INVESTIGATION DISCOVERY (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/138464088.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1343767757.m3u8"
     },
     {
-      "name": "MANAR (576P) [NOT 24/7] (1)",
+      "name": "JAZEERA DOCUMENTARY (270P) [GEO-BLOCKED] (BACKUP) (1)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2623142807.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3395317453.m3u8"
     },
     {
-      "name": "MASIRAH MUBACHER (642P) [NOT 24/7] (1)",
+      "name": "KS ISLAM FILM (1)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/356539331.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1719232329.m3u8"
     },
     {
-      "name": "MIMI TV (1)",
+      "name": "KUJTESA SPORT 2 [LIVE DURING EVENTS ONLY] (7)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/624572729.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/440689150.m3u8"
     },
     {
-      "name": "NAEEM (1)",
+      "name": "LIONTV SHQIP (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/3663179118.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1846025622.m3u8"
     },
     {
-      "name": "ONEPLAY NETFLIX (6)",
+      "name": "L-STAR DASMA (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2941752943.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3327615067.m3u8"
     },
     {
-      "name": "ONEPLAY PRIME 2 (6)",
+      "name": "L-STAR KIDS (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/4288753390.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2883530186.m3u8"
     },
     {
-      "name": "ONEPLAY PRIME DRAMA (6)",
+      "name": "L-STAR LA CASA DE PAPEL (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/1504621997.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3758587271.m3u8"
     },
     {
-      "name": "OPINIONI (1)",
+      "name": "L-STAR MASHA & BEAR (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/504930965.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/750742467.m3u8"
     },
     {
-      "name": "PANORAMA TV (6)",
+      "name": "L-STAR MIXHA BIBE & MARTIN (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2428038388.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2591219798.m3u8"
     },
     {
-      "name": "RTSH SPORT (BACKUP) (7)",
+      "name": "L-STAR QUMILI (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/223121889.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4159723727.m3u8"
     },
     {
-      "name": "SHQIPTV ISLAM (1)",
+      "name": "L-STAR SUPERMAN & LOIS (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2857646144.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3934082092.m3u8"
     },
     {
-      "name": "SKY AKSION (6)",
+      "name": "MUSIC HITS (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/1016873733.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/344556301.m3u8"
     },
     {
-      "name": "SKY KOMEDI (1)",
+      "name": "OPOJA TV (1)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/1935753102.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2685175241.m3u8"
     },
     {
-      "name": "SPORT KOSOVA 2 (7)",
+      "name": "ORA NEWS (7)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2130501094.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4001707878.m3u8"
     },
     {
-      "name": "STAR+ SHKODER (7)",
+      "name": "PEACE TV (1)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/745048528.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/922818527.m3u8"
     },
     {
-      "name": "SUPER SPORT 1 (7)",
+      "name": "POLLOGU (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/785975158.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/387304128.m3u8"
     },
     {
-      "name": "SUPER SPORT 6 [LIVE DURING EVENTS ONLY] (7)",
+      "name": "PREMIERE 5 (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/1254469653.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1182936179.m3u8"
     },
     {
-      "name": "SYRI VISION (1)",
+      "name": "PREMIER SPORTS 2 [LIVE DURING EVENTS ONLY] (7)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/3314489412.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2346606368.m3u8"
     },
     {
-      "name": "TALEEA (1)",
+      "name": "PRO 1 (7)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/167416512.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1696086185.m3u8"
     },
     {
-      "name": "TEMA TV (6)",
+      "name": "RAYYAN (FHD) (1)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2206998256.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/602542137.m3u8"
     },
     {
-      "name": "TETOVA TV (1)",
+      "name": "RTK 1 SAT (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2112286118.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3484404301.m3u8"
     },
     {
-      "name": "TEVE SHQIP (6)",
+      "name": "RTSH KUKESI (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2784295539.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1276376252.m3u8"
     },
     {
-      "name": "TRING COMEDY (1)",
+      "name": "RTV 21 MIX (1)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2692794012.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2762986130.m3u8"
     },
     {
-      "name": "TRING INTERNATIONAL (7)",
+      "name": "TELE ONE AKSION (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/928361076.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2223120732.m3u8"
     },
     {
-      "name": "TV 21 MACEDONIA (6)",
+      "name": "TELE ONE CRIME (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/3087469928.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3760491023.m3u8"
     },
     {
-      "name": "TV2 GOSTIVAR (6)",
+      "name": "TELE ONE DRAMA (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/183143528.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1110052705.m3u8"
     },
     {
-      "name": "TV TEMA FERIZAJ (7)",
+      "name": "TIBO ACTION (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2333935208.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3462334104.m3u8"
     },
     {
-      "name": "X FILMA 24 (7)",
+      "name": "TIBO SERIALE (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/1641803616.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3024604470.m3u8"
     },
     {
-      "name": "X PREMIUM 2 HD (1)",
+      "name": "TLC (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/2795053174.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4152080488.m3u8"
     },
     {
-      "name": "X SCI-FI HD (1)",
+      "name": "TV VUSHTRIA MUZIK (6)",
       "group": "Albania",
-      "old_url": "https://vavoo.to/live2/play3/915068564.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1575852682.m3u8"
     },
     {
-      "name": "13MAX TELEVISIÓN (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3991265348.m3u8"
-    },
-    {
-      "name": "2M TNT (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3811837368.m3u8"
-    },
-    {
-      "name": "5 SATELITAL (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/609422302.m3u8"
-    },
-    {
-      "name": "AD SPORTS 1 HD (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2062676246.m3u8"
-    },
-    {
-      "name": "AFC NO LOGO (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2255542168.m3u8"
-    },
-    {
-      "name": "AFLAMTV.7.MAROC (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2921580251.m3u8"
-    },
-    {
-      "name": "AL-ANBAR (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2232445384.m3u8"
-    },
-    {
-      "name": "AL ASSEMA (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3578074743.m3u8"
-    },
-    {
-      "name": "ALBAEENAH IRAQ (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2484780131.m3u8"
-    },
-    {
-      "name": "AL EKHBARIYA (BACKUP) (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1587019556.m3u8"
-    },
-    {
-      "name": "AL-FADY TV (FHD) [NOT 24/7] (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2485060672.m3u8"
-    },
-    {
-      "name": "ALFA MUSALSALAT 2 HD (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/982223163.m3u8"
-    },
-    {
-      "name": "(ALGERIA) CNA TV (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/907894234.m3u8"
-    },
-    {
-      "name": "AL JANOUBIA TNT (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2882391785.m3u8"
-    },
-    {
-      "name": "AL NAHAR DRAMA (BACKUP) (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2607752088.m3u8"
-    },
-    {
-      "name": "AL QUDS.PALESTINE (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3391998326.m3u8"
-    },
-    {
-      "name": "AL RASHEED TV (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2850127184.m3u8"
-    },
-    {
-      "name": "AL SERAJ.PALESTINE (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3299459476.m3u8"
-    },
-    {
-      "name": "AL SUMARIA TV (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3046258668.m3u8"
-    },
-    {
-      "name": "AUNAR (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1907656231.m3u8"
-    },
-    {
-      "name": "B4U AFLAM (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1784553821.m3u8"
-    },
-    {
-      "name": "BEIN PREMUIM1 HD (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1752169326.m3u8"
-    },
-    {
-      "name": "BEIN SPORTS 1 PREMIUM 4K H265 (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/849681587.m3u8"
-    },
-    {
-      "name": "BEIN SPORTS 1 PREMIUM HEVC (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1697037782.m3u8"
-    },
-    {
-      "name": "BEIN SPORTS 2 HD LOCAL (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/104108606.m3u8"
-    },
-    {
-      "name": "BEIN SPORTS 3 PREMIUM HEVC (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1626527317.m3u8"
-    },
-    {
-      "name": "BEIN SPORTS 4 HD LOCAL (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/4277590408.m3u8"
-    },
-    {
-      "name": "BEIN SPORTS 5 HD (BACKUP) (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2515267925.m3u8"
-    },
-    {
-      "name": "BEIN SPORTS 7 (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3523388500.m3u8"
-    },
-    {
-      "name": "BEIN SPORTS 7 HD LOCAL (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2190998611.m3u8"
-    },
-    {
-      "name": "BEIN SPORTS AFC 1 HEVC (1)",
-      "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/673071392.m3u8"
+      "name": "ZERI TV (6)",
+      "group": "Albania",
+      "old_url": "https://vavoo.to/live2/play3/1902552035.m3u8"
     },
     {
-      "name": "BEIN SPORTS AFC 3 HEVC (1)",
+      "name": "AL AOULA LAYOUNE (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/753635613.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1149103615.m3u8"
     },
     {
-      "name": "BEIN SPORTS AFC 3 SD (1)",
+      "name": "ALARABY TV (FHD) (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3361736093.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2421008256.m3u8"
     },
     {
-      "name": "BEIN SPORTS AFC 3 ULTRA 4K (1)",
+      "name": "AL FANN (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/672328865.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3307905457.m3u8"
     },
     {
-      "name": "BEIN SPORTS AFC FHD (1)",
+      "name": "ALGERIA 1 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/36852918.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3870741582.m3u8"
     },
     {
-      "name": "BEIN SPORTS FHD 2 (1)",
+      "name": "ALGERIE 5 TV CORAN (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2219342131.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/171810308.m3u8"
     },
     {
-      "name": "BEIN SPORTS FHD 4 (1)",
+      "name": "ALHAQIQA (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/185109651.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/835993160.m3u8"
     },
     {
-      "name": "BEIN SPORTS FHD 6 (1)",
+      "name": "AL HAYAT (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1908989939.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4025776923.m3u8"
     },
     {
-      "name": "BEIN SPORTS NBA (1)",
+      "name": "AL HAYAT 2 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2345915610.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1759564821.m3u8"
     },
     {
-      "name": "BEIN SPORTS XTRA 1 (1)",
+      "name": "ALIMAN TV (240P) [NOT 24/7] (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2359563430.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1757121086.m3u8"
     },
     {
-      "name": "BEIN SPORTS XTRA 3 HD (1)",
+      "name": "ALKARMA TV TALMAZA (DISCIPLESHIP) (FHD) [NOT 24/7] (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1778116732.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3681593281.m3u8"
     },
     {
-      "name": "CANAL 10 RIO NEGRO (1)",
+      "name": "ALKASS 2 HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1702779059.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2816551625.m3u8"
     },
     {
-      "name": "CTV (1)",
+      "name": "ALKASS 3 HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2490068016.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1800088151.m3u8"
     },
     {
-      "name": "DUBAI ZAMAN (1)",
+      "name": "ALKOFIYA.PALESTINE (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1253852198.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/701093558.m3u8"
     },
     {
-      "name": "ESPN 3 (6)",
+      "name": "AL MAGHRIBIA TNT (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1634722459.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/471646791.m3u8"
     },
     {
-      "name": "[GLF] OMAN 2 MOBASHER (1)",
+      "name": "AL MAJD HADITH (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3210759158.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2710595597.m3u8"
     },
     {
-      "name": "[GLF] OMAN 3 THAKAFEYA (1)",
+      "name": "ALMASSAR AL OULA (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3113342636.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1475861853.m3u8"
     },
     {
-      "name": "[KSA] KSA SSC 7 (1)",
+      "name": "ALMOURABITOUNE (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2063076613.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2520837067.m3u8"
     },
     {
-      "name": "LIKE GECKO) CHROME/92.0.4515.131 SAFARI/537.36 (1)",
+      "name": "AL SAFWA (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3782474179.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/762884836.m3u8"
     },
     {
-      "name": "MAJESTIC ARABIC BOXOFFICE 1 (1)",
+      "name": "AL SAFWA UHD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3022016590.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3456759072.m3u8"
     },
     {
-      "name": "MAJESTIC ARABIC BOXOFFICE 2 (1)",
+      "name": "ATHAGAVIA MOURITANIA (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/4085263006.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1658090525.m3u8"
     },
     {
-      "name": "MAJESTIC KIDS 1 (1)",
+      "name": "ATTESSIA TNT (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/697498340.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3035117099.m3u8"
     },
     {
-      "name": "MAJESTIC NETFLIX 3 (1)",
+      "name": "ATTESSIA TV (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2514704949.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3729844109.m3u8"
     },
     {
-      "name": "MASPERO ZAMAN (1)",
+      "name": "AVC HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1415986916.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/539345008.m3u8"
     },
     {
-      "name": "MBC 1 (1)",
+      "name": "AWDEH (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2635333027.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/639636257.m3u8"
     },
     {
-      "name": "MBC 1 (FHD) (1)",
+      "name": "AYNA AFG (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3896932530.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/569196140.m3u8"
     },
     {
-      "name": "MBC 3 EUR (FHD) (1)",
+      "name": "BAGHDAD TV (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/159425668.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1385192220.m3u8"
     },
     {
-      "name": "MBC 4 (1)",
+      "name": "BAYYINAT TV (404P) (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1442018003.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2713582105.m3u8"
     },
     {
-      "name": "MBC 5 (1)",
+      "name": "BEIN AFC1 HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1754487651.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/839178749.m3u8"
     },
     {
-      "name": "MBC 5 (FHD) (1)",
+      "name": "BEIN AFC2 HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1486818096.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3163282974.m3u8"
     },
     {
-      "name": "MBC DRAMA (1)",
+      "name": "BEIN AFC3 HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2711218384.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1881267840.m3u8"
     },
     {
-      "name": "MBC DRAMA USA (FHD) (1)",
+      "name": "BEIN AFC3 SD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2604260212.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/422587608.m3u8"
     },
     {
-      "name": "MBC IRAQ (FHD) (1)",
+      "name": "BEIN BOX OFFICE 1 FHD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1501582717.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1972695396.m3u8"
     },
     {
-      "name": "MBC MASR 1 (FHD) (1)",
+      "name": "BEIN MOVIES 1 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2184784415.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3227129888.m3u8"
     },
     {
-      "name": "MBC MASR 2 (1)",
+      "name": "BEIN MOVIES 1 HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1564640134.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/953555048.m3u8"
     },
     {
-      "name": "MBC MAX (1)",
+      "name": "BEIN MOVIES 2 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2076552475.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2281333488.m3u8"
     },
     {
-      "name": "MIRADOR (1)",
+      "name": "BEIN MOVIES 2 HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3254623481.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3059294091.m3u8"
     },
     {
-      "name": "MISIONES CUATRO (1)",
+      "name": "BEIN MOVIES 3 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/416951748.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3130673984.m3u8"
     },
     {
-      "name": "MOVIES COMEDY (1)",
+      "name": "BEIN MOVIES 3 HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3989086781.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2062753557.m3u8"
     },
     {
-      "name": "MOVIES FRIST (1)",
+      "name": "BEIN MOVIES 4 HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/252367309.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1882592780.m3u8"
     },
     {
-      "name": "MOVIES HOLLYWOOD (1)",
+      "name": "BEIN PREMUIM2 FHD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3608748062.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/474491490.m3u8"
     },
     {
-      "name": "MUCH ARGENTINA (6)",
+      "name": "BEIN PREMUIM2 HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2046977208.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3873504397.m3u8"
     },
     {
-      "name": "MUSAWA.PALESTINE (1)",
+      "name": "BEIN PREMUIM3 FHD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2284945803.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/187907617.m3u8"
     },
     {
-      "name": "MUSICTV ARAB (1)",
+      "name": "BEIN PREMUIM3 HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2361384741.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/709557267.m3u8"
     },
     {
-      "name": "NAT 1 TNT (1)",
+      "name": "BEIN PREMUIM3 SD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2738048740.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1130040907.m3u8"
     },
     {
-      "name": "NAT GEO ABU DHABI (1)",
+      "name": "BEINSPORT AR 1 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3203319196.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1048399915.m3u8"
     },
     {
-      "name": "NET TV (1)",
+      "name": "BEINSPORT AR 1 PREMIUM (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1546247033.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/42527681.m3u8"
     },
     {
-      "name": "NICK JR (1)",
+      "name": "BEINSPORT AR 4 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1565542727.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4137541467.m3u8"
     },
     {
-      "name": "NILE TV (1)",
+      "name": "BEINSPORT AR 5 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1530876303.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3422418667.m3u8"
     },
     {
-      "name": "NOGOUMFMTV (672P) [NOT 24/7] (1)",
+      "name": "BEINSPORT AR 7 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3545263455.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2973607307.m3u8"
     },
     {
-      "name": "NOUR EL SHABEB (1)",
+      "name": "BEIN SPORTS 11 HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/977156077.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1314499898.m3u8"
     },
     {
-      "name": "PALESTINE MUBASHER (404P) (1)",
+      "name": "BEIN SPORTS 1 HD LOCAL (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2064002169.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2052437989.m3u8"
     },
     {
-      "name": "PALESTINE.NEWS (1)",
+      "name": "BEIN SPORTS 1 PREMIEM (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3353688593.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1403666107.m3u8"
     },
     {
-      "name": "PANORAMA FM (FHD) (1)",
+      "name": "BEIN SPORTS 1 PREMIUM 1MB (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1724177685.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/908164763.m3u8"
     },
     {
-      "name": "PASIONES (6)",
+      "name": "BEIN SPORTS 2 FHD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2639181215.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/799267221.m3u8"
     },
     {
-      "name": "QATAR 2 HD (1)",
+      "name": "BEIN SPORTS 2 PREMIUM 1080 LOCAL (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/757840255.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2550120923.m3u8"
     },
     {
-      "name": "♥QU♥ MOROCCO ♥PA♥ (1)",
+      "name": "BEIN SPORTS 2 PREMIUM 1MB (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1973649955.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1706763551.m3u8"
     },
     {
-      "name": "RADIO: ABDULLAH ALMATTROD (1)",
+      "name": "BEIN SPORTS 2 PREMIUM 4K H265 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/890083815.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1237032528.m3u8"
     },
     {
-      "name": "RADIO: ABDULMOHSEN ALQASIM (1)",
+      "name": "BEIN SPORTS 3 PREMIUM 1080 LOCAL (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2104584445.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/383427836.m3u8"
     },
     {
-      "name": "RADIO: ALLAHU AKBAR (EGY) (1)",
+      "name": "BEIN SPORTS 3 PREMIUM 4K H265 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3653358098.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3596688846.m3u8"
     },
     {
-      "name": "RADIOCANAL (6)",
+      "name": "BEIN SPORTS 3 PREMIUM LOW (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/4142787589.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2322261582.m3u8"
     },
     {
-      "name": "RASD TV (1)",
+      "name": "BEIN SPORTS 3 PREMIUM SD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1406650953.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4118981528.m3u8"
     },
     {
-      "name": "ROTANA RADIO JORDAN: STUDIO (180P) [NOT 24/7] (1)",
+      "name": "BEIN SPORTS AFC 1 ULTRA 4K (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3669843019.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3380357132.m3u8"
     },
     {
-      "name": "ROYA TV (720P) [NOT 24/7] (1)",
+      "name": "BEIN SPORTS AFC HEVC (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2205209166.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/37332666.m3u8"
     },
     {
-      "name": "RTN NEUQUEN (1)",
+      "name": "BEIN SPORTS PREMIUM 1 HD LOCAL (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3929129859.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4063953608.m3u8"
     },
     {
-      "name": "SALAM TV (FHD) (1)",
+      "name": "BEIN SPORTS PREMIUM 2 FHD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/910127330.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/875054311.m3u8"
     },
     {
-      "name": "SANTA FE ARG: CANAL (1)",
+      "name": "BEITY TV (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/894226831.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2069132959.m3u8"
     },
     {
-      "name": "SAUDIA QURAN (1)",
+      "name": "BELQEES (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/804435589.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1779179803.m3u8"
     },
     {
-      "name": "SCARE TV (BACKUP) (1)",
+      "name": "CANAL 3 FORMOSA (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1875204190.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1926369648.m3u8"
     },
     {
-      "name": "SERIES1 (1)",
+      "name": "CINE.AR (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/4166339782.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1224309435.m3u8"
     },
     {
-      "name": "SERIES FIRST HD (1)",
+      "name": "CNA (CHAÎNE NORD AFRICAINE) (360P) [NOT 24/7] (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1553240299.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2206344624.m3u8"
     },
     {
-      "name": "SHARJAH TV (FHD) (1)",
+      "name": "DUBAI SPORTS 1 (FHD) (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3812027157.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3949915193.m3u8"
     },
     {
-      "name": "[SHM*] JORDAN A1 (1)",
+      "name": "DUBAI TV (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3540534477.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1486084694.m3u8"
     },
     {
-      "name": "[SHM*] JORDAN AL MAMLAKA (1)",
+      "name": "DUBAI TV (576P) (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3013553456.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3680618096.m3u8"
     },
     {
-      "name": "[SHM*] JORDAN AMMAN TV (1)",
+      "name": "ELHIWAR ETTOUNSI (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/158996496.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1912555772.m3u8"
     },
     {
-      "name": "[SHM*] JORDAN JOSAT (1)",
+      "name": "ELHIWAR ETTOUNSI TNT (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2875680907.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3844476974.m3u8"
     },
     {
-      "name": "SKY NEWS ARABIC HD (1)",
+      "name": "EL SELLOARG: V MADARIAGA (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3254676663.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/866070632.m3u8"
     },
     {
-      "name": "SNIPERS BOXOFFICE ARABIC 3 (1)",
+      "name": "ENIGMA HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/296950254.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3296716976.m3u8"
     },
     {
-      "name": "SNIPERS HOLYWOOD 3 (1)",
+      "name": "EPS ARG: V ARG: CANAL 5 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1546777151.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2415018527.m3u8"
     },
     {
-      "name": "SNIPERS KIDS 1 (1)",
+      "name": "ESPN 2 (6)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2056603750.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1544538923.m3u8"
     },
     {
-      "name": "SNIPERS MASRAH 1 (1)",
+      "name": "ESPN (6)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3897008803.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3630254351.m3u8"
     },
     {
-      "name": "SNIPERS MASRAH 2 (1)",
+      "name": "ESPORTS MAX (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2951207027.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/467142342.m3u8"
     },
     {
-      "name": "SNIPERS MASRAH 3 (1)",
+      "name": "FILMSTREAM (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2458382787.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/363789532.m3u8"
     },
     {
-      "name": "SNIPERS WWE 1 (1)",
+      "name": "FOX LIFE HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3408311837.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2127932400.m3u8"
     },
     {
-      "name": "SNIPERS WWE 2 (1)",
+      "name": "FOX SPORTS PREMIUM (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2357644493.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3201385363.m3u8"
     },
     {
-      "name": "SOURCE1 : ♣♦♣♦♣♦♣--BEIN SPORT BARCA HD--♣♦♣♦♣♦♣ (1)",
+      "name": "GLOBAL TV (6)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1980256643.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3722611047.m3u8"
     },
     {
-      "name": "SOURCE1 : ♣♦♣♦♣♦♣--BEIN SPORT JUVENTUS--♣♦♣♦♣♦♣ (1)",
+      "name": "HADI TV HAUSA (720P) (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3181562383.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/638222334.m3u8"
     },
     {
-      "name": "[SPO] ABU DHABI SPORTS 3 HD (1)",
+      "name": "HADI TV PASHTO AND PERSIAN (720P) (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2624165879.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2917156163.m3u8"
     },
     {
-      "name": "[SPO] AL KASS SPORTS 2 (1)",
+      "name": "HANNIBAL TNT (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1752406767.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/653654352.m3u8"
     },
     {
-      "name": "[SPO] EMIRATES DUBAI RACING 3 (1)",
+      "name": "HBO MUNDI (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2308952347.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4059896998.m3u8"
     },
     {
-      "name": "STAR CINEMA 1 (1)",
+      "name": "HD الدوري الايطالي (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1799436752.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2305582844.m3u8"
     },
     {
-      "name": "SYRIA PLUS (1)",
+      "name": "HEWAD AFG (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/141995435.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3822516677.m3u8"
     },
     {
-      "name": "SYRIA TV (FHD) (1)",
+      "name": "IQRAA (576P) [NOT 24/7] (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3836162974.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3038429979.m3u8"
     },
     {
-      "name": "TAHA HD (1)",
+      "name": "IRAQ (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3005469888.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3402946246.m3u8"
     },
     {
-      "name": "TAYBA TV (FHD) (1)",
+      "name": "IRAQIA SPORT (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1894212186.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1900168517.m3u8"
     },
     {
-      "name": "TEENNICK (6)",
+      "name": "JAMAHIRIYA TV (480P) [NOT 24/7] (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/4018430026.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/198126070.m3u8"
     },
     {
-      "name": "TELECÓNDOR SATELITAL (1)",
+      "name": "KAIFA TV (576P) (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3874478161.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/974125896.m3u8"
     },
     {
-      "name": "TELECÓNDOR SATELITAL (6)",
+      "name": "KOOGI TV (FHD) (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3730362014.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1551340923.m3u8"
     },
     {
-      "name": "TELEDIARIO ARG: V (1)",
+      "name": "KSA| KSA SPORTS +1 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1261182003.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/671825934.m3u8"
     },
     {
-      "name": "TELENORD CORRIENTES (1)",
+      "name": "KSA SSC 4 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3078992939.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3630260843.m3u8"
     },
     {
-      "name": "TEN TV (720P) [NOT 24/7] (1)",
+      "name": "LCD MOVIES (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2992228301.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1892912940.m3u8"
     },
     {
-      "name": "TLC (1)",
+      "name": "LIBYA 218 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1905743476.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/923775705.m3u8"
     },
     {
-      "name": "TNT SERIES (1)",
+      "name": "LIBYA RSMIA CH (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1175393739.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1942979865.m3u8"
     },
     {
-      "name": "TNT SPORTS (1)",
+      "name": "LITUS (6)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3937742597.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2088072414.m3u8"
     },
     {
-      "name": "TOKTOK AFLAM (1)",
+      "name": "LN+ (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/91327789.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3240892762.m3u8"
     },
     {
-      "name": "TRP MIX (1)",
+      "name": "LTV (360P) (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/4040043108.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/834665789.m3u8"
     },
     {
-      "name": "TUNISIA NAT 2 (1)",
+      "name": "L YAWM HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/2816573328.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1327510626.m3u8"
     },
     {
-      "name": "TUNISNA (1)",
+      "name": "MAJESTIC ARABIC 3 (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/4271911350.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3527031053.m3u8"
     },
     {
-      "name": "TV MANÁ ARGENTINA (1)",
+      "name": "METROPOLITANA FM (6)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1907104154.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2318287761.m3u8"
     },
     {
-      "name": "TV MANÁ ARGENTINA (6)",
+      "name": "MTV 00S (6)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/688299588.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1476837252.m3u8"
     },
     {
-      "name": "TV SOLIDARIA (1)",
+      "name": "ON TIME SPORTS 3FHD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3543025921.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1849627972.m3u8"
     },
     {
-      "name": "TVU UNIVERSIDAD NACIONAL DE LA PLATA (6)",
+      "name": "PALESTINE TODAY (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/973926458.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4103264649.m3u8"
     },
     {
-      "name": "UNIVERSAL COMEDY (6)",
+      "name": "ROTANA TARAB JORDAN: CITY VIEW (180P) [NOT 24/7] (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/935699407.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1291971622.m3u8"
     },
     {
-      "name": "URBANA ARG: EVE (1)",
+      "name": "SHARJAH SPORTS TV (FHD) (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/244315305.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1678041307.m3u8"
     },
     {
-      "name": "UTV (FHD) (1)",
+      "name": "SOURCE1 : ♣♦♣♦♣♦♣--BEIN SPORT INTER--♣♦♣♦♣♦♣ (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/711645188.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/739661983.m3u8"
     },
     {
-      "name": "WARNER TV (6)",
+      "name": "[SPO] ABU DHABI SPORTS 4 HD (1)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/3167302916.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2527895278.m3u8"
     },
     {
-      "name": "YAHALA BL ARABI (1)",
+      "name": "UNIVERSAL CINEMA (6)",
       "group": "Arabia",
-      "old_url": "https://vavoo.to/live2/play3/1033333554.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3184480301.m3u8"
     },
     {
-      "name": "ARENA SPORT 5 PREMIUM (6)",
+      "name": "BHT 1 (7)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/2306254838.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2942971146.m3u8"
     },
     {
-      "name": "BN MUSIC (7)",
+      "name": "BN MUSIC (6)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/446208285.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/490769929.m3u8"
     },
     {
-      "name": "BRAVO MUSIC (7)",
+      "name": "CINESTAR COMEDY (7)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/1791418334.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1202980829.m3u8"
     },
     {
-      "name": "CINE+ SELECT 1 (7)",
+      "name": "CITY TV (7)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/2523260552.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1794870373.m3u8"
     },
     {
-      "name": "CINE+ SELECT 6 (7)",
+      "name": "FILMBOX (6)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/608516760.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3850560185.m3u8"
     },
     {
-      "name": "CINE+ SELECT 9 (7)",
+      "name": "FILMBOX (7)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/2786438473.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1045294698.m3u8"
     },
     {
-      "name": "DISNEY CHANNEL (1)",
+      "name": "HBO 2 (6)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/3093326914.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3828451451.m3u8"
     },
     {
-      "name": "GRAND TV (7)",
+      "name": "HBO 2 (7)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/1537612094.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2315061688.m3u8"
     },
     {
-      "name": "HISTORIJA TV (6)",
+      "name": "HBO 3 HD (1)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/694607918.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1253444189.m3u8"
     },
     {
-      "name": "IDJ KIDS (7)",
+      "name": "KLAPE I TAMBURE (7)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/2494427928.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1571019946.m3u8"
     },
     {
-      "name": "KANAL 6 (6)",
+      "name": "NETIP DOMACI FILMOVI 1 (6)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/3406290301.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/956183225.m3u8"
     },
     {
-      "name": "N1 SRB (7)",
+      "name": "PINK FOLK 2 (7)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/2826018474.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4156595885.m3u8"
     },
     {
-      "name": "NETIP NETFLIX (6)",
+      "name": "PINK SERIJE (7)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/78698057.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3210378316.m3u8"
     },
     {
-      "name": "PAROVI 2 LIVE (6)",
+      "name": "STAR MOVIES (6)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/1537379377.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1300525240.m3u8"
     },
     {
-      "name": "PINK BH (7)",
+      "name": "VIASAT HISTORY (7)",
       "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/1354766451.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3444914860.m3u8"
     },
     {
-      "name": "PINK FILM (7)",
-      "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/1153957703.m3u8"
-    },
-    {
-      "name": "TV 1000 (7)",
-      "group": "Balkans",
-      "old_url": "https://vavoo.to/live2/play3/1998323184.m3u8"
-    },
-    {
-      "name": "BNT 2 (7)",
+      "name": "CODE HEALTH TV (6)",
       "group": "Bulgaria",
-      "old_url": "https://vavoo.to/live2/play3/3508377609.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/198766374.m3u8"
     },
     {
-      "name": "BTV (7)",
+      "name": "MTV (7)",
       "group": "Bulgaria",
-      "old_url": "https://vavoo.to/live2/play3/2650040518.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1807489071.m3u8"
     },
     {
-      "name": "MAX SPORT 1 (6)",
+      "name": "NOVA SPORT (6)",
       "group": "Bulgaria",
-      "old_url": "https://vavoo.to/live2/play3/2539971589.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2771280932.m3u8"
     },
     {
-      "name": "MAX SPORT 1 (7)",
-      "group": "Bulgaria",
-      "old_url": "https://vavoo.to/live2/play3/1421125992.m3u8"
-    },
-    {
-      "name": "MAX SPORT 2 (6)",
-      "group": "Bulgaria",
-      "old_url": "https://vavoo.to/live2/play3/3502546645.m3u8"
-    },
-    {
-      "name": "WNESS TV (6)",
-      "group": "Bulgaria",
-      "old_url": "https://vavoo.to/live2/play3/3772974425.m3u8"
-    },
-    {
-      "name": "WORLD FIGHT CHANNEL (7)",
-      "group": "Bulgaria",
-      "old_url": "https://vavoo.to/live2/play3/1799700824.m3u8"
-    },
-    {
-      "name": "CRO MAX SELECT 3 (6)",
-      "group": "Croatia",
-      "old_url": "https://vavoo.to/live2/play3/2043497956.m3u8"
-    },
-    {
-      "name": "SPORT KLUB 10 (6)",
-      "group": "Croatia",
-      "old_url": "https://vavoo.to/live2/play3/3517959567.m3u8"
-    },
-    {
-      "name": "A12 TV (6)",
+      "name": "13 EME RUE HD (7)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/2701753448.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4070446369.m3u8"
     },
     {
-      "name": "AMAZON PRIME 4 HD (1)",
+      "name": "AMAZON PRIME 7 HD (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/2586954330.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/348048825.m3u8"
     },
     {
-      "name": "AMAZON PRIME 6 HD (1)",
+      "name": "AMAZON PRIME 8 HD+ (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/3625241895.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3727168653.m3u8"
     },
     {
-      "name": "AUTO MOTO HD (7)",
+      "name": "ARTE (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/1110040958.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1666352419.m3u8"
     },
     {
-      "name": "BEIN SPORTS 1 (6)",
+      "name": "AUTOMOTO (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/2869862642.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2674773068.m3u8"
     },
     {
-      "name": "CA: CANAL D (1)",
+      "name": "BABY TV (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/469192959.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3259290967.m3u8"
     },
     {
-      "name": "CANAL+ 360 FHD (1)",
+      "name": "BEIN SPORTS 3 (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/707775847.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2683082226.m3u8"
     },
     {
-      "name": "CANAL+ ELLES CENTRE HD (1)",
+      "name": "BEIN SPORTS 3 (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/3917988462.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3520000914.m3u8"
     },
     {
-      "name": "CANALPLAY 13 (6)",
+      "name": "BEIN SPORTS 3 (BACKUP) (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/1870288222.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2221938935.m3u8"
     },
     {
-      "name": "CANALPLAY 15 (6)",
+      "name": "BEIN SPORTS 3 HD (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/3761938686.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/452200918.m3u8"
     },
     {
-      "name": "CINE+ PREMIER FHD (1)",
+      "name": "BEIN SPORTS MAX 5 (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/3777895950.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3224854795.m3u8"
     },
     {
-      "name": "DAZN LIGUE 1 LIVE 5 FHD (1)",
+      "name": "BEIN SPORTS MAX 9 (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/601261176.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/371802195.m3u8"
     },
     {
-      "name": "DAZN LIGUE 1 LIVE 5 HD (1)",
+      "name": "BERBERE TV (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/3444063019.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2314271385.m3u8"
     },
     {
-      "name": "DAZN LIGUE 1 LIVE 8 SD (1)",
+      "name": "BERBERE TV MUSIC (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/1063050402.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2346958056.m3u8"
     },
     {
-      "name": "DISNEY JUNIOR (7)",
+      "name": "BEYBLADE (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/3351330853.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2538067817.m3u8"
     },
     {
-      "name": "EURONEWS HD (7)",
+      "name": "BFM 2 (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/1669960201.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1572961311.m3u8"
     },
     {
-      "name": "EUROSPORT 360 6 (7)",
+      "name": "BFM TV (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/4255906512.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2878138955.m3u8"
     },
     {
-      "name": "FASHION TV (6)",
+      "name": "BOB LEPONGE (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/859197953.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2930799000.m3u8"
     },
     {
-      "name": "FILMRISE BINGE WATCH FRANCE (6)",
+      "name": "BOX OFFICE 7 (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/2665669754.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4121722701.m3u8"
     },
     {
-      "name": "FILMRISE Z NATION (6)",
+      "name": "CANAL+ 360 4K (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/1270042615.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2096977228.m3u8"
     },
     {
-      "name": "GOLF CHANNEL HD (1)",
+      "name": "CANAL+ CINEMAS 4K (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/1646679501.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3602737855.m3u8"
     },
     {
-      "name": "GONG (7)",
+      "name": "CANAL D (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/109149100.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2351267513.m3u8"
     },
     {
-      "name": "GULLI (1)",
+      "name": "CANAL DECALE HD (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/53641636.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1545493919.m3u8"
     },
     {
-      "name": "J ONE (6)",
+      "name": "CANAL + HD (7)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/504247527.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3483866123.m3u8"
     },
     {
-      "name": "LIGUE 1+ (7)",
+      "name": "CANAL+ LIVE 10 (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/285609380.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/942555923.m3u8"
     },
     {
-      "name": "MEZZO HD (1)",
+      "name": "CANAL+ LIVE 2 (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/1254399159.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3104369008.m3u8"
     },
     {
-      "name": "NICKELODEON +1 (6)",
+      "name": "CANAL+ LIVE 4 (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/2786840044.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/910695632.m3u8"
     },
     {
-      "name": "PLANET HD (7)",
+      "name": "CANAL+ LIVE 9 (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/3440482660.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3470317665.m3u8"
     },
     {
-      "name": "PSG 3 FOOT HD (7)",
+      "name": "CANALPLAY 11 (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/4260391683.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/364512830.m3u8"
     },
     {
-      "name": "PUBLIC SENAT (6)",
+      "name": "CANAL PLAY 3 (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/900020958.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1134686148.m3u8"
     },
     {
-      "name": "RAKUTEN SERIE CRIME (7)",
+      "name": "CANAL+ SERIES FHD (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/4171934323.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2354397782.m3u8"
     },
     {
-      "name": "RAKUTEN TV SÉRIES CRIME (6)",
+      "name": "CANAL+ SERIES HD (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/1154961148.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1150638466.m3u8"
     },
     {
-      "name": "RMC SPORT 10 [LIVE DURING EVENTS ONLY] (7)",
+      "name": "CANAL+ SPORT FHD (7)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/2195294466.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4009830018.m3u8"
     },
     {
-      "name": "RMC SPORT 13 (7)",
+      "name": "CANAL+ TOP 14 HD (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/796086260.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3509459643.m3u8"
     },
     {
-      "name": "RMC SPORT 2 HD (1)",
+      "name": "CARTOON NETWORK (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/2246359828.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2786303319.m3u8"
     },
     {
-      "name": "RMC SPORT 3 (7)",
+      "name": "CLIQUE TV (7)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/309578343.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3663666582.m3u8"
     },
     {
-      "name": "RMC SPORT LIVE 11 HD (1)",
+      "name": "DAZN 2 LEAUGE 1 (6)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/3041190071.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2587190923.m3u8"
     },
     {
-      "name": "RMC SPORT LIVE 5 HD (1)",
+      "name": "DAZN ELEVENT1. HD (7)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/3452571558.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1676882744.m3u8"
     },
     {
-      "name": "RMC SPORT LIVE 5 HD (BACKUP) (1)",
+      "name": "DAZN LIGUE 1 LIVE 5 SD (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/4171564526.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2757347699.m3u8"
     },
     {
-      "name": "SPORT EN FRANCE FHD (1)",
+      "name": "DAZN LIGUE 1 LIVE 8 HD (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/2899051504.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1447898874.m3u8"
     },
     {
-      "name": "TELEGRENOBLE ISERE (6)",
+      "name": "DAZN LIGUE 1 LIVE 9 FHD (1)",
       "group": "France",
-      "old_url": "https://vavoo.to/live2/play3/585806642.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3319953260.m3u8"
     },
     {
-      "name": "DAZN EVENT 15 (7)",
+      "name": "EUROSPORT 2 (6)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/2585190032.m3u8"
+    },
+    {
+      "name": "EUROSPORT 2 HD (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/3855684346.m3u8"
+    },
+    {
+      "name": "FOOT+ (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/3299673666.m3u8"
+    },
+    {
+      "name": "FRANCOPHONIE 24 (7)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/46629016.m3u8"
+    },
+    {
+      "name": "GOLF CHANNEL HD (BACKUP) (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/3460274881.m3u8"
+    },
+    {
+      "name": "GULLI (BACKUP) (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/3968971258.m3u8"
+    },
+    {
+      "name": "L EQUIPE LIVE (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/2811871158.m3u8"
+    },
+    {
+      "name": "L EQUIPE LIVE 1 (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/2833261221.m3u8"
+    },
+    {
+      "name": "MCM TOP HD (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/2396179096.m3u8"
+    },
+    {
+      "name": "MELODY HD (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/2214657581.m3u8"
+    },
+    {
+      "name": "MEZZO LIVE HD (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/1071808933.m3u8"
+    },
+    {
+      "name": "MONACO INFO (7)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/3965013422.m3u8"
+    },
+    {
+      "name": "MULTISPORTS 1 HD (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/313647386.m3u8"
+    },
+    {
+      "name": "MULTISPORTS 5 HD (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/2533093344.m3u8"
+    },
+    {
+      "name": "NRJ HITS HD (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/3639203183.m3u8"
+    },
+    {
+      "name": "PARAMOUNT CHANNEL (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/2407966305.m3u8"
+    },
+    {
+      "name": "PARAMOUNT CHANNEL FHD (7)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/4154938214.m3u8"
+    },
+    {
+      "name": "PLANETE (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/2770867098.m3u8"
+    },
+    {
+      "name": "PUISSANCE TV (6)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/3323285442.m3u8"
+    },
+    {
+      "name": "RFM TV HD (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/4100689874.m3u8"
+    },
+    {
+      "name": "RMC SPORT 1 (BACKUP) (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/1751151029.m3u8"
+    },
+    {
+      "name": "RMC SPORT 1 FHD (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/2893363456.m3u8"
+    },
+    {
+      "name": "RMC SPORT 1 UHD (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/4198743891.m3u8"
+    },
+    {
+      "name": "RMC SPORT 2 ACCESS HD (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/3141694283.m3u8"
+    },
+    {
+      "name": "RMC SPORT 8 (7)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/1705245558.m3u8"
+    },
+    {
+      "name": "RMC SPORT LIVE 13 HD (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/4150388682.m3u8"
+    },
+    {
+      "name": "RMC SPORT LIVE 8 HD (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/1456413303.m3u8"
+    },
+    {
+      "name": "RMC SPORT NEWS FHD (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/179745605.m3u8"
+    },
+    {
+      "name": "SPORT EN FRANCE (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/2793894290.m3u8"
+    },
+    {
+      "name": "T18 (6)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/3882203744.m3u8"
+    },
+    {
+      "name": "TCM CINEMA (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/3637294135.m3u8"
+    },
+    {
+      "name": "TF 1 ULTRA 4K (6)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/3967134627.m3u8"
+    },
+    {
+      "name": "TOONAMI (1)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/593664712.m3u8"
+    },
+    {
+      "name": "TVM 3 (6)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/3284164479.m3u8"
+    },
+    {
+      "name": "WILDSIDE TV (6)",
+      "group": "France",
+      "old_url": "https://vavoo.to/live2/play3/3463460292.m3u8"
+    },
+    {
+      "name": "INFO SPORT HD (7)",
       "group": "France Sport",
-      "old_url": "https://vavoo.to/live2/play3/673919102.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2520651022.m3u8"
     },
     {
-      "name": "DAZN EVENT 17 (7)",
+      "name": "LIGUE 10 HD (7)",
       "group": "France Sport",
-      "old_url": "https://vavoo.to/live2/play3/1391158046.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3249840157.m3u8"
     },
     {
-      "name": "DAZN EVENT 9 (7)",
+      "name": "LIGUE 3 FHD (7)",
       "group": "France Sport",
-      "old_url": "https://vavoo.to/live2/play3/1209212446.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2074067055.m3u8"
     },
     {
-      "name": "LIGUE 5 FHD (7)",
-      "group": "France Sport",
-      "old_url": "https://vavoo.to/live2/play3/142981605.m3u8"
+      "name": "1-2-3.TV (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/4102427354.m3u8"
+    },
+    {
+      "name": "ANIXE HD (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/1899025769.m3u8"
+    },
+    {
+      "name": "BADEN TV SÜD (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/827556591.m3u8"
+    },
+    {
+      "name": "BAUER SUCHT FRAU (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3919899725.m3u8"
+    },
+    {
+      "name": "BAYWATCH (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3598250405.m3u8"
+    },
+    {
+      "name": "BLUETV FAMILIE 2 ʜᴅ (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3598525543.m3u8"
+    },
+    {
+      "name": "CANAL+ GOLF (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/126394448.m3u8"
+    },
+    {
+      "name": "CITY TV (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/24744607.m3u8"
+    },
+    {
+      "name": "COMEDY CENTRAL HD+ (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/2210053837.m3u8"
+    },
+    {
+      "name": "DAS ERSTE (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/2814908252.m3u8"
+    },
+    {
+      "name": "DAZN 1 BAR HEVC (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/2913799408.m3u8"
+    },
+    {
+      "name": "DAZN 3 (MATCH TIME) HD (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/832542472.m3u8"
+    },
+    {
+      "name": "DAZN 7 (MATCH TIME) HD (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/593925043.m3u8"
+    },
+    {
+      "name": "DAZN BAR 2 [] (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3647775466.m3u8"
+    },
+    {
+      "name": "DAZN EVENT 8 HD (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/1344517072.m3u8"
+    },
+    {
+      "name": "DAZN SPORTDIGITAL HD (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3654985152.m3u8"
+    },
+    {
+      "name": "DELUXE LOUNGE (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3638874712.m3u8"
+    },
+    {
+      "name": "DEPERATE HOUSEWIFE S 27/7 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3012077323.m3u8"
     },
     {
-      "name": "LIGUE 8 FHD (7)",
-      "group": "France Sport",
-      "old_url": "https://vavoo.to/live2/play3/4190789298.m3u8"
+      "name": "DEUTSCHES MUSIK FERNSEHEN (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3246643161.m3u8"
+    },
+    {
+      "name": "DISNEY CINEMAGIC (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/2117081170.m3u8"
+    },
+    {
+      "name": "DR2 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/4278260050.m3u8"
     },
     {
-      "name": "LIGUE 9 FHD (7)",
-      "group": "France Sport",
-      "old_url": "https://vavoo.to/live2/play3/4004596465.m3u8"
+      "name": "DYN SPORT 14 (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3410581238.m3u8"
     },
     {
-      "name": "ALTENBURG TV (6)",
+      "name": "DYN SPORT 18 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2096245163.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/247053303.m3u8"
     },
     {
-      "name": "ARD DAS ERSTE (7)",
+      "name": "EAGLE PEPPA WUTZ HD (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/550012320.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3346505044.m3u8"
     },
     {
-      "name": "BLUETV 4K LIEBESFILM (1)",
+      "name": "EB COLLECTION TERMINATOR (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3489538564.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/761029313.m3u8"
     },
     {
-      "name": "BLUETV HISTORIE ʜᴅ (1)",
+      "name": "E! ENTERTAINM. HEVC (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2151832622.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2385513145.m3u8"
     },
     {
-      "name": "BLUETV HORROR 1 ʜᴅ (1)",
+      "name": "EGOFM (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1357175213.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4018977108.m3u8"
     },
     {
-      "name": "BLUETV KRIMI ʜᴅ (1)",
+      "name": "EURONEWS GERMANY (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1977022741.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1579462080.m3u8"
     },
     {
-      "name": "BOOMERANG (BACKUP 2) (1)",
+      "name": "EUROSPORT 360 HD 4 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/325322989.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3675531739.m3u8"
     },
     {
-      "name": "CRIME+ INVESTIGATION (6)",
+      "name": "FC BAYERN HD (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/4240478721.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3162967578.m3u8"
     },
     {
-      "name": "DAS ERSTE [SAT] [] (6)",
+      "name": "FC BAYERN TV (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2595606142.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3534948376.m3u8"
     },
     {
-      "name": "DAZN 10 (MATCH TIME) HD (1)",
+      "name": "FC BAYERN TV HD (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2936413245.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2176509151.m3u8"
     },
     {
-      "name": "DAZN 2 BAR HEVC (1)",
+      "name": "FUSSBALL TV 3 UHD (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3519818027.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/698889401.m3u8"
     },
     {
-      "name": "DAZN LFC TV HD (1)",
+      "name": "GEO HD (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2833035201.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1444644774.m3u8"
     },
     {
-      "name": "DAZN NBA HD (1)",
+      "name": "GREYS ANATOMY 24/7 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/674663909.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2029892290.m3u8"
     },
     {
-      "name": "DAZN RISE (6)",
+      "name": "HEIMATKANAL (BACKUP) (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3690212041.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1005225274.m3u8"
     },
     {
-      "name": "DER KLEINE PRINZ (1)",
+      "name": "HSE TREND (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3375025478.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3146392775.m3u8"
     },
     {
-      "name": "DEUTSCHE SINEMA (1)",
+      "name": "JAM FM (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/364770966.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2335594854.m3u8"
     },
     {
-      "name": "DISNEY JUNIOR (BACKUP) (1)",
+      "name": "KINDER SENDER (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3528502381.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1057265460.m3u8"
     },
     {
-      "name": "DISNEY JUNIOR (BACKUP 2) (1)",
+      "name": "MAGENTA FUSSBALL 14 HD (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3313774694.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1144084205.m3u8"
     },
     {
-      "name": "DMAX (7)",
+      "name": "MAGENTA MUSIK 2 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1520100498.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1797319635.m3u8"
     },
     {
-      "name": "DOKUMENTATION (1)",
+      "name": "MAGENTA SPORT 10 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1964743431.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1438750126.m3u8"
     },
     {
-      "name": "DR RAMASJANG (1)",
+      "name": "MAGENTA SPORT 10 HD (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1249122834.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2031993004.m3u8"
     },
     {
-      "name": "DYN SPORT 10 (7)",
+      "name": "MAGENTA SPORT 13 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/4246322523.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/308408190.m3u8"
     },
     {
-      "name": "DYN SPORT 23 (6)",
+      "name": "MAGENTA SPORT 14 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/4294834248.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2688627566.m3u8"
     },
     {
-      "name": "EAGLE MASHA UND DER B HD (1)",
+      "name": "MAGENTA SPORT 15 HD (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2694157128.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/838717128.m3u8"
     },
     {
-      "name": "EB COLLECTION KUNG FU PANDA (6)",
+      "name": "MAGENTA SPORT 1 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1047614386.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3432695221.m3u8"
     },
     {
-      "name": "ESPORTS1 HD+ (1)",
+      "name": "MAGENTA SPORT 16 HD (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2461685941.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3211970859.m3u8"
     },
     {
-      "name": "EUROSPORT 1 (6)",
+      "name": "MAGENTA SPORT 2 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1222315896.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3628839705.m3u8"
     },
     {
-      "name": "EUROSPORT 1 HD (BACKUP 2) (1)",
+      "name": "MAGENTA SPORT 3 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2876480347.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3844840105.m3u8"
     },
     {
-      "name": "EUROSPORT 360 HD 10 (1)",
+      "name": "MAGENTA SPORT 4 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3844032236.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1460356793.m3u8"
     },
     {
-      "name": "FC BAYERN TV (BACKUP) (1)",
+      "name": "MAGENTA SPORT 5 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/4189467214.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1785425673.m3u8"
     },
     {
-      "name": "FILMAX KIDS 2 (1)",
+      "name": "MAGENTA SPORT 6 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/555457828.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/768284121.m3u8"
     },
     {
-      "name": "FIX&FOXI (1)",
+      "name": "MAGENTA SPORT 8 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3567855153.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3247089604.m3u8"
     },
     {
-      "name": "FOLX (6)",
+      "name": "MAGENTA SPORT 9 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1288161498.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4243230324.m3u8"
     },
     {
-      "name": "HISTORY RAW (1)",
+      "name": "MAGENTA SPORT 9 (7)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2297575371.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1536830889.m3u8"
     },
     {
-      "name": "HISTORY [SAT] [] (6)",
+      "name": "MOVIEDOME (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1053833984.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2881146903.m3u8"
     },
     {
-      "name": "KABEL 1 DOKU AUSTRIA (1)",
+      "name": "MYTEAMTV 6 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3844255360.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2844039681.m3u8"
     },
     {
-      "name": "KABEL 1 HD (1)",
+      "name": "MYTEAMTV 7 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/133606649.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2498016177.m3u8"
     },
     {
-      "name": "KABEL EINS DOKU HEVC (1)",
+      "name": "MYTEAMTV 9 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/445335782.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/735317456.m3u8"
     },
     {
-      "name": "KIKA HEVC (1)",
+      "name": "✦ ✦ NETFLIX STORE ✦ ✦ (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3645283043.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/690278183.m3u8"
     },
     {
-      "name": "KINDERM RCHEN 2 (1)",
+      "name": "OF TV OFFENBACH (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/4247921833.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1027321034.m3u8"
     },
     {
-      "name": "L-TV (6)",
+      "name": "OKD (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2442901321.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1713001419.m3u8"
     },
     {
-      "name": "MAGENTA SPORT 13 HD (1)",
+      "name": "OK KASSEL (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/4153591631.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2955766070.m3u8"
     },
     {
-      "name": "MAGENTA SPORT 7 (6)",
+      "name": "OK KIEL (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1138372629.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3664184701.m3u8"
     },
     {
-      "name": "MDR FERNSEHEN SACHSEN ANHALT (6)",
+      "name": "OK MERSEBURG (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3050571507.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/151235796.m3u8"
     },
     {
-      "name": "MS SPORT HD (1)",
+      "name": "ONE MUSIC (7)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1124061192.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4157022718.m3u8"
     },
     {
-      "name": "MTV MUSIC 24 (1)",
+      "name": "ONE TERRA (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2254834664.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1019025775.m3u8"
     },
     {
-      "name": "MUENCHEN (1)",
+      "name": "ORF1 RAW (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3021144168.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3734368078.m3u8"
     },
     {
-      "name": "NAT GEO HEVC (1)",
+      "name": "PLUTO TV MTV (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3972345543.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3512714670.m3u8"
     },
     {
-      "name": "OBERLAUSITZ TV (7)",
+      "name": "PROSIEBEN HEVC (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/636855243.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4202773226.m3u8"
     },
     {
-      "name": "ORF 3 HEVC (1)",
+      "name": "QVC LIVE (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3544015076.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3103399834.m3u8"
     },
     {
-      "name": "PLUTO TV NICK (6)",
+      "name": "RADIO WASER TV BREMEN (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2317754713.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2733668870.m3u8"
     },
     {
-      "name": "POPCORN SELECT 9 (6)",
+      "name": "RAKUTEN TV CRIME SERIES GERMANY (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1918942502.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3289361213.m3u8"
     },
     {
-      "name": "PRIME (6)",
+      "name": "RBB BERLIN (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2151250011.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3149750020.m3u8"
     },
     {
-      "name": "PULS 24 (1)",
+      "name": "RED BULL TV (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2960680440.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3309696542.m3u8"
     },
     {
-      "name": "QVC GERMANY (6)",
+      "name": "REGIO TV BODENSEE (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1075168802.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2799844693.m3u8"
     },
     {
-      "name": "QVC LIVE HD (1)",
+      "name": "RFH (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1663642536.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/427642906.m3u8"
     },
     {
-      "name": "RAKUTEN TV COMEDY MOVIES GERMANY (6)",
+      "name": "RHEINLOKAL (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/113200138.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3707168188.m3u8"
     },
     {
-      "name": "RAKUTEN TV FAMILY MOVIES GERMANY (6)",
+      "name": "RIC (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/4205397095.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2684081118.m3u8"
     },
     {
-      "name": "RIVER MONSTERS (6)",
+      "name": "RTL+ LIVE 4 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2698399676.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1015647790.m3u8"
     },
     {
-      "name": "RTL+ SPORT EVENT 1 [LIVE DURING EVENTS ONLY] (7)",
+      "name": "RTL+ SPORT EVENT 3 [LIVE DURING EVENTS ONLY] (7)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3689230926.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3324699628.m3u8"
     },
     {
-      "name": "RTL+ SPORT EVENT 4 [LIVE DURING EVENTS ONLY] (7)",
+      "name": "RTL+ SPORT EVENT 5 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/4003297755.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2965864696.m3u8"
     },
     {
-      "name": "RTL+ SPORT EVENT 5 [LIVE DURING EVENTS ONLY] (7)",
+      "name": "SAT.1 GOLD HEVC (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3766128906.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2258317661.m3u8"
     },
     {
-      "name": "RTL+ SPORT EVENT 7 (6)",
+      "name": "SAT 1 HD+ (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3389510552.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/207344905.m3u8"
     },
     {
-      "name": "RTL+ SPORT EVENT 7 [LIVE DURING EVENTS ONLY] (7)",
+      "name": "SERVUS TV MOTORSPORT (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/4256514216.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/689071993.m3u8"
     },
     {
-      "name": "SAT 1 GOLD (6)",
+      "name": "SILVERLINE (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1813629968.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1165783977.m3u8"
     },
     {
-      "name": "SERVUS TV HD (1)",
+      "name": "SKY 1 HD+ (BACKUP) (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2072482019.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2953419832.m3u8"
     },
     {
-      "name": "SERVUS TV HEVC (1)",
+      "name": "SKY 24 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1021525044.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1495501666.m3u8"
     },
     {
-      "name": "SKY ATLANTIC HD+ (BACKUP) (1)",
+      "name": "SKY ATLANTIC (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2798401146.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1213433745.m3u8"
     },
     {
-      "name": "SKY BOX PREMIEREN 8 HD (1)",
+      "name": "SKY BOX KRIEGSFILM (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2131167186.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1835191283.m3u8"
     },
     {
-      "name": "SKY BUNDESLIGA 10 (MATCH TIME) (7)",
+      "name": "SKY BOX PREMIEREN 9 HD (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/454539383.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3014461260.m3u8"
     },
     {
-      "name": "SKY BUNDESLIGA 10 RAW (1)",
+      "name": "SKY BUNDESLIGA 4 RAW (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/831483902.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3106225667.m3u8"
     },
     {
-      "name": "SKY BUNDESLIGA 10 [SPIELTAG] (6)",
+      "name": "SKY BUNDESLIGA 5 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2728972434.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2486975913.m3u8"
     },
     {
-      "name": "SKY BUNDESLIGA 7 RAW (1)",
+      "name": "SKY CINEMA (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2158494406.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1914097970.m3u8"
     },
     {
-      "name": "SKY BUNDESLIGA 9 (MATCH TIME) (7)",
+      "name": "SKY CINEMA CLASSICS HD (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1274071941.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/185991845.m3u8"
     },
     {
-      "name": "SKY BUNDESLIGA UHD (1)",
+      "name": "SKY CINEMA FAMILY HEVC (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/942625791.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4279471443.m3u8"
     },
     {
-      "name": "SKY CINEMA FAMILY HEVC (BACKUP) (1)",
+      "name": "SKY CINEMA HIGHLIGHTS (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1110696364.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/824805225.m3u8"
     },
     {
-      "name": "SKY CINEMA HITS (1)",
+      "name": "SKY CINEMA THRILLER (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2331906255.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/571248465.m3u8"
     },
     {
-      "name": "SKY CINEMA THRILLER RAW (1)",
+      "name": "SKY CINEMA THRILLER HD+ (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2858004521.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/85520340.m3u8"
     },
     {
-      "name": "SKY NOSTALGIE (6)",
+      "name": "SKY CLASSICS (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2135198864.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2843465399.m3u8"
     },
     {
-      "name": "SKY POPCORN SELECT 4 (7)",
+      "name": "SKY SELECT 2 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1622881023.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3936894153.m3u8"
     },
     {
-      "name": "SKY PREMIEREN HD (1)",
+      "name": "SKY SELECT 7 (7)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/680919359.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3784900308.m3u8"
     },
     {
-      "name": "SKY SELECT PROGRAMM BERSICHT (1)",
+      "name": "SKY SELECT 8 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2777266633.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2685936744.m3u8"
     },
     {
-      "name": "SKY SERIEN & SHOWS HD (1)",
+      "name": "SKY SELECT PREMIERE 7 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3353964677.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/852247802.m3u8"
     },
     {
-      "name": "SKY SERIEN&SHOWS HD+ (1)",
+      "name": "SKY SPORT 2 HD (BACKUP) (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3301503585.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/627555880.m3u8"
     },
     {
-      "name": "SKY SPORT 10 HD (1)",
+      "name": "SKY SPORT 2 RAW (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/872699913.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/176826495.m3u8"
     },
     {
-      "name": "SKY SPORT 11 HD (1)",
+      "name": "SPORTDEUTSCHLAND EVENT 1 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/4172175511.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3358346054.m3u8"
     },
     {
-      "name": "SKY SPORT 9 HD (BACKUP) (1)",
+      "name": "SPORTDEUTSCHLAND EVENT 15 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2431494706.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4087320500.m3u8"
     },
     {
-      "name": "SKY SPORT AUSTRIA 1 (1)",
+      "name": "SPORTDEUTSCHLAND EVENT 16 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2946846655.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3024090468.m3u8"
     },
     {
-      "name": "SKY SPORT UHD (1)",
+      "name": "SPORTDEUTSCHLAND EVENT 2 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/999102646.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2408329622.m3u8"
     },
     {
-      "name": "SONNENKLAR TV (6)",
+      "name": "SPORTDEUTSCHLAND EVENT 26 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3495440592.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/850102218.m3u8"
     },
     {
-      "name": "SONY AXN (AXN BLACK) (6)",
+      "name": "SPORTDEUTSCHLAND EVENT 28 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1069952375.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2375760299.m3u8"
     },
     {
-      "name": "SPORTDEUTSCHLAND EVENT 20 (1)",
+      "name": "SPORTDEUTSCHLAND EVENT 30 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3186324074.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1991745999.m3u8"
     },
     {
-      "name": "SPORTDEUTSCHLAND EVENT 34 (1)",
+      "name": "SPORTDEUTSCHLAND EVENT 3 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2201421583.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3001817126.m3u8"
     },
     {
-      "name": "SPORTDEUTSCHLAND EVENT 36 (1)",
+      "name": "SPORTDEUTSCHLAND EVENT 31 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/4193735791.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1272416383.m3u8"
     },
     {
-      "name": "S. SPORT 9 HD (1)",
+      "name": "SPORTDEUTSCHLAND EVENT 39 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1164227559.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2074592190.m3u8"
     },
     {
-      "name": "TLC HD+ (1)",
+      "name": "SPORTDEUTSCHLAND EVENT 4 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2716731895.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/13419574.m3u8"
     },
     {
-      "name": "TV 2 / MIDT-VEST (1)",
+      "name": "SPORTDEUTSCHLAND EVENT 8 (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/1727910726.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3309054263.m3u8"
     },
     {
-      "name": "TV3 HD (1)",
+      "name": "SRF (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/4096804646.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2558371138.m3u8"
     },
     {
-      "name": "TV3 PULS (1)",
+      "name": "S. SPORT 11 FHD (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2566182864.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3953049103.m3u8"
     },
     {
-      "name": "TV3 SPORT (1)",
+      "name": "S. SPORT 11 HD (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/3307783229.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1378077721.m3u8"
     },
     {
-      "name": "UHD1 BY ASTRA (6)",
+      "name": "S. SPORT 1 HD (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2866996249.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2525079634.m3u8"
     },
     {
-      "name": "V SPORT GOLF (1)",
+      "name": "S. SPORT 8 HD (1)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/343931295.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2312024953.m3u8"
     },
     {
-      "name": "WELT DER WUNDER (1)",
+      "name": "STINGRAY ICONCERTS (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/2960481561.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3433481620.m3u8"
     },
     {
-      "name": "YU-GI-OH! (6)",
+      "name": "STUDIO 47 (6)",
       "group": "Germany",
-      "old_url": "https://vavoo.to/live2/play3/4010734712.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2639454934.m3u8"
     },
     {
-      "name": "BYOBLU (6)",
-      "group": "Italy",
-      "old_url": "https://vavoo.to/live2/play3/2826111812.m3u8"
+      "name": "TASTEMADE (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3126933663.m3u8"
     },
     {
-      "name": "GIOVANNI PAOLO (7)",
-      "group": "Italy",
-      "old_url": "https://vavoo.to/live2/play3/2470759321.m3u8"
+      "name": "TELEKOM 3 BUNDESLIGA 1 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3123001367.m3u8"
     },
     {
-      "name": "GRANDUCATO (6)",
-      "group": "Italy",
-      "old_url": "https://vavoo.to/live2/play3/942153014.m3u8"
+      "name": "TELEKOM 3 BUNDESLIGA 2 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/4253369031.m3u8"
     },
     {
-      "name": "M2O (7)",
-      "group": "Italy",
-      "old_url": "https://vavoo.to/live2/play3/1189750614.m3u8"
+      "name": "TELEKOM 3 BUNDESLIGA 3 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3236260727.m3u8"
     },
     {
-      "name": "PAROLE DI VITA (6)",
-      "group": "Italy",
-      "old_url": "https://vavoo.to/live2/play3/1727695336.m3u8"
+      "name": "TELEKOM 3 BUNDESLIGA 4 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/1925560167.m3u8"
     },
     {
-      "name": "RAKUTEN TV ASIAN CINEMA ITALY (6)",
-      "group": "Italy",
-      "old_url": "https://vavoo.to/live2/play3/3214597554.m3u8"
+      "name": "TELEKOM 3 BUNDESLIGA 5 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/1336254167.m3u8"
     },
     {
-      "name": "RAKUTEN TV TOP MOVIES ITALY (6)",
-      "group": "Italy",
-      "old_url": "https://vavoo.to/live2/play3/2181370916.m3u8"
+      "name": "TELEKOM 3 BUNDESLIGA 6 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/134603783.m3u8"
     },
     {
-      "name": "RSI LA 2 (6)",
-      "group": "Italy",
-      "old_url": "https://vavoo.to/live2/play3/3590183307.m3u8"
+      "name": "TELEKOM 3 BUNDESLIGA 7 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/895864247.m3u8"
     },
     {
-      "name": "SKY PRIMAFILA 18 (6)",
-      "group": "Italy",
-      "old_url": "https://vavoo.to/live2/play3/3470758028.m3u8"
+      "name": "TELEKOM 3 BUNDESLIGA 8 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3073727078.m3u8"
     },
     {
-      "name": "SKY PRIMAFILA 2 (6)",
-      "group": "Italy",
-      "old_url": "https://vavoo.to/live2/play3/877200714.m3u8"
+      "name": "TELEKOM BBL SPORT 1 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/782224371.m3u8"
     },
     {
-      "name": "SKY PRIMAFILA PREMIERE 01 (7)",
-      "group": "Italy",
-      "old_url": "https://vavoo.to/live2/play3/2092474700.m3u8"
+      "name": "TELEKOM BUNDESLIGA 1 HD (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/1080222758.m3u8"
     },
     {
-      "name": "SKY SPORT NBA (7)",
-      "group": "Italy",
-      "old_url": "https://vavoo.to/live2/play3/326825326.m3u8"
+      "name": "TELEKOM BUNDESLIGA 3 HD (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/38265691.m3u8"
     },
     {
-      "name": "ST EUROPE CHANNEL (6)",
-      "group": "Italy",
-      "old_url": "https://vavoo.to/live2/play3/2356295928.m3u8"
+      "name": "TELEKOM BUNDESLIGA 4 HD (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/142797378.m3u8"
     },
     {
-      "name": "TG NORBA 24 (7)",
-      "group": "Italy",
-      "old_url": "https://vavoo.to/live2/play3/3413557893.m3u8"
+      "name": "TELEKOM BUNDESLIGA 5 (7)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/217584981.m3u8"
     },
     {
-      "name": "DEN HAAG FM (6)",
-      "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/1268929440.m3u8"
+      "name": "TELEKOM BUNDESLIGA 5 HD (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3291015900.m3u8"
     },
     {
-      "name": "DISNEY XD (7)",
-      "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/203464866.m3u8"
+      "name": "TELEKOM BUNDESLIGA 6 HD (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/1252519231.m3u8"
     },
     {
-      "name": "DUCK TV (6)",
-      "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/855410063.m3u8"
+      "name": "TELEKOM BUNDESLIGA 7 HD (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/2249059745.m3u8"
     },
     {
-      "name": "IDEAAL TV (6)",
-      "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/1302816819.m3u8"
+      "name": "TELEKOM DEL SPORT 1 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/1772664257.m3u8"
     },
     {
-      "name": "NJAM (6)",
-      "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/2021521631.m3u8"
+      "name": "TELEKOM DEL SPORT 2 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/772329233.m3u8"
     },
     {
-      "name": "OMROEP HULST TV (6)",
-      "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/3576709928.m3u8"
+      "name": "TELEKOM DEL SPORT 5 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/2619872001.m3u8"
     },
     {
-      "name": "RTV ARNHEM (6)",
-      "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/2748829730.m3u8"
+      "name": "TELEKOM DEL SPORT 6 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3683150289.m3u8"
     },
     {
-      "name": "RTV RIJNSTREEK TV (6)",
-      "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/3609554286.m3u8"
+      "name": "TELEKOM DEL SPORT 7 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3873980513.m3u8"
     },
     {
-      "name": "SALTO BRASA MUSIC (6)",
-      "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/4110941162.m3u8"
+      "name": "TELTOWKANAL (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/137856411.m3u8"
     },
     {
-      "name": "SAMEN1 TV (6)",
-      "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/10016112.m3u8"
+      "name": "THE MIDDLE 24/7 (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/2442914416.m3u8"
     },
     {
       "name": "TRAVELXP (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3367058532.m3u8"
+    },
+    {
+      "name": "TV 2 CHARLIE (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/506657131.m3u8"
+    },
+    {
+      "name": "TV 2 ZULU (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/1318804769.m3u8"
+    },
+    {
+      "name": "V FILM FAMILY (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/2086139873.m3u8"
+    },
+    {
+      "name": "V FILM PREMIERE (1)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/489755247.m3u8"
+    },
+    {
+      "name": "WDR FERNSEHEN DORTMUND (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/317792582.m3u8"
+    },
+    {
+      "name": "WDR FERNSEHEN DÜSSELDORF (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/2899916123.m3u8"
+    },
+    {
+      "name": "WDR FERNSEHEN ESSEN (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/1142418022.m3u8"
+    },
+    {
+      "name": "WDR FERNSEHEN SIEGEN (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/1487086919.m3u8"
+    },
+    {
+      "name": "WDR FERNSEHEN WUPPERTAL (6)",
+      "group": "Germany",
+      "old_url": "https://vavoo.to/live2/play3/3516038946.m3u8"
+    },
+    {
+      "name": "51 CUSANO ITALIA TV (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/4124613557.m3u8"
+    },
+    {
+      "name": "A2ITV (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/1161753010.m3u8"
+    },
+    {
+      "name": "ACI SPORT TV (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/1351631603.m3u8"
+    },
+    {
+      "name": "ANTENNA 2 (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/1751715519.m3u8"
+    },
+    {
+      "name": "AURORA ARTE (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/3234095135.m3u8"
+    },
+    {
+      "name": "BLOOMBERG TV (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/116299718.m3u8"
+    },
+    {
+      "name": "BLOOMBERG TV EMEA LIVE EVENT (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/2530106969.m3u8"
+    },
+    {
+      "name": "CANALE 88 MADEINBO (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/888430169.m3u8"
+    },
+    {
+      "name": "CLASSICA (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/64060922.m3u8"
+    },
+    {
+      "name": "COMEDY CENTRAL (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/3658277450.m3u8"
+    },
+    {
+      "name": "DISCOVERY DMAX (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/3710269273.m3u8"
+    },
+    {
+      "name": "ELIVE TV BRESCIA (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/590125569.m3u8"
+    },
+    {
+      "name": "ENTELLA TV (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/1444531463.m3u8"
+    },
+    {
+      "name": "EQU TV (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/2818586668.m3u8"
+    },
+    {
+      "name": "ETV RETE 7 (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/1493820217.m3u8"
+    },
+    {
+      "name": "ICARO TV (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/2488017405.m3u8"
+    },
+    {
+      "name": "ITALIA 2 (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/2062925095.m3u8"
+    },
+    {
+      "name": "IUNIOR TV (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/4096393677.m3u8"
+    },
+    {
+      "name": "LAC NEWS 24 (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/372287300.m3u8"
+    },
+    {
+      "name": "LA TR3 MARSALA (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/3227373886.m3u8"
+    },
+    {
+      "name": "LE CRONACHE TV (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/273293889.m3u8"
+    },
+    {
+      "name": "M2O TV (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/1278984600.m3u8"
+    },
+    {
+      "name": "OL3 RADIO (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/68102734.m3u8"
+    },
+    {
+      "name": "ONDA NOVARA TV (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/2032058058.m3u8"
+    },
+    {
+      "name": "ORLER TV (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/3559987993.m3u8"
+    },
+    {
+      "name": "RADIO 101 (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/3724439861.m3u8"
+    },
+    {
+      "name": "RADIO 24 (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/1586498225.m3u8"
+    },
+    {
+      "name": "RADIO BIRIKINA TV (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/3197904019.m3u8"
+    },
+    {
+      "name": "RADIO IBIZA TV (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/3663515423.m3u8"
+    },
+    {
+      "name": "RADIO IGLESIAS SARDEGNA (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/1119525899.m3u8"
+    },
+    {
+      "name": "RADIO STUDIO DELTA TV (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/3921927915.m3u8"
+    },
+    {
+      "name": "RAI ITALIA (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/374675593.m3u8"
+    },
+    {
+      "name": "RAKUTEN TV ACTION MOVIES ITALY (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/605745046.m3u8"
+    },
+    {
+      "name": "RAKUTEN TV DRAMA MOVIES ITALY (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/3709565277.m3u8"
+    },
+    {
+      "name": "RETE TV ITALIA (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/904571079.m3u8"
+    },
+    {
+      "name": "RTM (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/958797744.m3u8"
+    },
+    {
+      "name": "SKY ARTE (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/1806815496.m3u8"
+    },
+    {
+      "name": "SKY CINEMA COLLECTION (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/1759653413.m3u8"
+    },
+    {
+      "name": "SKY CINEMA SUSPENSE (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/1820997555.m3u8"
+    },
+    {
+      "name": "SKY PRIMAFILA 14 (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/187661709.m3u8"
+    },
+    {
+      "name": "SKY PRIMAFILA PREMIERE 02 (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/991484828.m3u8"
+    },
+    {
+      "name": "SKY SPORT ARENA (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/2555960713.m3u8"
+    },
+    {
+      "name": "SKY SPORT NBA (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/2711959620.m3u8"
+    },
+    {
+      "name": "TELE MANTOVA (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/4123851852.m3u8"
+    },
+    {
+      "name": "TELENORD (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/2923215049.m3u8"
+    },
+    {
+      "name": "TELE PAVIA (7)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/593944289.m3u8"
+    },
+    {
+      "name": "TG NORBA 24 (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/3379729817.m3u8"
+    },
+    {
+      "name": "TRG MEDIA (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/3020951967.m3u8"
+    },
+    {
+      "name": "TRSPORT (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/361314062.m3u8"
+    },
+    {
+      "name": "VIDEOSTAR TV (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/2499488584.m3u8"
+    },
+    {
+      "name": "VIDEOTOLENTINO (6)",
+      "group": "Italy",
+      "old_url": "https://vavoo.to/live2/play3/2015312510.m3u8"
+    },
+    {
+      "name": "1ALMERE TV (6)",
       "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/2154351987.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3025041592.m3u8"
     },
     {
-      "name": "VIAPLAY 10 (7)",
+      "name": "BR6 TV (6)",
       "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/2299450931.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3699377699.m3u8"
     },
     {
-      "name": "VIAPLAY 11 (7)",
+      "name": "COMEDY CENTRAL (6)",
       "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/3027173251.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1269765291.m3u8"
     },
     {
-      "name": "VIAPLAY 14 (7)",
+      "name": "CURIOSITY CHANNEL (6)",
       "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/2089709811.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2308264589.m3u8"
     },
     {
-      "name": "VIAPLAY 16 (7)",
+      "name": "DANCE TELEVISION (6)",
       "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/105784211.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/194736395.m3u8"
     },
     {
-      "name": "VIAPLAY 17 (7)",
+      "name": "DAZN SOPORT 3 HD (7)",
       "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/992872995.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1371781997.m3u8"
     },
     {
-      "name": "VIAPLAY 20 (7)",
+      "name": "HBO (6)",
       "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/261792925.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3690874941.m3u8"
     },
     {
-      "name": "VIAPLAY 22 (7)",
+      "name": "PEBBLE TV (7)",
       "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/1968895997.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3800386636.m3u8"
     },
     {
-      "name": "VIAPLAY 23 (7)",
+      "name": "TLC (6)",
       "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/1211817549.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2222600950.m3u8"
     },
     {
-      "name": "VIAPLAY 28 (7)",
+      "name": "VIAPLAY 15 (7)",
       "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/1072361308.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1106139459.m3u8"
     },
     {
-      "name": "VIAPLAY 29 (7)",
+      "name": "VIAPLAY 24 (7)",
       "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/42649324.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/4196008541.m3u8"
     },
     {
-      "name": "ZIGGO SPORT 3 (7)",
+      "name": "XITE CLASSIC COUNTRY (6)",
       "group": "Netherlands",
-      "old_url": "https://vavoo.to/live2/play3/1967684072.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1856059441.m3u8"
     },
     {
-      "name": "CANAL+ EXTRA 7 (6)",
+      "name": "BLOOMBERG (6)",
       "group": "Poland",
-      "old_url": "https://vavoo.to/live2/play3/2027920268.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1532856136.m3u8"
     },
     {
-      "name": "CANAL HD (1)",
+      "name": "CINEMAX POLAND 15 FHD (1)",
       "group": "Poland",
-      "old_url": "https://vavoo.to/live2/play3/867185230.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/3204445278.m3u8"
     },
     {
-      "name": "CINEMAX POLAND 10 FHD (1)",
+      "name": "CINEMAX POLAND 4 FHD (1)",
       "group": "Poland",
-      "old_url": "https://vavoo.to/live2/play3/4100501777.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2699407729.m3u8"
     },
     {
-      "name": "CINEMAX POLAND 14 FHD (1)",
+      "name": "CINEMAX POLAND 8 FHD (1)",
       "group": "Poland",
-      "old_url": "https://vavoo.to/live2/play3/2844057629.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1188119141.m3u8"
     },
     {
-      "name": "CINEMAX POLAND 18 FHD (1)",
+      "name": "ECHO24 (6)",
       "group": "Poland",
-      "old_url": "https://vavoo.to/live2/play3/1336939273.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/580777510.m3u8"
     },
     {
-      "name": "DISCOVERY HD (1)",
+      "name": "ELEVEN SPORTS 3 (6)",
       "group": "Poland",
-      "old_url": "https://vavoo.to/live2/play3/834680150.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2187318934.m3u8"
     },
     {
-      "name": "ENGLISH CLUB TV (6)",
+      "name": "EUROSPORT 3 (6)",
       "group": "Poland",
-      "old_url": "https://vavoo.to/live2/play3/3435997044.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/512159637.m3u8"
     },
     {
-      "name": "EUROSPORT 2 (1)",
+      "name": "FIGHT KLUB HD (1)",
       "group": "Poland",
-      "old_url": "https://vavoo.to/live2/play3/1352867541.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/934337228.m3u8"
     },
     {
-      "name": "FX (6)",
+      "name": "FILMAX UHD (6)",
       "group": "Poland",
-      "old_url": "https://vavoo.to/live2/play3/1259985177.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1045546910.m3u8"
     },
     {
-      "name": "INULTRA UHD (6)",
+      "name": "JUNIOR CHANNEL (6)",
       "group": "Poland",
-      "old_url": "https://vavoo.to/live2/play3/2052040645.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1210578380.m3u8"
     },
     {
-      "name": "POLSAT RODZINA (6)",
+      "name": "LOVE NATURE UHD (6)",
       "group": "Poland",
-      "old_url": "https://vavoo.to/live2/play3/4143781640.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/1690525082.m3u8"
     },
     {
-      "name": "SZLAGIER (6)",
+      "name": "POLSAT SPORT 1 (6)",
       "group": "Poland",
-      "old_url": "https://vavoo.to/live2/play3/472124960.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2101601326.m3u8"
     },
     {
-      "name": "ELEVEN SPORTS 6 HD (1)",
+      "name": "POLSAT SPORT FIGHT (1)",
+      "group": "Poland",
+      "old_url": "https://vavoo.to/live2/play3/691550660.m3u8"
+    },
+    {
+      "name": "SPORT KLUB (1)",
+      "group": "Poland",
+      "old_url": "https://vavoo.to/live2/play3/681181639.m3u8"
+    },
+    {
+      "name": "TVN 7 HD (1)",
+      "group": "Poland",
+      "old_url": "https://vavoo.to/live2/play3/1994391380.m3u8"
+    },
+    {
+      "name": "TVP 3 LUBLIN (6)",
+      "group": "Poland",
+      "old_url": "https://vavoo.to/live2/play3/3156025849.m3u8"
+    },
+    {
+      "name": "TVP ABC (6)",
+      "group": "Poland",
+      "old_url": "https://vavoo.to/live2/play3/848096719.m3u8"
+    },
+    {
+      "name": "TVS (6)",
+      "group": "Poland",
+      "old_url": "https://vavoo.to/live2/play3/2667518075.m3u8"
+    },
+    {
+      "name": "VIAPLAY KSW TV (MATCH TIME) (6)",
+      "group": "Poland",
+      "old_url": "https://vavoo.to/live2/play3/1628580117.m3u8"
+    },
+    {
+      "name": "CM TV (6)",
       "group": "Portugal",
-      "old_url": "https://vavoo.to/live2/play3/3466213503.m3u8"
-    },
-    {
-      "name": "KOMBAT SPORT (BACKUP) (1)",
-      "group": "Portugal",
-      "old_url": "https://vavoo.to/live2/play3/70466683.m3u8"
-    },
-    {
-      "name": "SPORT TV NBA HD (1)",
-      "group": "Portugal",
-      "old_url": "https://vavoo.to/live2/play3/3476204840.m3u8"
-    },
-    {
-      "name": "TOROS TV (1)",
-      "group": "Portugal",
-      "old_url": "https://vavoo.to/live2/play3/1243809524.m3u8"
-    },
-    {
-      "name": "2022 FILM (7)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/755743859.m3u8"
-    },
-    {
-      "name": "6 TV (7)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/2359203330.m3u8"
-    },
-    {
-      "name": "COMEDYEST HD (1)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/2425261898.m3u8"
-    },
-    {
-      "name": "DISCOVERY HD SHOWCASE (1)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/2323251357.m3u8"
-    },
-    {
-      "name": "DISCOVERY SCIENCE HD (1)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/2806040124.m3u8"
-    },
-    {
-      "name": "DOI DEGEABA (7)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/1995383199.m3u8"
-    },
-    {
-      "name": "DUNA TV (7)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/1954953425.m3u8"
-    },
-    {
-      "name": "LAS FIERBINTI SERIA 20 (7)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/1192808620.m3u8"
-    },
-    {
-      "name": "MASHA (7)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/1310950803.m3u8"
-    },
-    {
-      "name": "MDI TV (7)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/3310061966.m3u8"
-    },
-    {
-      "name": "NAT GEO WILD (7)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/607384556.m3u8"
-    },
-    {
-      "name": "NATIONAL CLUJ (7)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/2971327944.m3u8"
-    },
-    {
-      "name": "PRO 2 (7)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/456390639.m3u8"
-    },
-    {
-      "name": "PRO CINEMA (7)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/3457881266.m3u8"
-    },
-    {
-      "name": "TEZAUR TV (7)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/1824755946.m3u8"
-    },
-    {
-      "name": "WARNER TV (7)",
-      "group": "Romania",
-      "old_url": "https://vavoo.to/live2/play3/889667554.m3u8"
-    },
-    {
-      "name": "2X2 TV (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/3157167544.m3u8"
-    },
-    {
-      "name": "ТВ‑3 (1)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/84245006.m3u8"
-    },
-    {
-      "name": "360 НОВОСТИ (1)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/1091733503.m3u8"
-    },
-    {
-      "name": "365 DAYS (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/3879975969.m3u8"
-    },
-    {
-      "name": "AMEDIA 1 (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/1361923640.m3u8"
-    },
-    {
-      "name": "BELARUS 1 (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/102807674.m3u8"
-    },
-    {
-      "name": "BELARUS 2 (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/1098957482.m3u8"
-    },
-    {
-      "name": "BELARUS (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/6139117.m3u8"
-    },
-    {
-      "name": "BOXE TB (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/2402454838.m3u8"
-    },
-    {
-      "name": "CGTN‑РУССКИЙ (1)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/4216517736.m3u8"
-    },
-    {
-      "name": "COMEDY HD (1)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/4131343481.m3u8"
-    },
-    {
-      "name": "CTC (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/255848970.m3u8"
-    },
-    {
-      "name": "DA VINCI (1)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/2801631824.m3u8"
-    },
-    {
-      "name": "DISCOVERY SCIENCE (1)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/66532237.m3u8"
-    },
-    {
-      "name": "DOMASHNIE JIVOTNIE (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/3692944186.m3u8"
-    },
-    {
-      "name": "DTX (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/3718801943.m3u8"
-    },
-    {
-      "name": "EXTREME SPORTS (1)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/1862919275.m3u8"
-    },
-    {
-      "name": "FIRST CHANNEL (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/2516864795.m3u8"
-    },
-    {
-      "name": "FOTBALL (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/2926476671.m3u8"
-    },
-    {
-      "name": "HAWE (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/3623634431.m3u8"
-    },
-    {
-      "name": "HAWE HOBEW (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/3128642648.m3u8"
-    },
-    {
-      "name": "HDL (1)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/1460781813.m3u8"
-    },
-    {
-      "name": "HISTORY 2 (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/1902534877.m3u8"
-    },
-    {
-      "name": "HTB (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/811110208.m3u8"
-    },
-    {
-      "name": "ID (1)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/1255037843.m3u8"
-    },
-    {
-      "name": "ILLUSION (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/2377462763.m3u8"
-    },
-    {
-      "name": "JIMJAM (1)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/360992079.m3u8"
-    },
-    {
-      "name": "KINO FILM (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/1858185877.m3u8"
-    },
-    {
-      "name": "KINO ROKAS 1 (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/3147655003.m3u8"
-    },
-    {
-      "name": "MAMA (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/3369192614.m3u8"
-    },
-    {
-      "name": "MATCH (MAT4) (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/3439044659.m3u8"
-    },
-    {
-      "name": "MATCH OUR SPORTS (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/342961684.m3u8"
-    },
-    {
-      "name": "MATCH PLANET (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/1015824518.m3u8"
-    },
-    {
-      "name": "MTV LIVE INTERNATIONAL HD (1)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/1783586546.m3u8"
-    },
-    {
-      "name": "PRO100 TV (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/1240425920.m3u8"
-    },
-    {
-      "name": "RUSSIA BESTSELLER (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/3807352996.m3u8"
-    },
-    {
-      "name": "RUSSIA COMEDY (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/1556048326.m3u8"
-    },
-    {
-      "name": ".SCI‑FI (1)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/885844520.m3u8"
-    },
-    {
-      "name": "STAR (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/3297014271.m3u8"
-    },
-    {
-      "name": "STAR TB (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/1226383418.m3u8"
-    },
-    {
-      "name": "TB 3 (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/2914341648.m3u8"
-    },
-    {
-      "name": "THT MUSIC (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/2045635278.m3u8"
-    },
-    {
-      "name": "TIJI (1)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/30473084.m3u8"
-    },
-    {
-      "name": "TV 1000 PREMIUM (7)",
-      "group": "Russia",
-      "old_url": "https://vavoo.to/live2/play3/2109325135.m3u8"
-    },
-    {
-      "name": "7 STORIA (6)",
-      "group": "Spain",
-      "old_url": "https://vavoo.to/live2/play3/2850662107.m3u8"
-    },
-    {
-      "name": "AGUACATE TV (6)",
-      "group": "Spain",
-      "old_url": "https://vavoo.to/live2/play3/3700606099.m3u8"
-    },
-    {
-      "name": "AHORA TV (6)",
-      "group": "Spain",
-      "old_url": "https://vavoo.to/live2/play3/3321128121.m3u8"
-    },
-    {
-      "name": "MOVISTAR LA LIGA (BACKUP) (1)",
-      "group": "Spain",
-      "old_url": "https://vavoo.to/live2/play3/2652614938.m3u8"
-    },
-    {
-      "name": "OIZMENDI TELEBISTA (6)",
-      "group": "Spain",
-      "old_url": "https://vavoo.to/live2/play3/619735660.m3u8"
-    },
-    {
-      "name": "4K TR: AK T TV HD (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/3445585687.m3u8"
-    },
-    {
-      "name": "4K TR: EXXEN TV (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/194469526.m3u8"
-    },
-    {
-      "name": "4K TR: FX HD (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/1561495319.m3u8"
-    },
-    {
-      "name": "4K TR: POWER TURK HD (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/4244447384.m3u8"
-    },
-    {
-      "name": "4K TR: SPORTS TV HD (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2429298798.m3u8"
-    },
-    {
-      "name": "AKIT TV (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2702391715.m3u8"
-    },
-    {
-      "name": "AKLILI TV (7)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/3737299250.m3u8"
-    },
-    {
-      "name": "ASHABI KEHF (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2460324140.m3u8"
-    },
-    {
-      "name": "BEIN IZ (6)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/1691223078.m3u8"
-    },
-    {
-      "name": "BEIN MOVIES FAMILY (6)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2485199152.m3u8"
-    },
-    {
-      "name": "BEIN MOVIES PREMIERE 2 (7)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2120218356.m3u8"
-    },
-    {
-      "name": "BEIN SPORTS HABER RAW (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/1646632825.m3u8"
-    },
-    {
-      "name": "BEST FM T RK E POP (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2591986518.m3u8"
-    },
-    {
-      "name": "CAILLOU (6)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/4136709820.m3u8"
-    },
-    {
-      "name": "CAN TV (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/1822525741.m3u8"
-    },
-    {
-      "name": "CENGIZ KURTOGLU (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/1871521087.m3u8"
-    },
-    {
-      "name": "CINEMAXIMUM 3 ʜᴅ (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/3524610926.m3u8"
-    },
-    {
-      "name": "CINEMAXIMUM 7 ʜᴅ (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/1657551084.m3u8"
-    },
-    {
-      "name": "CINEMAXIMUM DRAM ʜᴅ (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2936937751.m3u8"
-    },
-    {
-      "name": "CINEMAXIMUM KOMEDI ʜᴅ (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/112670163.m3u8"
-    },
-    {
-      "name": "CINEMAXIMUM SU ʜᴅ (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/3653679102.m3u8"
-    },
-    {
-      "name": "CINEMAXIMUM YERLI 3 ʜᴅ (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2269432865.m3u8"
-    },
-    {
-      "name": "CINEVERSE AKS YON 5 (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/771907853.m3u8"
-    },
-    {
-      "name": "DENIZLI DEHA TV (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/230189059.m3u8"
-    },
-    {
-      "name": "DISCOVERY ID (7)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/972730032.m3u8"
-    },
-    {
-      "name": "DISNEY CHANNEL (7)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/1161899432.m3u8"
-    },
-    {
-      "name": "DREAM TURK (7)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/712098411.m3u8"
-    },
-    {
-      "name": "FILMBOX+ (7)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2600387615.m3u8"
-    },
-    {
-      "name": "KRAL TV (7)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/1131281902.m3u8"
-    },
-    {
-      "name": "MAX STAR WARS (6)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/1921170824.m3u8"
-    },
-    {
-      "name": "MILYON (7)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/586568093.m3u8"
-    },
-    {
-      "name": "NTV SD (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/3614694247.m3u8"
-    },
-    {
-      "name": "POWER T RK T RK E POP (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2703806315.m3u8"
-    },
-    {
-      "name": "POWER TURK HD (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/714196738.m3u8"
-    },
-    {
-      "name": "PROTURK LOCA 1 (6)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/1869786551.m3u8"
-    },
-    {
-      "name": "PROTURK ORJINAL (6)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/1662118634.m3u8"
-    },
-    {
-      "name": "PROTURK VIZYON (6)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2567042852.m3u8"
-    },
-    {
-      "name": "SALON 2 (6)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/3645943584.m3u8"
-    },
-    {
-      "name": "SHOW RADYO (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/3509899144.m3u8"
-    },
-    {
-      "name": "SHOW RADYO T RK E POP (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/1252306835.m3u8"
-    },
-    {
-      "name": "T.A.Y TV (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/3633765645.m3u8"
-    },
-    {
-      "name": "TIVIBUSPOR 3 HD (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2616624010.m3u8"
-    },
-    {
-      "name": "TJK TV (7)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2322888064.m3u8"
-    },
-    {
-      "name": "TRT 1 (7)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/115261333.m3u8"
-    },
-    {
-      "name": "TVDEN TV (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/3524690612.m3u8"
-    },
-    {
-      "name": "TVO TV (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2916629658.m3u8"
-    },
-    {
-      "name": "WM TV WOMAN KADIN (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/3259520726.m3u8"
-    },
-    {
-      "name": "ZERRIN OZER (1)",
-      "group": "Turkey",
-      "old_url": "https://vavoo.to/live2/play3/2655157451.m3u8"
-    },
-    {
-      "name": "4 MUSIC (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/3252427628.m3u8"
-    },
-    {
-      "name": "92 NEWS (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/4175172013.m3u8"
-    },
-    {
-      "name": "ABSOLUTE (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/3636946399.m3u8"
-    },
-    {
-      "name": "AL JAZEERA HD (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/1505679638.m3u8"
-    },
-    {
-      "name": "BBC ONE WEST (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/1174226171.m3u8"
-    },
-    {
-      "name": "BT SPORT 3 (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/2618854175.m3u8"
-    },
-    {
-      "name": "COLCHESTER UNITED F.C. (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/3726049440.m3u8"
-    },
-    {
-      "name": "CRAWLEY TOWN F.C. (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/2800847038.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/805844173.m3u8"
     },
     {
       "name": "DISNEY CHANNEL (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/2707576374.m3u8"
+      "group": "Portugal",
+      "old_url": "https://vavoo.to/live2/play3/1668808212.m3u8"
     },
     {
-      "name": "EDEN (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/2230151894.m3u8"
+      "name": "NAUTICAL CHANNEL (6)",
+      "group": "Portugal",
+      "old_url": "https://vavoo.to/live2/play3/2648942672.m3u8"
     },
     {
-      "name": "EIR SPORT 2 (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/3651912474.m3u8"
+      "name": "PANDA BIGGS (1)",
+      "group": "Portugal",
+      "old_url": "https://vavoo.to/live2/play3/2958694111.m3u8"
     },
     {
-      "name": "EPL 02 15:00 BURNLEY VS NOTTINGHAM FOREST (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/84610738.m3u8"
+      "name": "RECORD TV (6)",
+      "group": "Portugal",
+      "old_url": "https://vavoo.to/live2/play3/1211778226.m3u8"
     },
     {
-      "name": "EPL 03 15:00 WEST HAM UNITED VS CRYSTAL PALACE (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/851393698.m3u8"
+      "name": "SIC (6)",
+      "group": "Portugal",
+      "old_url": "https://vavoo.to/live2/play3/3762658364.m3u8"
     },
     {
-      "name": "EPL 04 (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/3058239090.m3u8"
+      "name": "SPORT TV (1)",
+      "group": "Portugal",
+      "old_url": "https://vavoo.to/live2/play3/2259646737.m3u8"
     },
     {
-      "name": "EUROSPORT 1 (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/2290804722.m3u8"
+      "name": "SPORT TV 1 HD (BACKUP) (1)",
+      "group": "Portugal",
+      "old_url": "https://vavoo.to/live2/play3/2112830810.m3u8"
     },
     {
-      "name": "EXETER CITY F.C. (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/556602175.m3u8"
+      "name": "STINGRAY CMUSIC (6)",
+      "group": "Portugal",
+      "old_url": "https://vavoo.to/live2/play3/3266140924.m3u8"
     },
     {
-      "name": "FLEETWOOD TOWN (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/4267240195.m3u8"
+      "name": "TVCINE+ (6)",
+      "group": "Portugal",
+      "old_url": "https://vavoo.to/live2/play3/811339888.m3u8"
     },
     {
-      "name": "GB NEWS HD (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/3296524850.m3u8"
+      "name": "2020 FILM (7)",
+      "group": "Romania",
+      "old_url": "https://vavoo.to/live2/play3/704539726.m3u8"
     },
     {
-      "name": "HUDDERSFIELD TOWN A.F.C. (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/983460834.m3u8"
+      "name": "ARDEAL TV (7)",
+      "group": "Romania",
+      "old_url": "https://vavoo.to/live2/play3/3491626627.m3u8"
     },
     {
-      "name": "ITV2 (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/1222861824.m3u8"
+      "name": "CANAL 33 (7)",
+      "group": "Romania",
+      "old_url": "https://vavoo.to/live2/play3/3979512919.m3u8"
     },
     {
-      "name": "NAT GEO (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/637829164.m3u8"
+      "name": "CARTOON NETWORK (1)",
+      "group": "Romania",
+      "old_url": "https://vavoo.to/live2/play3/682895493.m3u8"
     },
     {
-      "name": "NEW VISION TV (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/2570176350.m3u8"
+      "name": "DTX (7)",
+      "group": "Romania",
+      "old_url": "https://vavoo.to/live2/play3/455507840.m3u8"
     },
     {
-      "name": "NOOR TV (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/2036686557.m3u8"
+      "name": "FILMBOX FAMILY (7)",
+      "group": "Romania",
+      "old_url": "https://vavoo.to/live2/play3/4033560729.m3u8"
     },
     {
-      "name": "ORIGINALS MOVIES (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/603095719.m3u8"
+      "name": "FILMBOX PLUS (7)",
+      "group": "Romania",
+      "old_url": "https://vavoo.to/live2/play3/2500309796.m3u8"
     },
     {
-      "name": "PCNE CHINESE (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/2478771195.m3u8"
+      "name": "FILMBOX STARS (7)",
+      "group": "Romania",
+      "old_url": "https://vavoo.to/live2/play3/3670376642.m3u8"
     },
     {
-      "name": "POP+1 (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/4288396736.m3u8"
+      "name": "HIT CHANNEL (7)",
+      "group": "Romania",
+      "old_url": "https://vavoo.to/live2/play3/3650845286.m3u8"
     },
     {
-      "name": "RTE ONE (7)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/3947654331.m3u8"
+      "name": "I.UMOR-S09 (7)",
+      "group": "Romania",
+      "old_url": "https://vavoo.to/live2/play3/1258507228.m3u8"
     },
     {
-      "name": "SKY CINEMA DISNEY (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/2940246239.m3u8"
+      "name": "PRO TV NEWS (7)",
+      "group": "Romania",
+      "old_url": "https://vavoo.to/live2/play3/1932473755.m3u8"
     },
     {
-      "name": "SKY CINEMA DRAMA (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/1998919858.m3u8"
+      "name": "SAPTAMANII 1 (7)",
+      "group": "Romania",
+      "old_url": "https://vavoo.to/live2/play3/1344060293.m3u8"
     },
     {
-      "name": "SKY CINEMA GREATS (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/2755952298.m3u8"
+      "name": "SAPTAMANII 2 (7)",
+      "group": "Romania",
+      "old_url": "https://vavoo.to/live2/play3/398246229.m3u8"
     },
     {
-      "name": "SKY CINEMA THRILLER (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/1407336452.m3u8"
+      "name": "TVR INTERNATIONAL (7)",
+      "group": "Romania",
+      "old_url": "https://vavoo.to/live2/play3/476441838.m3u8"
     },
     {
-      "name": "SKY SPORT CRICKET (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/2352556888.m3u8"
+      "name": "ИЗВЕСТИЯ (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/3037360057.m3u8"
     },
     {
-      "name": "SKYS PORTS ARENA (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/1770964081.m3u8"
+      "name": "МИР БАСКЕТБОЛА (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/3609686576.m3u8"
     },
     {
-      "name": "SKY SPORTS CRICKET (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/2604404132.m3u8"
+      "name": "МУЛЬТИЛАНДИЯ (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/2642703898.m3u8"
     },
     {
-      "name": "SKY SPORTS CRICKET HD (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/1301186838.m3u8"
+      "name": "СПАС (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/2723978799.m3u8"
     },
     {
-      "name": "SKYS PORTS FOOTBALL (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/3456283032.m3u8"
+      "name": "МАТЧ! ФУТБОЛ 1 HD (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/4071606722.m3u8"
     },
     {
-      "name": "SKY SPORTS FOOTBALL HD (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/1258853748.m3u8"
+      "name": "РОССИЯ 24 (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/2442576810.m3u8"
     },
     {
-      "name": "SKY SPORTS MIX HD (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/3026248510.m3u8"
+      "name": "МАТЧ! ФУТБОЛ 2 HD (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/2082524705.m3u8"
     },
     {
-      "name": "SKY SPORTS NFL (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/824650177.m3u8"
+      "name": "360 TUNEBOX (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/98281434.m3u8"
     },
     {
-      "name": "SKY SPORTS RACING HD (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/3621871855.m3u8"
+      "name": "ИЗВЕСТИЯ (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/1091289112.m3u8"
     },
     {
-      "name": "SKY WITNESS (1)",
-      "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/1060791337.m3u8"
+      "name": "МУЖСКОЕ КИНО (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/1450089233.m3u8"
     },
     {
-      "name": "WION HD (1)",
+      "name": "A 2 (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/3433129355.m3u8"
+    },
+    {
+      "name": "BBC WORLD NEWS (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/101106127.m3u8"
+    },
+    {
+      "name": "CHE (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/4100703562.m3u8"
+    },
+    {
+      "name": "E TV (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/1954783303.m3u8"
+    },
+    {
+      "name": "FASTNFUNBOX HD (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/2590559126.m3u8"
+    },
+    {
+      "name": "FIGHTBOX HD (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/2335621669.m3u8"
+    },
+    {
+      "name": "FOX HD (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/1293994774.m3u8"
+    },
+    {
+      "name": "КИНОПРЕМЬЕРА HD (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/3343714768.m3u8"
+    },
+    {
+      "name": "HGTV HD (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/1592973751.m3u8"
+    },
+    {
+      "name": "KINO KOMEDIJA (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/110753114.m3u8"
+    },
+    {
+      "name": "KOMEDIJA TV (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/1171526072.m3u8"
+    },
+    {
+      "name": "LIFE HD (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/1326217428.m3u8"
+    },
+    {
+      "name": "MATCH IGRA (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/3780914079.m3u8"
+    },
+    {
+      "name": "MATCH SPORTS [LIVE DURING EVENTS ONLY] (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/513586767.m3u8"
+    },
+    {
+      "name": "АРСЕНАЛ (MATCH TIME) (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/3807934386.m3u8"
+    },
+    {
+      "name": "MEGAHIT (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/342498182.m3u8"
+    },
+    {
+      "name": "MOYA PLANETA (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/2706758733.m3u8"
+    },
+    {
+      "name": "PARAMOUNT CHANNEL (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/762422207.m3u8"
+    },
+    {
+      "name": "PEH TB (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/2621653193.m3u8"
+    },
+    {
+      "name": "PETPO (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/1361645806.m3u8"
+    },
+    {
+      "name": "PREMIERE (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/3922372395.m3u8"
+    },
+    {
+      "name": "RTDOCUMENTARY (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/2544051528.m3u8"
+    },
+    {
+      "name": "RUSSIA XTREAM (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/3444722691.m3u8"
+    },
+    {
+      "name": "RUTV (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/146951997.m3u8"
+    },
+    {
+      "name": "SONY TURBO (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/3515755195.m3u8"
+    },
+    {
+      "name": "TELEPUTESHESTVYA (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/1466461372.m3u8"
+    },
+    {
+      "name": "THT 4 (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/316704812.m3u8"
+    },
+    {
+      "name": "TRAVEL+ (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/1264565644.m3u8"
+    },
+    {
+      "name": "TRAVEL ADVENTURE (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/1396764297.m3u8"
+    },
+    {
+      "name": "TV 1000 PYCCKOE (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/3865793557.m3u8"
+    },
+    {
+      "name": "VIASAT 1000 ACTION (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/405326144.m3u8"
+    },
+    {
+      "name": "VIASAT EXPLORE HD (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/764758875.m3u8"
+    },
+    {
+      "name": "VIASAT NATURE/VIASAT HISTORY HD (1)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/460760604.m3u8"
+    },
+    {
+      "name": "ZEE TV (7)",
+      "group": "Russia",
+      "old_url": "https://vavoo.to/live2/play3/2231694483.m3u8"
+    },
+    {
+      "name": "13 REALITIES (6)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/4213738396.m3u8"
+    },
+    {
+      "name": "BARCA TV (1)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/1979280950.m3u8"
+    },
+    {
+      "name": "BEIN SPORTS N (6)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/3580225131.m3u8"
+    },
+    {
+      "name": "CADENA ELITE (6)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/2235104269.m3u8"
+    },
+    {
+      "name": "CANAL PANDA (6)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/2717687042.m3u8"
+    },
+    {
+      "name": "CNN EN ESPANOL (6)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/2703788385.m3u8"
+    },
+    {
+      "name": "DAZN LALIGA 1 FHD [] (6)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/3325387265.m3u8"
+    },
+    {
+      "name": "DAZN LALIGA 2 (6)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/427708442.m3u8"
+    },
+    {
+      "name": "LA LIGA TV HD (1)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/3923153097.m3u8"
+    },
+    {
+      "name": "MOVISTAR LA LIGA (1)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/2428779244.m3u8"
+    },
+    {
+      "name": "MOVISTAR LIGA DE CAMPEONES (1)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/1275784434.m3u8"
+    },
+    {
+      "name": "MOVISTAR LIGA DE CAMPEONES 1 HD (ONLY EVENT) (1)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/1079960250.m3u8"
+    },
+    {
+      "name": "MOVISTAR LIGA DE CAMPEONES 2 HD (ONLY EVENT) (1)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/994074713.m3u8"
+    },
+    {
+      "name": "TRECE TV (6)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/902146587.m3u8"
+    },
+    {
+      "name": "XTRM FULL HD (1)",
+      "group": "Spain",
+      "old_url": "https://vavoo.to/live2/play3/4208329945.m3u8"
+    },
+    {
+      "name": "4K TR: ENGLISH CLUB TV (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/925055356.m3u8"
+    },
+    {
+      "name": "4K TR: NICKTOONS (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/988691374.m3u8"
+    },
+    {
+      "name": "ALEM RADYO (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/809445873.m3u8"
+    },
+    {
+      "name": "ANAKKALE BOĞAZ TV (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1943578223.m3u8"
+    },
+    {
+      "name": "ANIMAL PLANET HD (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/3913298991.m3u8"
+    },
+    {
+      "name": "AV TV (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/154080342.m3u8"
+    },
+    {
+      "name": "BARIS MANCO (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/2548448596.m3u8"
+    },
+    {
+      "name": "BEIN GURME (7)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/3583230858.m3u8"
+    },
+    {
+      "name": "BONUS MASAL DIYARI (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1753590086.m3u8"
+    },
+    {
+      "name": "CAILLOU TV (7)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/3626289230.m3u8"
+    },
+    {
+      "name": "CINEMAXIMUM 2 ʜᴅ (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/328963246.m3u8"
+    },
+    {
+      "name": "CINEMAXIMUM 8 ʜᴅ (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/4046769194.m3u8"
+    },
+    {
+      "name": "CINEVERSE B L MKURGU 1 (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/759608989.m3u8"
+    },
+    {
+      "name": "CINEVERSE B L MKURGU 2 (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1793510477.m3u8"
+    },
+    {
+      "name": "CINEVERSE B L MKURGU 4 (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/3852876269.m3u8"
+    },
+    {
+      "name": "CINEVERSE FANTASY 7 (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/3342014007.m3u8"
+    },
+    {
+      "name": "CINEVERSE KORKU 2 (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/754754209.m3u8"
+    },
+    {
+      "name": "CINEVERSE KORKU 5 (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/2665250481.m3u8"
+    },
+    {
+      "name": "CINEVERSE KORKU 8 (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1716304384.m3u8"
+    },
+    {
+      "name": "DIM TV (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1072972009.m3u8"
+    },
+    {
+      "name": "DISCOVERY SCIENCE (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1013220447.m3u8"
+    },
+    {
+      "name": "DIZISMART PREMIUM (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1195429280.m3u8"
+    },
+    {
+      "name": "EDESSA TV (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/2154492528.m3u8"
+    },
+    {
+      "name": "EKIN T RK TV (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/657495272.m3u8"
+    },
+    {
+      "name": "EKOL TV SD (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/3549408298.m3u8"
+    },
+    {
+      "name": "ENO ANIMASYON (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/659694487.m3u8"
+    },
+    {
+      "name": "ENO VIZYON 12 (7)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/465153856.m3u8"
+    },
+    {
+      "name": "ENO VIZYON 3 (7)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/251061611.m3u8"
+    },
+    {
+      "name": "ERCIS TV (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/2901457550.m3u8"
+    },
+    {
+      "name": "FILMBOX FANTASTIC (7)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/2267707661.m3u8"
+    },
+    {
+      "name": "FINEST TV (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/2663765748.m3u8"
+    },
+    {
+      "name": "FM TV (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1285510370.m3u8"
+    },
+    {
+      "name": "HZ MERYEM (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/961307496.m3u8"
+    },
+    {
+      "name": "HZ OMER (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/340307369.m3u8"
+    },
+    {
+      "name": "IZMIR TV 35 (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/666189323.m3u8"
+    },
+    {
+      "name": "KAYSERI KENT TV (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/161664882.m3u8"
+    },
+    {
+      "name": "KAY TV (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/2379646637.m3u8"
+    },
+    {
+      "name": "KENT TURK (7)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/704689787.m3u8"
+    },
+    {
+      "name": "KRAL FM (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/3585033856.m3u8"
+    },
+    {
+      "name": "KRAL FM ARABESK (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/2220807783.m3u8"
+    },
+    {
+      "name": "KRAL POP (7)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/4169838993.m3u8"
+    },
+    {
+      "name": "KRAL POP HD+ (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/4012432749.m3u8"
+    },
+    {
+      "name": "MAX VIZYON 1 (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/3792548191.m3u8"
+    },
+    {
+      "name": "MGC (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/2073766557.m3u8"
+    },
+    {
+      "name": "MONTAG & FREITAG BULLI (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/2862980701.m3u8"
+    },
+    {
+      "name": "MUSLUM GURSES (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/195374549.m3u8"
+    },
+    {
+      "name": "NATIONAL GEOGRAPHIC HD+ (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1514492628.m3u8"
+    },
+    {
+      "name": "NBA TV (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/4247542706.m3u8"
+    },
+    {
+      "name": "NUMBER ONE FM YABANCI M ZIK BURDA (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/3916966300.m3u8"
+    },
+    {
+      "name": "PROTURK GERILIM (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1293208483.m3u8"
+    },
+    {
+      "name": "SHOW TV SD (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/2112025777.m3u8"
+    },
+    {
+      "name": "SINEVIZYON TURK 1 (7)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/237327525.m3u8"
+    },
+    {
+      "name": "SINEVIZYON TURK 2 (7)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1233464949.m3u8"
+    },
+    {
+      "name": "SINEVIZYON TURK 6 (7)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/3154479285.m3u8"
+    },
+    {
+      "name": "SINEVIZYON TURK 9 (7)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1045765988.m3u8"
+    },
+    {
+      "name": "SIVAS (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/985769071.m3u8"
+    },
+    {
+      "name": "SLOW KARADENIZ (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1388101311.m3u8"
+    },
+    {
+      "name": "S SPORT+10 MAC SAATI (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1024063139.m3u8"
+    },
+    {
+      "name": "S SPORT+3 MAC SAATI (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/3269372326.m3u8"
+    },
+    {
+      "name": "S SPORT+6 MAC SAATI (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/4049147693.m3u8"
+    },
+    {
+      "name": "S SPORT+8 MAC SAATI (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/472518488.m3u8"
+    },
+    {
+      "name": "SURELER VE T RKCE MEALI (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/3430890461.m3u8"
+    },
+    {
+      "name": "TABII SPOR 4 (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/2307885365.m3u8"
+    },
+    {
+      "name": "TABII SPOR 5 (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/3035603077.m3u8"
+    },
+    {
+      "name": "TLC (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1766840660.m3u8"
+    },
+    {
+      "name": "VIZYON 58 (6)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/1264201556.m3u8"
+    },
+    {
+      "name": "YOL TV (1)",
+      "group": "Turkey",
+      "old_url": "https://vavoo.to/live2/play3/3603580131.m3u8"
+    },
+    {
+      "name": "92 NEWS (1)",
       "group": "United Kingdom",
-      "old_url": "https://vavoo.to/live2/play3/3839948466.m3u8"
+      "old_url": "https://vavoo.to/live2/play3/2466243336.m3u8"
+    },
+    {
+      "name": "ALIBI (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/1396894621.m3u8"
+    },
+    {
+      "name": "ASTRO PL2 (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/1495642669.m3u8"
+    },
+    {
+      "name": "BARNET F.C. (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3091451729.m3u8"
+    },
+    {
+      "name": "BARNSLEY F.C. (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2680781689.m3u8"
+    },
+    {
+      "name": "BARROW A.F.C. (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/1568776223.m3u8"
+    },
+    {
+      "name": "BBC TWO WALES (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2906043924.m3u8"
+    },
+    {
+      "name": "BLACKPOOL F.C. (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/1335045249.m3u8"
+    },
+    {
+      "name": "BOX HITS (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3563312584.m3u8"
+    },
+    {
+      "name": "BRADFORD CITY A.F.C. (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/1258560611.m3u8"
+    },
+    {
+      "name": "BT SPORT 1 (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3872970879.m3u8"
+    },
+    {
+      "name": "BT SPORT 3 HD (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3579790332.m3u8"
+    },
+    {
+      "name": "CAMBRIDGE UNITED F.C. (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/29904276.m3u8"
+    },
+    {
+      "name": "CBS REALITY (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2958912738.m3u8"
+    },
+    {
+      "name": "CHAMPS NORWICH CITY (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3129746969.m3u8"
+    },
+    {
+      "name": "CHAMPS PORTSMOUTH FC (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3069626938.m3u8"
+    },
+    {
+      "name": "CHAMPS SHEFFIELD UNITED F.C. (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/1033106555.m3u8"
+    },
+    {
+      "name": "CHAMPS SWANSEA CITY (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/96753799.m3u8"
+    },
+    {
+      "name": "DEEN TV (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/852637802.m3u8"
+    },
+    {
+      "name": "E4 EXTRA (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3428363276.m3u8"
+    },
+    {
+      "name": "EPL 06 17:30 MANCHESTER UNITED VS CHELSEA (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/174271140.m3u8"
+    },
+    {
+      "name": "EPL 07 20:00 FULHAM VS BRENTFORD (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3899631659.m3u8"
+    },
+    {
+      "name": "EUROSPORT 1 HD (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2737624792.m3u8"
+    },
+    {
+      "name": "EUROSPORT 2 (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3475676450.m3u8"
+    },
+    {
+      "name": "FOX (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2107712260.m3u8"
+    },
+    {
+      "name": "FREE SPORTS HD (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/391940165.m3u8"
+    },
+    {
+      "name": "HIGH STREET TV 3 (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/652022172.m3u8"
+    },
+    {
+      "name": "HUB PREMIER 9 (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3814087748.m3u8"
+    },
+    {
+      "name": "IQRA TV (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3330435563.m3u8"
+    },
+    {
+      "name": "ISLAM TV (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/4201520029.m3u8"
+    },
+    {
+      "name": "KIDS 4 (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2773487987.m3u8"
+    },
+    {
+      "name": "NAT GEO WILD (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2534557485.m3u8"
+    },
+    {
+      "name": "NORTHAMPTON TOWN F.C. (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/786635207.m3u8"
+    },
+    {
+      "name": "NOW SPORTS 6 (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3184832725.m3u8"
+    },
+    {
+      "name": "NOW SPORTS 7 (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2159319397.m3u8"
+    },
+    {
+      "name": "NTD (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/4258283046.m3u8"
+    },
+    {
+      "name": "PETERBOROUGH UNITED F.C. (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/1530271692.m3u8"
+    },
+    {
+      "name": "PICK+1 (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2854656717.m3u8"
+    },
+    {
+      "name": "PLYMOUTH ARGYLE F.C. (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3043026085.m3u8"
+    },
+    {
+      "name": "PTV GLOBAL (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/269935491.m3u8"
+    },
+    {
+      "name": "QVC BEAUTY (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/4258813039.m3u8"
+    },
+    {
+      "name": "RACING POST TV HD (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2212089895.m3u8"
+    },
+    {
+      "name": "ROTHERHAM UNITED F.C. (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/1809650609.m3u8"
+    },
+    {
+      "name": "RTE JR (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2713202476.m3u8"
+    },
+    {
+      "name": "RT HD (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2743499355.m3u8"
+    },
+    {
+      "name": "SALFORD CITY F.C. (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3729887141.m3u8"
+    },
+    {
+      "name": "SKY CINEMA FAMILY (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2616501925.m3u8"
+    },
+    {
+      "name": "SKY CINEMA HITS (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2518336302.m3u8"
+    },
+    {
+      "name": "SKY STORE PREMIERE 21 ᴴᴰ (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3239589632.m3u8"
+    },
+    {
+      "name": "TINY POP+1 (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/1414100609.m3u8"
+    },
+    {
+      "name": "TRACE HITS (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/522332954.m3u8"
+    },
+    {
+      "name": "TRACE VAULT (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3604478810.m3u8"
+    },
+    {
+      "name": "VIAPLAY EVENT 10 (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2934487044.m3u8"
+    },
+    {
+      "name": "VIAPLAY EVENT 11 (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/2475200948.m3u8"
+    },
+    {
+      "name": "VIAPLAY EVENT 12 (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3559451492.m3u8"
+    },
+    {
+      "name": "VIAPLAY EVENT 13 (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3913859796.m3u8"
+    },
+    {
+      "name": "VIAPLAY EVENT 15 (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/1711814516.m3u8"
+    },
+    {
+      "name": "VIAPLAY EVENT 1 (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/1608977213.m3u8"
+    },
+    {
+      "name": "VIAPLAY EVENT 3 (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/623335517.m3u8"
+    },
+    {
+      "name": "VIAPLAY EVENT 7 (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3500670621.m3u8"
+    },
+    {
+      "name": "VIAPLAY EVENT 9 (7)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/1872183548.m3u8"
+    },
+    {
+      "name": "WWE HD (1)",
+      "group": "United Kingdom",
+      "old_url": "https://vavoo.to/live2/play3/3698596740.m3u8"
     }
   ]
 }
