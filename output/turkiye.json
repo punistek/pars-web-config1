@@ -38,6 +38,25 @@
     ]
   },
   {
+    "name": "360 (7)",
+    "url": "https://vavoo.to/live2/play3/1651455199.m3u8",
+    "group": "Turkey",
+    "tvg_id": "360.tr",
+    "logo": "https://i.imgur.com/agn47sQ.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1651455199.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "360 PLUS (7)",
     "url": "https://vavoo.to/live2/play3/1893598000.m3u8",
     "group": "Turkey",
@@ -70,6 +89,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/1174108535.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "A NEWS (7)",
+    "url": "https://vavoo.to/live2/play3/1571071214.m3u8",
+    "group": "Turkey",
+    "tvg_id": "ANews.tr",
+    "logo": "https://i.imgur.com/6tWCzTp.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1571071214.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -171,6 +209,44 @@
     ]
   },
   {
+    "name": "AKIT TV (7)",
+    "url": "https://vavoo.to/live2/play3/1862240206.m3u8",
+    "group": "Turkey",
+    "tvg_id": "AkitTV.tr",
+    "logo": "https://i.imgur.com/oGto929.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1862240206.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "AKLILI TV (7)",
+    "url": "https://vavoo.to/live2/play3/3737299250.m3u8",
+    "group": "Turkey",
+    "tvg_id": "AkliliTv.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/3737299250.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "AKSU TV K MARAS (7)",
     "url": "https://vavoo.to/live2/play3/2914289476.m3u8",
     "group": "Turkey",
@@ -203,6 +279,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/1468389014.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "ANIMAL PLANET (7)",
+    "url": "https://vavoo.to/live2/play3/2110161355.m3u8",
+    "group": "Turkey",
+    "tvg_id": "AnimalPlanet.tr",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/2110161355.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -323,6 +418,25 @@
     ]
   },
   {
+    "name": "BEIN BOX OFFICE 1 (7)",
+    "url": "https://vavoo.to/live2/play3/1320363850.m3u8",
+    "group": "Turkey",
+    "tvg_id": "beINBoxOffice1.tr",
+    "logo": "https://i.imgur.com/MGrJFVN.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1320363850.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "BEIN BOX OFFICE 2 (7)",
     "url": "https://vavoo.to/live2/play3/152264090.m3u8",
     "group": "Turkey",
@@ -336,6 +450,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/152264090.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "BEIN GURME (7)",
+    "url": "https://vavoo.to/live2/play3/3583230858.m3u8",
+    "group": "Turkey",
+    "tvg_id": "beINGurme.tr",
+    "logo": "https://i.imgur.com/Q8ITIMl.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/3583230858.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -399,6 +532,25 @@
     ]
   },
   {
+    "name": "BEIN MOVIES FAMILY (7)",
+    "url": "https://vavoo.to/live2/play3/1322228068.m3u8",
+    "group": "Turkey",
+    "tvg_id": "beINMoviesFamily.tr",
+    "logo": "https://i.imgur.com/PVUclcU.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1322228068.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "BEIN MOVIES PREMIERE (7)",
     "url": "https://vavoo.to/live2/play3/2197747964.m3u8",
     "group": "Turkey",
@@ -418,11 +570,11 @@
     ]
   },
   {
-    "name": "BEIN MOVIES STARS (7)",
-    "url": "https://vavoo.to/live2/play3/1963748784.m3u8",
+    "name": "BEIN MOVIES PREMIERE 2 (7)",
+    "url": "https://vavoo.to/live2/play3/2120218356.m3u8",
     "group": "Turkey",
-    "tvg_id": "beINMoviesStars.tr",
-    "logo": "https://i.imgur.com/eryPkrT.png",
+    "tvg_id": "beINMoviesPremiere2.tr",
+    "logo": "https://i.imgur.com/4Uuxk4T.png",
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
@@ -430,7 +582,26 @@
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/1963748784.m3u8",
+        "url": "https://vavoo.to/live2/play3/2120218356.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "BEIN MOVIES TURK (7)",
+    "url": "https://vavoo.to/live2/play3/1835579025.m3u8",
+    "group": "Turkey",
+    "tvg_id": "beINMoviesTurk.tr",
+    "logo": "https://i.imgur.com/nw8Sa2z.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1835579025.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -589,6 +760,25 @@
     ]
   },
   {
+    "name": "BEIN SPORTS 5 (MATCH TIME) (7)",
+    "url": "https://vavoo.to/live2/play3/1230448192.m3u8",
+    "group": "Turkey",
+    "tvg_id": "BeinSports5.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1230448192.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "BEIN SPORTS HABER (7)",
     "url": "https://vavoo.to/live2/play3/2806079612.m3u8",
     "group": "Turkey",
@@ -741,6 +931,25 @@
     ]
   },
   {
+    "name": "CAILLOU TV (7)",
+    "url": "https://vavoo.to/live2/play3/3626289230.m3u8",
+    "group": "Turkey",
+    "tvg_id": "CaillouTv.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/3626289230.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "CARTOON NETWORK (7)",
     "url": "https://vavoo.to/live2/play3/478549032.m3u8",
     "group": "Turkey",
@@ -874,6 +1083,25 @@
     ]
   },
   {
+    "name": "DIGI MAX (7)",
+    "url": "https://vavoo.to/live2/play3/1278447576.m3u8",
+    "group": "Turkey",
+    "tvg_id": "DigiMax.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1278447576.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "DISCOVERY CHANNEL (7)",
     "url": "https://vavoo.to/live2/play3/3079995901.m3u8",
     "group": "Turkey",
@@ -944,6 +1172,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/3963678097.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "DIZI SMART MAX (7)",
+    "url": "https://vavoo.to/live2/play3/4079530614.m3u8",
+    "group": "Turkey",
+    "tvg_id": "DiziSmartMax.tr",
+    "logo": "https://i.imgur.com/mb3jM28.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/4079530614.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -1083,25 +1330,6 @@
     ]
   },
   {
-    "name": "ENO ANIMASYON (7)",
-    "url": "https://vavoo.to/live2/play3/3833753338.m3u8",
-    "group": "Turkey",
-    "tvg_id": "EnoAnimasyon.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/3833753338.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "ENO VIZYON 1 (7)",
     "url": "https://vavoo.to/live2/play3/1949742603.m3u8",
     "group": "Turkey",
@@ -1110,7 +1338,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -1129,7 +1357,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -1167,7 +1395,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -1224,7 +1452,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -1281,7 +1509,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -1319,7 +1547,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -1338,7 +1566,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -1501,19 +1729,19 @@
     ]
   },
   {
-    "name": "EXXEN SPORTS 4 (7)",
-    "url": "https://vavoo.to/live2/play3/2771024060.m3u8",
+    "name": "EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY] (7)",
+    "url": "https://vavoo.to/live2/play3/3807939453.m3u8",
     "group": "Turkey",
-    "tvg_id": "ExxenSports4.tr",
+    "tvg_id": "ExxenSports3LiveDuringEventsOnly.tr",
     "logo": "",
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "unchanged",
+    "url_status": "new",
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/2771024060.m3u8",
+        "url": "https://vavoo.to/live2/play3/3807939453.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -1642,7 +1870,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -1723,6 +1951,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/2851147991.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "GALATASARAY TV (7)",
+    "url": "https://vavoo.to/live2/play3/338831283.m3u8",
+    "group": "Turkey",
+    "tvg_id": "GalatasarayTV.tr",
+    "logo": "/live2/logo/338831283.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/338831283.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -1824,25 +2071,6 @@
     ]
   },
   {
-    "name": "HT SPOR (7)",
-    "url": "https://vavoo.to/live2/play3/1240193403.m3u8",
-    "group": "Turkey",
-    "tvg_id": "HTSporTV.tr",
-    "logo": "https://www.htspor.com/images/manifest/social-share-logo.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/1240193403.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "IDMAN TV (7)",
     "url": "https://vavoo.to/live2/play3/1993949957.m3u8",
     "group": "Turkey",
@@ -1932,6 +2160,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/87578284.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "KANAL 3 (7)",
+    "url": "https://vavoo.to/live2/play3/1178569854.m3u8",
+    "group": "Turkey",
+    "tvg_id": "Kanal3.tr",
+    "logo": "https://i.imgur.com/eXErSv0.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1178569854.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -2242,6 +2489,25 @@
     ]
   },
   {
+    "name": "KRAL TV (7)",
+    "url": "https://vavoo.to/live2/play3/1131281902.m3u8",
+    "group": "Turkey",
+    "tvg_id": "KralTV.tr",
+    "logo": "https://i.imgur.com/GeEDOPN.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1131281902.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "KRT TV (7)",
     "url": "https://vavoo.to/live2/play3/3998379019.m3u8",
     "group": "Turkey",
@@ -2269,7 +2535,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -2318,6 +2584,25 @@
     ]
   },
   {
+    "name": "LOVE NATURE (7)",
+    "url": "https://vavoo.to/live2/play3/2520793577.m3u8",
+    "group": "Turkey",
+    "tvg_id": "LoveNature.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/2520793577.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "MASAL (7)",
     "url": "https://vavoo.to/live2/play3/4089756536.m3u8",
     "group": "Turkey",
@@ -2356,6 +2641,25 @@
     ]
   },
   {
+    "name": "MELTEM (7)",
+    "url": "https://vavoo.to/live2/play3/1127127807.m3u8",
+    "group": "Turkey",
+    "tvg_id": "Meltem.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1127127807.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "MERCAN TV (7)",
     "url": "https://vavoo.to/live2/play3/3177271965.m3u8",
     "group": "Turkey",
@@ -2369,6 +2673,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/3177271965.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "MILYON (7)",
+    "url": "https://vavoo.to/live2/play3/586568093.m3u8",
+    "group": "Turkey",
+    "tvg_id": "Milyon.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/586568093.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -3211,25 +3534,6 @@
     ]
   },
   {
-    "name": "SINEMA AKSIYON 2 (7)",
-    "url": "https://vavoo.to/live2/play3/179563017.m3u8",
-    "group": "Turkey",
-    "tvg_id": "SinemaAksiyon2.tr",
-    "logo": "https://i.imgur.com/oy8Nq1r.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/179563017.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "SINEMA KOMEDI (7)",
     "url": "https://vavoo.to/live2/play3/257449668.m3u8",
     "group": "Turkey",
@@ -3243,6 +3547,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/257449668.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "SINEMA TV (7)",
+    "url": "https://vavoo.to/live2/play3/1617719941.m3u8",
+    "group": "Turkey",
+    "tvg_id": "SinemaTV.tr",
+    "logo": "https://i.imgur.com/qstBXDP.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1617719941.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -3295,49 +3618,11 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/2789249461.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "SINEMAX FAMILY (7)",
-    "url": "https://vavoo.to/live2/play3/1469484475.m3u8",
-    "group": "Turkey",
-    "tvg_id": "SinemaxFamily.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/1469484475.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "SINEMAX TURK (7)",
-    "url": "https://vavoo.to/live2/play3/4201568953.m3u8",
-    "group": "Turkey",
-    "tvg_id": "SinemaxTurk.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
     "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/4201568953.m3u8",
+        "url": "https://vavoo.to/live2/play3/2789249461.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -3352,7 +3637,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -3376,6 +3661,44 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/567459984.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "SINEVIZYON TURK 1 (7)",
+    "url": "https://vavoo.to/live2/play3/237327525.m3u8",
+    "group": "Turkey",
+    "tvg_id": "SinevizyonTurk1.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/237327525.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "SINEVIZYON TURK 2 (7)",
+    "url": "https://vavoo.to/live2/play3/1233464949.m3u8",
+    "group": "Turkey",
+    "tvg_id": "SinevizyonTurk2.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1233464949.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -3439,19 +3762,19 @@
     ]
   },
   {
-    "name": "SIRINLER TV (7)",
-    "url": "https://vavoo.to/live2/play3/1766241745.m3u8",
+    "name": "SMART COCUK (7)",
+    "url": "https://vavoo.to/live2/play3/4277750275.m3u8",
     "group": "Turkey",
-    "tvg_id": "SirinlerTv.tr",
+    "tvg_id": "SmartCocuk.tr",
     "logo": "",
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "unchanged",
+    "url_status": "new",
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/1766241745.m3u8",
+        "url": "https://vavoo.to/live2/play3/4277750275.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -3471,25 +3794,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/4137962062.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "SPOR SMART 1 (7)",
-    "url": "https://vavoo.to/live2/play3/3278735965.m3u8",
-    "group": "Turkey",
-    "tvg_id": "SporSmart1.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/3278735965.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -3528,25 +3832,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/863472446.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "TAY (7)",
-    "url": "https://vavoo.to/live2/play3/2927324913.m3u8",
-    "group": "Turkey",
-    "tvg_id": "Tay.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/2927324913.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -3686,25 +3971,6 @@
     ]
   },
   {
-    "name": "TIVIBU SPOR 1 HD (7)",
-    "url": "https://vavoo.to/live2/play3/2046583925.m3u8",
-    "group": "Turkey",
-    "tvg_id": "TivibuSpor1.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/2046583925.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "TIVIBU SPOR 2 (7)",
     "url": "https://vavoo.to/live2/play3/478254799.m3u8",
     "group": "Turkey",
@@ -3827,7 +4093,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -4161,6 +4427,25 @@
     ]
   },
   {
+    "name": "TV 41 (7)",
+    "url": "https://vavoo.to/live2/play3/49546714.m3u8",
+    "group": "Turkey",
+    "tvg_id": "TV41.tr",
+    "logo": "https://i.imgur.com/6T472LM.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/49546714.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "TV 5 (7)",
     "url": "https://vavoo.to/live2/play3/2055199683.m3u8",
     "group": "Turkey",
@@ -4250,6 +4535,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/1830521243.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "TV EM (7)",
+    "url": "https://vavoo.to/live2/play3/4272477808.m3u8",
+    "group": "Turkey",
+    "tvg_id": "TvEM.tr",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/e/e9/TvEM_logosu.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/4272477808.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -4427,25 +4731,6 @@
     ]
   },
   {
-    "name": "VUSLAT TV (7)",
-    "url": "https://vavoo.to/live2/play3/1061752758.m3u8",
-    "group": "Turkey",
-    "tvg_id": "VuslatTV.tr",
-    "logo": "https://i.imgur.com/5AiUlIJ.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/1061752758.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "YABAN TV (7)",
     "url": "https://vavoo.to/live2/play3/4204615990.m3u8",
     "group": "Turkey",
@@ -4522,19 +4807,19 @@
     ]
   },
   {
-    "name": "24 KITCHEN (6)",
-    "url": "https://vavoo.to/live2/play3/3295699287.m3u8",
+    "name": "YOL TV (7)",
+    "url": "https://vavoo.to/live2/play3/1071166054.m3u8",
     "group": "Turkey",
-    "tvg_id": "24Kitchen.tr",
-    "logo": "/live2/logo/3295699287.png",
+    "tvg_id": "YolTv.tr",
+    "logo": "",
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "unchanged",
+    "url_status": "new",
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/3295699287.m3u8",
+        "url": "https://vavoo.to/live2/play3/1071166054.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -5073,6 +5358,25 @@
     ]
   },
   {
+    "name": "BEIN MOVIES ACTION (6)",
+    "url": "https://vavoo.to/live2/play3/1873478131.m3u8",
+    "group": "Turkey",
+    "tvg_id": "beINMoviesAction.tr",
+    "logo": "/live2/logo/1873478131.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1873478131.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "BEIN MOVIES ACTION 2 (6)",
     "url": "https://vavoo.to/live2/play3/2617318386.m3u8",
     "group": "Turkey",
@@ -5157,11 +5461,30 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/2500913164.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "BEIN MOVIES TURK (6)",
+    "url": "https://vavoo.to/live2/play3/3390575948.m3u8",
+    "group": "Turkey",
+    "tvg_id": "beINMoviesTurk.tr",
+    "logo": "/live2/logo/3390575948.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/3390575948.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -5238,6 +5561,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/1249271114.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "BEIN SERIES DRAMA (6)",
+    "url": "https://vavoo.to/live2/play3/3413672103.m3u8",
+    "group": "Turkey",
+    "tvg_id": "beINSeriesDrama.tr",
+    "logo": "/live2/logo/3413672103.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/3413672103.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -5371,25 +5713,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/1197336000.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "BEIN SPORTS MAX 1 (6)",
-    "url": "https://vavoo.to/live2/play3/1221587067.m3u8",
-    "group": "Turkey",
-    "tvg_id": "BeinSportsMax1.tr",
-    "logo": "/live2/logo/1221587067.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/1221587067.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -5556,7 +5879,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -5708,11 +6031,30 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/2205765331.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "DENIZ POSTASI TV (6)",
+    "url": "https://vavoo.to/live2/play3/1832075215.m3u8",
+    "group": "Turkey",
+    "tvg_id": "DenizPostasiTV.tr",
+    "logo": "https://i.imgur.com/Mm8hdfx.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1832075215.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -5738,11 +6080,11 @@
     ]
   },
   {
-    "name": "DISCOVERY SCIENCE (6)",
-    "url": "https://vavoo.to/live2/play3/1013220447.m3u8",
+    "name": "DIM TV (6)",
+    "url": "https://vavoo.to/live2/play3/1072972009.m3u8",
     "group": "Turkey",
-    "tvg_id": "DiscoveryScience.tr",
-    "logo": "/live2/logo/1013220447.png",
+    "tvg_id": "DimTV.tr",
+    "logo": "/live2/logo/1072972009.png",
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
@@ -5750,7 +6092,7 @@
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/1013220447.m3u8",
+        "url": "https://vavoo.to/live2/play3/1072972009.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -5955,7 +6297,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -6107,7 +6449,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -6278,7 +6620,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -6397,6 +6739,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/992260636.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "FM TV (6)",
+    "url": "https://vavoo.to/live2/play3/4253863829.m3u8",
+    "group": "Turkey",
+    "tvg_id": "FMTV.tr",
+    "logo": "/live2/logo/4253863829.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/4253863829.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -6848,7 +7209,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -6916,6 +7277,25 @@
     ]
   },
   {
+    "name": "KANAL HAYAT (6)",
+    "url": "https://vavoo.to/live2/play3/897076110.m3u8",
+    "group": "Turkey",
+    "tvg_id": "KanalHayat.tr",
+    "logo": "/live2/logo/897076110.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/897076110.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "KANAL URFA (6)",
     "url": "https://vavoo.to/live2/play3/847659673.m3u8",
     "group": "Turkey",
@@ -6967,6 +7347,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/1270110607.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "KAY TV (6)",
+    "url": "https://vavoo.to/live2/play3/2379646637.m3u8",
+    "group": "Turkey",
+    "tvg_id": "KayTV.tr",
+    "logo": "https://i.imgur.com/MymuDJ1.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/2379646637.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -7125,25 +7524,6 @@
     ]
   },
   {
-    "name": "KRAL TV (6)",
-    "url": "https://vavoo.to/live2/play3/1505032467.m3u8",
-    "group": "Turkey",
-    "tvg_id": "KralTV.tr",
-    "logo": "/live2/logo/1505032467.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/1505032467.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "KRT (6)",
     "url": "https://vavoo.to/live2/play3/331685130.m3u8",
     "group": "Turkey",
@@ -7171,7 +7551,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -7513,7 +7893,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -7646,7 +8026,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -7703,7 +8083,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -7809,6 +8189,25 @@
     ]
   },
   {
+    "name": "MOVIESMART FEST (6)",
+    "url": "https://vavoo.to/live2/play3/2904422908.m3u8",
+    "group": "Turkey",
+    "tvg_id": "MoviesmartFest.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/2904422908.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "MOVIESMART TURK (6)",
     "url": "https://vavoo.to/live2/play3/3719397522.m3u8",
     "group": "Turkey",
@@ -7822,6 +8221,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/3719397522.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "NAT GEO WILD (6)",
+    "url": "https://vavoo.to/live2/play3/3320654968.m3u8",
+    "group": "Turkey",
+    "tvg_id": "NatGeoWild.tr",
+    "logo": "/live2/logo/3320654968.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/3320654968.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -8056,6 +8474,25 @@
     ]
   },
   {
+    "name": "ORDU BUYUKSEHIR BELEDIYESI (OBB) (6)",
+    "url": "https://vavoo.to/live2/play3/760981668.m3u8",
+    "group": "Turkey",
+    "tvg_id": "OrduBuyuksehirBelediyesi.tr",
+    "logo": "/live2/logo/760981668.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/760981668.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "POWER DANCE (6)",
     "url": "https://vavoo.to/live2/play3/4234416466.m3u8",
     "group": "Turkey",
@@ -8227,25 +8664,6 @@
     ]
   },
   {
-    "name": "PROTURK FANTASTIC (6)",
-    "url": "https://vavoo.to/live2/play3/4028396893.m3u8",
-    "group": "Turkey",
-    "tvg_id": "ProturkFantastic.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/4028396893.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "PROTURK GERILIM (6)",
     "url": "https://vavoo.to/live2/play3/1293208483.m3u8",
     "group": "Turkey",
@@ -8322,19 +8740,19 @@
     ]
   },
   {
-    "name": "PROTURK LOCA 2 (6)",
-    "url": "https://vavoo.to/live2/play3/684906343.m3u8",
+    "name": "PROTURK MACERA (6)",
+    "url": "https://vavoo.to/live2/play3/50689293.m3u8",
     "group": "Turkey",
-    "tvg_id": "ProturkLoca2.tr",
+    "tvg_id": "ProturkMacera.tr",
     "logo": "",
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "unchanged",
+    "url_status": "new",
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/684906343.m3u8",
+        "url": "https://vavoo.to/live2/play3/50689293.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -8444,7 +8862,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -8520,7 +8938,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -8748,7 +9166,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -8976,7 +9394,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -9196,25 +9614,6 @@
     ]
   },
   {
-    "name": "TIVI TÜRK (6)",
-    "url": "https://vavoo.to/live2/play3/702157954.m3u8",
-    "group": "Turkey",
-    "tvg_id": "TiviTrk.tr",
-    "logo": "/live2/logo/702157954.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/702157954.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "TIVIBU SPOR 1 (6)",
     "url": "https://vavoo.to/live2/play3/2565972338.m3u8",
     "group": "Turkey",
@@ -9266,44 +9665,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/3794924050.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "TIVIBU SPOR 4 (6)",
-    "url": "https://vavoo.to/live2/play3/1343303170.m3u8",
-    "group": "Turkey",
-    "tvg_id": "TivibuSpor4.tr",
-    "logo": "/live2/logo/1343303170.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/1343303170.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "TJK TV (6)",
-    "url": "https://vavoo.to/live2/play3/3887658051.m3u8",
-    "group": "Turkey",
-    "tvg_id": "TJKTV.tr",
-    "logo": "/live2/logo/3887658051.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/3887658051.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -9698,30 +10059,11 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/975669992.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "TV 41 (6)",
-    "url": "https://vavoo.to/live2/play3/2106403864.m3u8",
-    "group": "Turkey",
-    "tvg_id": "TV41.tr",
-    "logo": "/live2/logo/2106403864.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
     "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/2106403864.m3u8",
+        "url": "https://vavoo.to/live2/play3/975669992.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -10344,7 +10686,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -10634,25 +10976,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/2706210049.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "4K TR: ENGLISH CLUB TV (1)",
-    "url": "https://vavoo.to/live2/play3/925055356.m3u8",
-    "group": "Turkey",
-    "tvg_id": "TrEnglishClubTv.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/925055356.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -11172,10 +11495,10 @@
     ]
   },
   {
-    "name": "4K TR: POWER TV HD (1)",
-    "url": "https://vavoo.to/live2/play3/1307965662.m3u8",
+    "name": "4K TR: POWER TURK HD (1)",
+    "url": "https://vavoo.to/live2/play3/4244447384.m3u8",
     "group": "Turkey",
-    "tvg_id": "TrPowerTv.tr",
+    "tvg_id": "TrPowerTurk.tr",
     "logo": "",
     "country": "TR",
     "headers": {},
@@ -11184,7 +11507,7 @@
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/1307965662.m3u8",
+        "url": "https://vavoo.to/live2/play3/4244447384.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -11503,7 +11826,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -12236,25 +12559,6 @@
     ]
   },
   {
-    "name": "ADANA TV (1)",
-    "url": "https://vavoo.to/live2/play3/225124967.m3u8",
-    "group": "Turkey",
-    "tvg_id": "AdanaTv.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/225124967.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "ADIYAMAN MERCAN TV (1)",
     "url": "https://vavoo.to/live2/play3/3055235391.m3u8",
     "group": "Turkey",
@@ -12268,25 +12572,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/3055235391.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "AFYON T RK TV (1)",
-    "url": "https://vavoo.to/live2/play3/145755891.m3u8",
-    "group": "Turkey",
-    "tvg_id": "AfyonTRkTv.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/145755891.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -12320,7 +12605,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -12363,25 +12648,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/3728553873.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "ALEM RADYO (1)",
-    "url": "https://vavoo.to/live2/play3/809445873.m3u8",
-    "group": "Turkey",
-    "tvg_id": "AlemRadyo.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/809445873.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -12586,7 +12852,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -12730,6 +12996,25 @@
     ]
   },
   {
+    "name": "BABA RADYO ARABESK (1)",
+    "url": "https://vavoo.to/live2/play3/4096569454.m3u8",
+    "group": "Turkey",
+    "tvg_id": "BabaRadyoArabesk.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/4096569454.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "BABY TV HD (1)",
     "url": "https://vavoo.to/live2/play3/2751658995.m3u8",
     "group": "Turkey",
@@ -12776,7 +13061,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -12800,25 +13085,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/2228496856.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "BEIN 1 FEED (720P) (1)",
-    "url": "https://vavoo.to/live2/play3/1363827223.m3u8",
-    "group": "Turkey",
-    "tvg_id": "beinsports1.tr",
-    "logo": "/live2/logo/1363827223.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/1363827223.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -12920,25 +13186,6 @@
     ]
   },
   {
-    "name": "BEIN SPORTS 1 H265 (1)",
-    "url": "https://vavoo.to/live2/play3/2403425031.m3u8",
-    "group": "Turkey",
-    "tvg_id": "beinsports1.tr",
-    "logo": "/live2/logo/2403425031.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/2403425031.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "BEIN SPORTS 1 HD (1)",
     "url": "https://vavoo.to/live2/play3/662179620.m3u8",
     "group": "Turkey",
@@ -12952,25 +13199,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/662179620.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "BEIN SPORTS 1 HD (TURKEY) (1)",
-    "url": "https://vavoo.to/live2/play3/593493860.m3u8",
-    "group": "Turkey",
-    "tvg_id": "beinsports1.tr",
-    "logo": "/live2/logo/593493860.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/593493860.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -13414,25 +13642,6 @@
     ]
   },
   {
-    "name": "BEIN SPOTS1 SD (1)",
-    "url": "https://vavoo.to/live2/play3/143239535.m3u8",
-    "group": "Turkey",
-    "tvg_id": "BeinSpots1.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/143239535.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "BEYAZ HD+ SD (1)",
     "url": "https://vavoo.to/live2/play3/1020985035.m3u8",
     "group": "Turkey",
@@ -13726,7 +13935,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -13756,25 +13965,6 @@
     ]
   },
   {
-    "name": "CINEMAXIMUM 2 ʜᴅ (1)",
-    "url": "https://vavoo.to/live2/play3/328963246.m3u8",
-    "group": "Turkey",
-    "tvg_id": "Cinemaximum2.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/328963246.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "CINEMAXIMUM 3 ʜᴅ (1)",
     "url": "https://vavoo.to/live2/play3/3524610926.m3u8",
     "group": "Turkey",
@@ -13783,30 +13973,11 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/3524610926.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "CINEMAXIMUM 4 ʜᴅ (1)",
-    "url": "https://vavoo.to/live2/play3/4214120173.m3u8",
-    "group": "Turkey",
-    "tvg_id": "Cinemaximum4.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
     "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/4214120173.m3u8",
+        "url": "https://vavoo.to/live2/play3/3524610926.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -13832,38 +14003,19 @@
     ]
   },
   {
-    "name": "CINEMAXIMUM 8 ʜᴅ (1)",
-    "url": "https://vavoo.to/live2/play3/4046769194.m3u8",
+    "name": "CINEMAXIMUM 6 ʜᴅ (1)",
+    "url": "https://vavoo.to/live2/play3/2739070764.m3u8",
     "group": "Turkey",
-    "tvg_id": "Cinemaximum8.tr",
+    "tvg_id": "Cinemaximum6.tr",
     "logo": "",
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "unchanged",
+    "url_status": "new",
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/4046769194.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "CINEMAXIMUM 9 ʜᴅ (1)",
-    "url": "https://vavoo.to/live2/play3/817501162.m3u8",
-    "group": "Turkey",
-    "tvg_id": "Cinemaximum9.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/817501162.m3u8",
+        "url": "https://vavoo.to/live2/play3/2739070764.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -13878,7 +14030,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -13908,44 +14060,6 @@
     ]
   },
   {
-    "name": "CINEMAXIMUM BILIMKURGU ʜᴅ (1)",
-    "url": "https://vavoo.to/live2/play3/91605144.m3u8",
-    "group": "Turkey",
-    "tvg_id": "CinemaximumBilimkurgu.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/91605144.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "CINEMAXIMUM BOLLYWOOD ʜᴅ (1)",
-    "url": "https://vavoo.to/live2/play3/2495744105.m3u8",
-    "group": "Turkey",
-    "tvg_id": "CinemaximumBollywood.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/2495744105.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "CINEMAXIMUM DRAM ʜᴅ (1)",
     "url": "https://vavoo.to/live2/play3/2936937751.m3u8",
     "group": "Turkey",
@@ -13959,6 +14073,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/2936937751.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "CINEMAXIMUM FANTASTIK ʜᴅ (1)",
+    "url": "https://vavoo.to/live2/play3/2562962072.m3u8",
+    "group": "Turkey",
+    "tvg_id": "CinemaximumFantastik.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/2562962072.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -14068,7 +14201,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14144,30 +14277,11 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/2269432865.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "CINEMAXIMUM YERLI 5 ʜᴅ (1)",
-    "url": "https://vavoo.to/live2/play3/1878066786.m3u8",
-    "group": "Turkey",
-    "tvg_id": "CinemaximumYerli5.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
     "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/1878066786.m3u8",
+        "url": "https://vavoo.to/live2/play3/2269432865.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -14182,7 +14296,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14201,11 +14315,30 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/771907853.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "CINEVERSE AKS YON 6 (1)",
+    "url": "https://vavoo.to/live2/play3/1772231645.m3u8",
+    "group": "Turkey",
+    "tvg_id": "CineverseAksYon6.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1772231645.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -14231,63 +14364,6 @@
     ]
   },
   {
-    "name": "CINEVERSE B L MKURGU 1 (1)",
-    "url": "https://vavoo.to/live2/play3/759608989.m3u8",
-    "group": "Turkey",
-    "tvg_id": "CineverseBLMkurgu1.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/759608989.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "CINEVERSE B L MKURGU 2 (1)",
-    "url": "https://vavoo.to/live2/play3/1793510477.m3u8",
-    "group": "Turkey",
-    "tvg_id": "CineverseBLMkurgu2.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/1793510477.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "CINEVERSE B L MKURGU 3 (1)",
-    "url": "https://vavoo.to/live2/play3/1468458493.m3u8",
-    "group": "Turkey",
-    "tvg_id": "CineverseBLMkurgu3.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/1468458493.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "CINEVERSE B L MKURGU 4 (1)",
     "url": "https://vavoo.to/live2/play3/3852876269.m3u8",
     "group": "Turkey",
@@ -14296,7 +14372,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14315,7 +14391,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14334,7 +14410,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14353,7 +14429,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14372,7 +14448,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14410,7 +14486,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14448,7 +14524,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14467,11 +14543,30 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/3342014007.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "CINEVERSE FANTASY 8 (1)",
+    "url": "https://vavoo.to/live2/play3/1164149222.m3u8",
+    "group": "Turkey",
+    "tvg_id": "CineverseFantasy8.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1164149222.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -14524,7 +14619,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14543,30 +14638,11 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/2747029249.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "CINEVERSE KORKU 5 (1)",
-    "url": "https://vavoo.to/live2/play3/2665250481.m3u8",
-    "group": "Turkey",
-    "tvg_id": "CineverseKorku5.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/2665250481.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -14581,7 +14657,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14600,7 +14676,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14638,7 +14714,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14657,7 +14733,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14676,7 +14752,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14714,30 +14790,11 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/1398978412.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "CINEVERSE V ZYON 1 (1)",
-    "url": "https://vavoo.to/live2/play3/2147717986.m3u8",
-    "group": "Turkey",
-    "tvg_id": "CineverseVZyon1.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/2147717986.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -14771,7 +14828,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -14809,7 +14866,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -15067,6 +15124,25 @@
     ]
   },
   {
+    "name": "DISCOVERY SCIENCE HD+ (1)",
+    "url": "https://vavoo.to/live2/play3/2818684271.m3u8",
+    "group": "Turkey",
+    "tvg_id": "DiscoveryScience.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/2818684271.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "DISNEY CHANNEL HD (1)",
     "url": "https://vavoo.to/live2/play3/3578544716.m3u8",
     "group": "Turkey",
@@ -15086,25 +15162,6 @@
     ]
   },
   {
-    "name": "DISNEY JR HD (1)",
-    "url": "https://vavoo.to/live2/play3/4108765291.m3u8",
-    "group": "Turkey",
-    "tvg_id": "DisneyJr.tr",
-    "logo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/4108765291.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "DISNEY JR HD+ (1)",
     "url": "https://vavoo.to/live2/play3/1772892321.m3u8",
     "group": "Turkey",
@@ -15118,6 +15175,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/1772892321.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "DISNEY XD HD (1)",
+    "url": "https://vavoo.to/live2/play3/3422853680.m3u8",
+    "group": "Turkey",
+    "tvg_id": "DisneyXd.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/3422853680.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -15276,11 +15352,11 @@
     ]
   },
   {
-    "name": "EFKAR FM CANLI RADYO (1)",
-    "url": "https://vavoo.to/live2/play3/2156922182.m3u8",
+    "name": "EKOL SPOR HD (1)",
+    "url": "https://vavoo.to/live2/play3/814969642.m3u8",
     "group": "Turkey",
-    "tvg_id": "EfkarFmCanliRadyo.tr",
-    "logo": "",
+    "tvg_id": "GS TV HD-TR",
+    "logo": "/live2/logo/814969642.png",
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
@@ -15288,45 +15364,7 @@
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/2156922182.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "EGE TURK TV (1)",
-    "url": "https://vavoo.to/live2/play3/4225938876.m3u8",
-    "group": "Turkey",
-    "tvg_id": "EgeTurkTV.tr",
-    "logo": "https://i.imgur.com/TLUKrMb.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/4225938876.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "EKIN T RK TV (1)",
-    "url": "https://vavoo.to/live2/play3/657495272.m3u8",
-    "group": "Turkey",
-    "tvg_id": "EkinTRkTv.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/657495272.m3u8",
+        "url": "https://vavoo.to/live2/play3/814969642.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -15360,7 +15398,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -15588,7 +15626,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -15612,25 +15650,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/1091403912.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "EXXEN TV SPOR 1 HD (1)",
-    "url": "https://vavoo.to/live2/play3/1204200801.m3u8",
-    "group": "Turkey",
-    "tvg_id": "ExxenTvSpor1.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/1204200801.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -16690,7 +16709,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -16728,7 +16747,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -17279,7 +17298,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -17366,11 +17385,11 @@
     ]
   },
   {
-    "name": "KRAL POP RADYO T RK E POP (1)",
-    "url": "https://vavoo.to/live2/play3/3295096268.m3u8",
+    "name": "KRAL TV HD (1)",
+    "url": "https://vavoo.to/live2/play3/2879812830.m3u8",
     "group": "Turkey",
-    "tvg_id": "KralPopRadyoTRkEPop.tr",
-    "logo": "",
+    "tvg_id": "KralTV.tr",
+    "logo": "https://i.imgur.com/GeEDOPN.png",
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
@@ -17378,7 +17397,7 @@
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/3295096268.m3u8",
+        "url": "https://vavoo.to/live2/play3/2879812830.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -17545,7 +17564,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -17613,25 +17632,6 @@
     ]
   },
   {
-    "name": "MBAT FM ARABESK (1)",
-    "url": "https://vavoo.to/live2/play3/2719293629.m3u8",
-    "group": "Turkey",
-    "tvg_id": "MbatFmArabesk.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/2719293629.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "MELTEM TV (1)",
     "url": "https://vavoo.to/live2/play3/3628846585.m3u8",
     "group": "Turkey",
@@ -17683,6 +17683,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/1751593588.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "MGC (1)",
+    "url": "https://vavoo.to/live2/play3/2073766557.m3u8",
+    "group": "Turkey",
+    "tvg_id": "Mgc.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/2073766557.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -17784,25 +17803,6 @@
     ]
   },
   {
-    "name": "MUSLUM GURSES (1)",
-    "url": "https://vavoo.to/live2/play3/195374549.m3u8",
-    "group": "Turkey",
-    "tvg_id": "MuslumGurses.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/195374549.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "NAT GEO WILD HD (1)",
     "url": "https://vavoo.to/live2/play3/1519237116.m3u8",
     "group": "Turkey",
@@ -17849,7 +17849,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -18210,7 +18210,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -18373,25 +18373,6 @@
     ]
   },
   {
-    "name": "POWER FM YABANCI M ZIK (1)",
-    "url": "https://vavoo.to/live2/play3/1299417291.m3u8",
-    "group": "Turkey",
-    "tvg_id": "PowerFmYabanciMZik.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/1299417291.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "POWER HD (1)",
     "url": "https://vavoo.to/live2/play3/2366790408.m3u8",
     "group": "Turkey",
@@ -18424,44 +18405,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/2703806315.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "RADIO ROCK (1)",
-    "url": "https://vavoo.to/live2/play3/536559220.m3u8",
-    "group": "Turkey",
-    "tvg_id": "RadioRock.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/536559220.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "REDBOX ARABESK TV (1)",
-    "url": "https://vavoo.to/live2/play3/1149613711.m3u8",
-    "group": "Turkey",
-    "tvg_id": "RedboxArabeskTv.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/1149613711.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -18533,7 +18476,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -18563,19 +18506,38 @@
     ]
   },
   {
-    "name": "S SPORT+5 MAC SAATI (1)",
-    "url": "https://vavoo.to/live2/play3/3760487764.m3u8",
+    "name": "S SPORT+3 MAC SAATI (1)",
+    "url": "https://vavoo.to/live2/play3/3269372326.m3u8",
     "group": "Turkey",
-    "tvg_id": "SSport5MacSaati.tr",
-    "logo": "/live2/logo/3760487764.png",
+    "tvg_id": "SSport3MacSaati.tr",
+    "logo": "/live2/logo/3269372326.png",
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "unchanged",
+    "url_status": "new",
     "previous_url": "",
     "sources": [
       {
-        "url": "https://vavoo.to/live2/play3/3760487764.m3u8",
+        "url": "https://vavoo.to/live2/play3/3269372326.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "S SPORT+4 MAC SAATI (1)",
+    "url": "https://vavoo.to/live2/play3/1507829436.m3u8",
+    "group": "Turkey",
+    "tvg_id": "SSport4MacSaati.tr",
+    "logo": "/live2/logo/1507829436.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/1507829436.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -18595,25 +18557,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/1218628805.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "S SPORT+9 MAC SAATI (1)",
-    "url": "https://vavoo.to/live2/play3/2781992112.m3u8",
-    "group": "Turkey",
-    "tvg_id": "SSport9MacSaati.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/2781992112.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -18728,25 +18671,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/3526620942.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "S-SPORT PLUS 2 MACZAMANI (1)",
-    "url": "https://vavoo.to/live2/play3/3276709239.m3u8",
-    "group": "Turkey",
-    "tvg_id": "SsportPlus2Maczamani.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/3276709239.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -18913,7 +18837,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
@@ -18975,25 +18899,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/3537232978.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "SHOW RADYO (1)",
-    "url": "https://vavoo.to/live2/play3/3509899144.m3u8",
-    "group": "Turkey",
-    "tvg_id": "ShowRadyo.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/3509899144.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -19171,44 +19076,6 @@
     ]
   },
   {
-    "name": "SIVAS (1)",
-    "url": "https://vavoo.to/live2/play3/985769071.m3u8",
-    "group": "Turkey",
-    "tvg_id": "Sivas.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/985769071.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "SLOW KARADENIZ (1)",
-    "url": "https://vavoo.to/live2/play3/1388101311.m3u8",
-    "group": "Turkey",
-    "tvg_id": "SlowKaradeniz.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/1388101311.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "SMART COCUK HD (1)",
     "url": "https://vavoo.to/live2/play3/813574895.m3u8",
     "group": "Turkey",
@@ -19342,25 +19209,6 @@
     ]
   },
   {
-    "name": "STANBUL FM T RK E POP (1)",
-    "url": "https://vavoo.to/live2/play3/2411300087.m3u8",
-    "group": "Turkey",
-    "tvg_id": "StanbulFmTRkEPop.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/2411300087.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
     "name": "STAR HD (H265) (1)",
     "url": "https://vavoo.to/live2/play3/1134124382.m3u8",
     "group": "Turkey",
@@ -19488,63 +19336,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/3122863032.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "SURELER VE T RKCE MEALI (1)",
-    "url": "https://vavoo.to/live2/play3/3430890461.m3u8",
-    "group": "Turkey",
-    "tvg_id": "SurelerVeTRkceMeali.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/3430890461.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "T RK E POP (1)",
-    "url": "https://vavoo.to/live2/play3/2786853104.m3u8",
-    "group": "Turkey",
-    "tvg_id": "TRkEPop.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/2786853104.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "T.A.Y TV (1)",
-    "url": "https://vavoo.to/live2/play3/3633765645.m3u8",
-    "group": "Turkey",
-    "tvg_id": "TAYTV.tr",
-    "logo": "/live2/logo/3633765645.png",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "new",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/3633765645.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -19849,25 +19640,6 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/150823084.m3u8",
-        "headers": {},
-        "probe": "not_checked"
-      }
-    ]
-  },
-  {
-    "name": "TEK RUMEL TV (1)",
-    "url": "https://vavoo.to/live2/play3/2029344795.m3u8",
-    "group": "Turkey",
-    "tvg_id": "TekRumelTv.tr",
-    "logo": "",
-    "country": "TR",
-    "headers": {},
-    "probe": "not_checked",
-    "url_status": "unchanged",
-    "previous_url": "",
-    "sources": [
-      {
-        "url": "https://vavoo.to/live2/play3/2029344795.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -21071,6 +20843,25 @@
     ]
   },
   {
+    "name": "TV5 (1)",
+    "url": "https://vavoo.to/live2/play3/935671761.m3u8",
+    "group": "Turkey",
+    "tvg_id": "TV5.tr",
+    "logo": "https://i.imgur.com/ENvv42b.png",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/935671761.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "TV8 5 RAW (1)",
     "url": "https://vavoo.to/live2/play3/2412205937.m3u8",
     "group": "Turkey",
@@ -21179,6 +20970,25 @@
     "sources": [
       {
         "url": "https://vavoo.to/live2/play3/1182480796.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
+    "name": "TVO TV (1)",
+    "url": "https://vavoo.to/live2/play3/2916629658.m3u8",
+    "group": "Turkey",
+    "tvg_id": "TvoTv.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/2916629658.m3u8",
         "headers": {},
         "probe": "not_checked"
       }
@@ -21375,6 +21185,25 @@
     ]
   },
   {
+    "name": "WM TV WOMAN KADIN (1)",
+    "url": "https://vavoo.to/live2/play3/3259520726.m3u8",
+    "group": "Turkey",
+    "tvg_id": "WmTvWomanKadin.tr",
+    "logo": "",
+    "country": "TR",
+    "headers": {},
+    "probe": "not_checked",
+    "url_status": "new",
+    "previous_url": "",
+    "sources": [
+      {
+        "url": "https://vavoo.to/live2/play3/3259520726.m3u8",
+        "headers": {},
+        "probe": "not_checked"
+      }
+    ]
+  },
+  {
     "name": "X NOSTALJI T RK E KLASIK (1)",
     "url": "https://vavoo.to/live2/play3/1767757052.m3u8",
     "group": "Turkey",
@@ -21478,7 +21307,7 @@
     "country": "TR",
     "headers": {},
     "probe": "not_checked",
-    "url_status": "new",
+    "url_status": "unchanged",
     "previous_url": "",
     "sources": [
       {
