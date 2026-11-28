@@ -3,6 +3,8 @@
 https://vavoo.to/live2/play3/1702937932.m3u8
 #EXTINF:-1 tvg-id="24Kitchen.tr" tvg-name="24 KITCHEN (7)" tvg-logo="" group-title="Turkey",24 KITCHEN (7)
 https://vavoo.to/live2/play3/3329504843.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360 (7)" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="Turkey",360 (7)
+https://vavoo.to/live2/play3/1651455199.m3u8
 #EXTINF:-1 tvg-id="360Plus.tr" tvg-name="360 PLUS (7)" tvg-logo="" group-title="Turkey",360 PLUS (7)
 https://vavoo.to/live2/play3/1893598000.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A HABER (7)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Turkey",A HABER (7)
@@ -21,14 +23,14 @@ https://vavoo.to/live2/play3/1782534194.m3u8
 https://vavoo.to/live2/play3/4093001640.m3u8
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="AKIT TV (7)" tvg-logo="https://i.imgur.com/oGto929.png" group-title="Turkey",AKIT TV (7)
 https://vavoo.to/live2/play3/1862240206.m3u8
+#EXTINF:-1 tvg-id="AkliliTv.tr" tvg-name="AKLILI TV (7)" tvg-logo="" group-title="Turkey",AKLILI TV (7)
+https://vavoo.to/live2/play3/3737299250.m3u8
 #EXTINF:-1 tvg-id="AksuTvKMaras.tr" tvg-name="AKSU TV K MARAS (7)" tvg-logo="" group-title="Turkey",AKSU TV K MARAS (7)
 https://vavoo.to/live2/play3/2914289476.m3u8
 #EXTINF:-1 tvg-id="AltasTvOrdu.tr" tvg-name="ALTAS TV ORDU (7)" tvg-logo="" group-title="Turkey",ALTAS TV ORDU (7)
 https://vavoo.to/live2/play3/730257349.m3u8
 #EXTINF:-1 tvg-id="AnadoluDernek.tr" tvg-name="ANADOLU DERNEK (7)" tvg-logo="" group-title="Turkey",ANADOLU DERNEK (7)
 https://vavoo.to/live2/play3/1468389014.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.tr" tvg-name="ANIMAL PLANET (7)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Turkey",ANIMAL PLANET (7)
-https://vavoo.to/live2/play3/2110161355.m3u8
 #EXTINF:-1 tvg-id="ArtiTv.tr" tvg-name="ARTI TV (7)" tvg-logo="" group-title="Turkey",ARTI TV (7)
 https://vavoo.to/live2/play3/259370032.m3u8
 #EXTINF:-1 tvg-id="AsTvBursa.tr" tvg-name="AS TV BURSA (7)" tvg-logo="" group-title="Turkey",AS TV BURSA (7)
@@ -115,6 +117,8 @@ https://vavoo.to/live2/play3/3185778667.m3u8
 https://vavoo.to/live2/play3/3278683973.m3u8
 #EXTINF:-1 tvg-id="DaVinciLearning.tr" tvg-name="DA VINCI LEARNING (7)" tvg-logo="" group-title="Turkey",DA VINCI LEARNING (7)
 https://vavoo.to/live2/play3/1268465409.m3u8
+#EXTINF:-1 tvg-id="DigiMax.tr" tvg-name="DIGI MAX (7)" tvg-logo="" group-title="Turkey",DIGI MAX (7)
+https://vavoo.to/live2/play3/1278447576.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Turkey",DISCOVERY CHANNEL (7)
 https://vavoo.to/live2/play3/3079995901.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.tr" tvg-name="DISCOVERY SCIENCE (7)" tvg-logo="" group-title="Turkey",DISCOVERY SCIENCE (7)
@@ -171,8 +175,6 @@ https://vavoo.to/live2/play3/3814521935.m3u8
 https://vavoo.to/live2/play3/3271328843.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.tr" tvg-name="EUROSPORT 2 (7)" tvg-logo="" group-title="Turkey",EUROSPORT 2 (7)
 https://vavoo.to/live2/play3/2237464219.m3u8
-#EXTINF:-1 tvg-id="ExxenSports1.tr" tvg-name="EXXEN SPORTS 1 (7)" tvg-logo="" group-title="Turkey",EXXEN SPORTS 1 (7)
-https://vavoo.to/live2/play3/1842018252.m3u8
 #EXTINF:-1 tvg-id="ExxenSports2LiveDuringEventsOnly.tr" tvg-name="EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Turkey",EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY] (7)
 https://vavoo.to/live2/play3/3961480108.m3u8
 #EXTINF:-1 tvg-id="ExxenSports3LiveDuringEventsOnly.tr" tvg-name="EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Turkey",EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY] (7)
@@ -243,6 +245,8 @@ https://vavoo.to/live2/play3/1831675683.m3u8
 https://vavoo.to/live2/play3/813831557.m3u8
 #EXTINF:-1 tvg-id="KanalV.tr" tvg-name="KANAL V (7)" tvg-logo="https://i.imgur.com/7RNjTno.png" group-title="Turkey",KANAL V (7)
 https://vavoo.to/live2/play3/401437763.m3u8
+#EXTINF:-1 tvg-id="KardelenTV.tr" tvg-name="KARDELEN TV (7)" tvg-logo="https://i.imgur.com/0RATxcN.png" group-title="Turkey",KARDELEN TV (7)
+https://vavoo.to/live2/play3/1198414561.m3u8
 #EXTINF:-1 tvg-id="Keloglan.tr" tvg-name="KELOGLAN (7)" tvg-logo="" group-title="Turkey",KELOGLAN (7)
 https://vavoo.to/live2/play3/750698535.m3u8
 #EXTINF:-1 tvg-id="KentTurk.tr" tvg-name="KENT TURK (7)" tvg-logo="https://i.imgur.com/FQKPjsm.png" group-title="Turkey",KENT TURK (7)
@@ -253,6 +257,8 @@ https://vavoo.to/live2/play3/1587995854.m3u8
 https://vavoo.to/live2/play3/685300988.m3u8
 #EXTINF:-1 tvg-id="KralSakir.tr" tvg-name="KRAL SAKIR (7)" tvg-logo="" group-title="Turkey",KRAL SAKIR (7)
 https://vavoo.to/live2/play3/1578872642.m3u8
+#EXTINF:-1 tvg-id="KralTV.tr" tvg-name="KRAL TV (7)" tvg-logo="https://i.imgur.com/GeEDOPN.png" group-title="Turkey",KRAL TV (7)
+https://vavoo.to/live2/play3/1131281902.m3u8
 #EXTINF:-1 tvg-id="KrtTv.tr" tvg-name="KRT TV (7)" tvg-logo="" group-title="Turkey",KRT TV (7)
 https://vavoo.to/live2/play3/3998379019.m3u8
 #EXTINF:-1 tvg-id="KudusTV.tr" tvg-name="KUDUS TV (7)" tvg-logo="https://i.imgur.com/lwRA84B.png" group-title="Turkey",KUDUS TV (7)
@@ -325,8 +331,6 @@ https://vavoo.to/live2/play3/3918815882.m3u8
 https://vavoo.to/live2/play3/3718336295.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S SPORT 2 (7)" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="Turkey",S SPORT 2 (7)
 https://vavoo.to/live2/play3/1234604880.m3u8
-#EXTINF:-1 tvg-id="Ssports2.tr" tvg-name="S-SPORTS 2 HD (7)" tvg-logo="" group-title="Turkey",S-SPORTS 2 HD (7)
-https://vavoo.to/live2/play3/2038161517.m3u8
 #EXTINF:-1 tvg-id="Salon1.tr" tvg-name="SALON 1 (7)" tvg-logo="" group-title="Turkey",SALON 1 (7)
 https://vavoo.to/live2/play3/2217333005.m3u8
 #EXTINF:-1 tvg-id="Salon2.tr" tvg-name="SALON 2 (7)" tvg-logo="" group-title="Turkey",SALON 2 (7)
@@ -369,32 +373,18 @@ https://vavoo.to/live2/play3/1617719941.m3u8
 https://vavoo.to/live2/play3/2484805699.m3u8
 #EXTINF:-1 tvg-id="SinemaxComedi.tr" tvg-name="SINEMAX COMEDI (7)" tvg-logo="" group-title="Turkey",SINEMAX COMEDI (7)
 https://vavoo.to/live2/play3/846127862.m3u8
-#EXTINF:-1 tvg-id="SinemaxDrama.tr" tvg-name="SINEMAX DRAMA (7)" tvg-logo="" group-title="Turkey",SINEMAX DRAMA (7)
-https://vavoo.to/live2/play3/2789249461.m3u8
-#EXTINF:-1 tvg-id="SinemaxFamily.tr" tvg-name="SINEMAX FAMILY (7)" tvg-logo="" group-title="Turkey",SINEMAX FAMILY (7)
-https://vavoo.to/live2/play3/1469484475.m3u8
-#EXTINF:-1 tvg-id="SinemaxTurk.tr" tvg-name="SINEMAX TURK (7)" tvg-logo="" group-title="Turkey",SINEMAX TURK (7)
-https://vavoo.to/live2/play3/4201568953.m3u8
-#EXTINF:-1 tvg-id="Sinevizyon1.tr" tvg-name="SINEVIZYON 1 (7)" tvg-logo="" group-title="Turkey",SINEVIZYON 1 (7)
-https://vavoo.to/live2/play3/3562169936.m3u8
 #EXTINF:-1 tvg-id="Sinevizyon5.tr" tvg-name="SINEVIZYON 5 (7)" tvg-logo="" group-title="Turkey",SINEVIZYON 5 (7)
 https://vavoo.to/live2/play3/567459984.m3u8
-#EXTINF:-1 tvg-id="SinevizyonTurk1.tr" tvg-name="SINEVIZYON TURK 1 (7)" tvg-logo="" group-title="Turkey",SINEVIZYON TURK 1 (7)
-https://vavoo.to/live2/play3/237327525.m3u8
 #EXTINF:-1 tvg-id="SinevizyonTurk2.tr" tvg-name="SINEVIZYON TURK 2 (7)" tvg-logo="" group-title="Turkey",SINEVIZYON TURK 2 (7)
 https://vavoo.to/live2/play3/1233464949.m3u8
-#EXTINF:-1 tvg-id="SinevizyonTurk5.tr" tvg-name="SINEVIZYON TURK 5 (7)" tvg-logo="" group-title="Turkey",SINEVIZYON TURK 5 (7)
-https://vavoo.to/live2/play3/4221956709.m3u8
-#EXTINF:-1 tvg-id="SinevizyonTurk6.tr" tvg-name="SINEVIZYON TURK 6 (7)" tvg-logo="" group-title="Turkey",SINEVIZYON TURK 6 (7)
-https://vavoo.to/live2/play3/3154479285.m3u8
 #EXTINF:-1 tvg-id="SinevizyonTurk7.tr" tvg-name="SINEVIZYON TURK 7 (7)" tvg-logo="" group-title="Turkey",SINEVIZYON TURK 7 (7)
 https://vavoo.to/live2/play3/2170921221.m3u8
-#EXTINF:-1 tvg-id="SinevizyonTurk9.tr" tvg-name="SINEVIZYON TURK 9 (7)" tvg-logo="" group-title="Turkey",SINEVIZYON TURK 9 (7)
-https://vavoo.to/live2/play3/1045765988.m3u8
 #EXTINF:-1 tvg-id="SmartCocuk.tr" tvg-name="SMART COCUK (7)" tvg-logo="" group-title="Turkey",SMART COCUK (7)
 https://vavoo.to/live2/play3/4277750275.m3u8
 #EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-name="SMART SPOR 1 (7)" tvg-logo="" group-title="Turkey",SMART SPOR 1 (7)
 https://vavoo.to/live2/play3/4137962062.m3u8
+#EXTINF:-1 tvg-id="SporSmart1.tr" tvg-name="SPOR SMART 1 (7)" tvg-logo="" group-title="Turkey",SPOR SMART 1 (7)
+https://vavoo.to/live2/play3/3278735965.m3u8
 #EXTINF:-1 tvg-id="SporSmart2.tr" tvg-name="SPOR SMART 2 (7)" tvg-logo="https://i.imgur.com/qyUKCUa.png" group-title="Turkey",SPOR SMART 2 (7)
 https://vavoo.to/live2/play3/2228088973.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV (7)" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Turkey",STAR TV (7)
@@ -419,8 +409,6 @@ https://vavoo.to/live2/play3/1528949791.m3u8
 https://vavoo.to/live2/play3/2046583925.m3u8
 #EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="TIVIBU SPOR 2 (7)" tvg-logo="https://i.imgur.com/fZMSjNE.png" group-title="Turkey",TIVIBU SPOR 2 (7)
 https://vavoo.to/live2/play3/478254799.m3u8
-#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="TIVIBU SPOR 2 HD (7)" tvg-logo="https://i.imgur.com/fZMSjNE.png" group-title="Turkey",TIVIBU SPOR 2 HD (7)
-https://vavoo.to/live2/play3/4151534486.m3u8
 #EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="TIVIBU SPOR 3 (7)" tvg-logo="https://i.imgur.com/xLrgt2O.png" group-title="Turkey",TIVIBU SPOR 3 (7)
 https://vavoo.to/live2/play3/568442751.m3u8
 #EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="TIVIBU SPOR 3 HD (7)" tvg-logo="https://i.imgur.com/xLrgt2O.png" group-title="Turkey",TIVIBU SPOR 3 HD (7)
@@ -553,6 +541,8 @@ https://vavoo.to/live2/play3/511738384.m3u8
 https://vavoo.to/live2/play3/2853730703.m3u8
 #EXTINF:-1 tvg-id="Arkadag.tr" tvg-name="ARKADAG (6)" tvg-logo="/live2/logo/3293739828.png" group-title="Turkey",ARKADAG (6)
 https://vavoo.to/live2/play3/3293739828.m3u8
+#EXTINF:-1 tvg-id="AsTvBursa.tr" tvg-name="AS TV BURSA (6)" tvg-logo="/live2/logo/1889158339.png" group-title="Turkey",AS TV BURSA (6)
+https://vavoo.to/live2/play3/1889158339.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV (6)" tvg-logo="/live2/logo/455930425.png" group-title="Turkey",ATV (6)
 https://vavoo.to/live2/play3/455930425.m3u8
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV AVRUPA (6)" tvg-logo="/live2/logo/3195910351.png" group-title="Turkey",ATV AVRUPA (6)
@@ -593,8 +583,6 @@ https://vavoo.to/live2/play3/3308693738.m3u8
 https://vavoo.to/live2/play3/4166418778.m3u8
 #EXTINF:-1 tvg-id="BeinSeries4.tr" tvg-name="BEIN SERIES 4 (6)" tvg-logo="/live2/logo/1249271114.png" group-title="Turkey",BEIN SERIES 4 (6)
 https://vavoo.to/live2/play3/1249271114.m3u8
-#EXTINF:-1 tvg-id="beINSeriesDrama.tr" tvg-name="BEIN SERIES DRAMA (6)" tvg-logo="/live2/logo/3413672103.png" group-title="Turkey",BEIN SERIES DRAMA (6)
-https://vavoo.to/live2/play3/3413672103.m3u8
 #EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="BEIN SPORTS 1 (6)" tvg-logo="/live2/logo/300113394.png" group-title="Turkey",BEIN SPORTS 1 (6)
 https://vavoo.to/live2/play3/300113394.m3u8
 #EXTINF:-1 tvg-id="BeinSports1Feed.tr" tvg-name="BEIN SPORTS 1 FEED (6)" tvg-logo="" group-title="Turkey",BEIN SPORTS 1 FEED (6)
@@ -689,8 +677,6 @@ https://vavoo.to/live2/play3/414950309.m3u8
 https://vavoo.to/live2/play3/1201456793.m3u8
 #EXTINF:-1 tvg-id="EnoAnimasyon.tr" tvg-name="ENO ANIMASYON (6)" tvg-logo="" group-title="Turkey",ENO ANIMASYON (6)
 https://vavoo.to/live2/play3/659694487.m3u8
-#EXTINF:-1 tvg-id="EnoWestern.tr" tvg-name="ENO WESTERN (6)" tvg-logo="" group-title="Turkey",ENO WESTERN (6)
-https://vavoo.to/live2/play3/1329952795.m3u8
 #EXTINF:-1 tvg-id="ErcisTv.tr" tvg-name="ERCIS TV (6)" tvg-logo="/live2/logo/2901457550.png" group-title="Turkey",ERCIS TV (6)
 https://vavoo.to/live2/play3/2901457550.m3u8
 #EXTINF:-1 tvg-id="ERTV.tr" tvg-name="ERTV (6)" tvg-logo="/live2/logo/221836468.png" group-title="Turkey",ERTV (6)
@@ -715,6 +701,8 @@ https://vavoo.to/live2/play3/2147614081.m3u8
 https://vavoo.to/live2/play3/1188258066.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV (6)" tvg-logo="/live2/logo/615308601.png" group-title="Turkey",FB TV (6)
 https://vavoo.to/live2/play3/615308601.m3u8
+#EXTINF:-1 tvg-id="FinestTv.tr" tvg-name="FINEST TV (6)" tvg-logo="" group-title="Turkey",FINEST TV (6)
+https://vavoo.to/live2/play3/2663765748.m3u8
 #EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-name="FLASH HABER TV (6)" tvg-logo="/live2/logo/3806979011.png" group-title="Turkey",FLASH HABER TV (6)
 https://vavoo.to/live2/play3/3806979011.m3u8
 #EXTINF:-1 tvg-id="FlashTV.tr" tvg-name="FLASH TV (6)" tvg-logo="https://i.imgur.com/L0NHKBM.png" group-title="Turkey",FLASH TV (6)
@@ -745,6 +733,8 @@ https://vavoo.to/live2/play3/4148513719.m3u8
 https://vavoo.to/live2/play3/1602719314.m3u8
 #EXTINF:-1 tvg-id="IcelTV.tr" tvg-name="ICEL TV (6)" tvg-logo="/live2/logo/2488859400.png" group-title="Turkey",ICEL TV (6)
 https://vavoo.to/live2/play3/2488859400.m3u8
+#EXTINF:-1 tvg-id="KadirgaTV.tr" tvg-name="KADIRGA TV (6)" tvg-logo="/live2/logo/2093940826.png" group-title="Turkey",KADIRGA TV (6)
+https://vavoo.to/live2/play3/2093940826.m3u8
 #EXTINF:-1 tvg-id="Kanal12.tr" tvg-name="KANAL 12 (6)" tvg-logo="/live2/logo/2917371409.png" group-title="Turkey",KANAL 12 (6)
 https://vavoo.to/live2/play3/2917371409.m3u8
 #EXTINF:-1 tvg-id="Kanal15.tr" tvg-name="KANAL 15 (6)" tvg-logo="/live2/logo/532894209.png" group-title="Turkey",KANAL 15 (6)
@@ -857,8 +847,6 @@ https://vavoo.to/live2/play3/720191023.m3u8
 https://vavoo.to/live2/play3/523018472.m3u8
 #EXTINF:-1 tvg-id="McEu.tr" tvg-name="MC EU (6)" tvg-logo="/live2/logo/3849971860.png" group-title="Turkey",MC EU (6)
 https://vavoo.to/live2/play3/3849971860.m3u8
-#EXTINF:-1 tvg-id="MedMuzik.tr" tvg-name="MED MUZIK (6)" tvg-logo="/live2/logo/1861216008.png" group-title="Turkey",MED MUZIK (6)
-https://vavoo.to/live2/play3/1861216008.m3u8
 #EXTINF:-1 tvg-id="MedyaHaber.tr" tvg-name="MEDYA HABER (6)" tvg-logo="/live2/logo/2230968262.png" group-title="Turkey",MEDYA HABER (6)
 https://vavoo.to/live2/play3/2230968262.m3u8
 #EXTINF:-1 tvg-id="MeltemTV.tr" tvg-name="MELTEM TV (6)" tvg-logo="/live2/logo/1344824890.png" group-title="Turkey",MELTEM TV (6)
@@ -923,6 +911,8 @@ https://vavoo.to/live2/play3/3137956311.m3u8
 https://vavoo.to/live2/play3/6325334.m3u8
 #EXTINF:-1 tvg-id="ProturkFantastic.tr" tvg-name="PROTURK FANTASTIC (6)" tvg-logo="" group-title="Turkey",PROTURK FANTASTIC (6)
 https://vavoo.to/live2/play3/4028396893.m3u8
+#EXTINF:-1 tvg-id="ProturkGerilim.tr" tvg-name="PROTURK GERILIM (6)" tvg-logo="" group-title="Turkey",PROTURK GERILIM (6)
+https://vavoo.to/live2/play3/1293208483.m3u8
 #EXTINF:-1 tvg-id="ProturkKemalSunal.tr" tvg-name="PROTURK KEMAL SUNAL (6)" tvg-logo="" group-title="Turkey",PROTURK KEMAL SUNAL (6)
 https://vavoo.to/live2/play3/1245475474.m3u8
 #EXTINF:-1 tvg-id="ProturkKorku.tr" tvg-name="PROTURK KORKU (6)" tvg-logo="" group-title="Turkey",PROTURK KORKU (6)
@@ -953,8 +943,6 @@ https://vavoo.to/live2/play3/4239242367.m3u8
 https://vavoo.to/live2/play3/3997988254.m3u8
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="S SPORT (6)" tvg-logo="/live2/logo/3346549722.png" group-title="Turkey",S SPORT (6)
 https://vavoo.to/live2/play3/3346549722.m3u8
-#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S SPORT 2 (6)" tvg-logo="/live2/logo/1313768516.png" group-title="Turkey",S SPORT 2 (6)
-https://vavoo.to/live2/play3/1313768516.m3u8
 #EXTINF:-1 tvg-id="Salon2.tr" tvg-name="SALON 2 (6)" tvg-logo="" group-title="Turkey",SALON 2 (6)
 https://vavoo.to/live2/play3/3645943584.m3u8
 #EXTINF:-1 tvg-id="Salon3.tr" tvg-name="SALON 3 (6)" tvg-logo="" group-title="Turkey",SALON 3 (6)
@@ -973,6 +961,8 @@ https://vavoo.to/live2/play3/2009772533.m3u8
 https://vavoo.to/live2/play3/2485009235.m3u8
 #EXTINF:-1 tvg-id="SlNiloya.tr" tvg-name="SL NILOYA (6)" tvg-logo="/live2/logo/3491525845.png" group-title="Turkey",SL NILOYA (6)
 https://vavoo.to/live2/play3/3491525845.m3u8
+#EXTINF:-1 tvg-id="SmartBoxAction.tr" tvg-name="SMART BOX ACTION (6)" tvg-logo="" group-title="Turkey",SMART BOX ACTION (6)
+https://vavoo.to/live2/play3/3310537792.m3u8
 #EXTINF:-1 tvg-id="SporSmart.tr" tvg-name="SPOR SMART (6)" tvg-logo="/live2/logo/1771511397.png" group-title="Turkey",SPOR SMART (6)
 https://vavoo.to/live2/play3/1771511397.m3u8
 #EXTINF:-1 tvg-id="SporSmart2.tr" tvg-name="SPOR SMART 2 (6)" tvg-logo="/live2/logo/907165095.png" group-title="Turkey",SPOR SMART 2 (6)
@@ -985,8 +975,6 @@ https://vavoo.to/live2/play3/699305923.m3u8
 https://vavoo.to/live2/play3/2354543811.m3u8
 #EXTINF:-1 tvg-id="Szc.tr" tvg-name="SZC (6)" tvg-logo="/live2/logo/2036794972.png" group-title="Turkey",SZC (6)
 https://vavoo.to/live2/play3/2036794972.m3u8
-#EXTINF:-1 tvg-id="SngerBob.tr" tvg-name="SÜNGER BOB (6)" tvg-logo="/live2/logo/3868582025.png" group-title="Turkey",SÜNGER BOB (6)
-https://vavoo.to/live2/play3/3868582025.m3u8
 #EXTINF:-1 tvg-id="TabiiSpor.tr" tvg-name="TABII SPOR (6)" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="Turkey",TABII SPOR (6)
 https://vavoo.to/live2/play3/184486327.m3u8
 #EXTINF:-1 tvg-id="TabiiSpor1.tr" tvg-name="TABII SPOR 1 (6)" tvg-logo="" group-title="Turkey",TABII SPOR 1 (6)
@@ -1109,8 +1097,6 @@ https://vavoo.to/live2/play3/1900945213.m3u8
 https://vavoo.to/live2/play3/3440401226.m3u8
 #EXTINF:-1 tvg-id="ViyanaTv.tr" tvg-name="VIYANA TV (6)" tvg-logo="/live2/logo/3442514805.png" group-title="Turkey",VIYANA TV (6)
 https://vavoo.to/live2/play3/3442514805.m3u8
-#EXTINF:-1 tvg-id="Vizyon58.tr" tvg-name="VIZYON 58 (6)" tvg-logo="/live2/logo/1264201556.png" group-title="Turkey",VIZYON 58 (6)
-https://vavoo.to/live2/play3/1264201556.m3u8
 #EXTINF:-1 tvg-id="VuslatTV.tr" tvg-name="VUSLAT TV (6)" tvg-logo="/live2/logo/949033122.png" group-title="Turkey",VUSLAT TV (6)
 https://vavoo.to/live2/play3/949033122.m3u8
 #EXTINF:-1 tvg-id="Yaban.tr" tvg-name="YABAN (6)" tvg-logo="/live2/logo/3338159581.png" group-title="Turkey",YABAN (6)
@@ -1175,8 +1161,6 @@ https://vavoo.to/live2/play3/4266683025.m3u8
 https://vavoo.to/live2/play3/1709129189.m3u8
 #EXTINF:-1 tvg-id="TrEkolTv.tr" tvg-name="4K TR: EKOL TV (1)" tvg-logo="" group-title="Turkey",4K TR: EKOL TV (1)
 https://vavoo.to/live2/play3/2706210049.m3u8
-#EXTINF:-1 tvg-id="TrEnglishClubTv.tr" tvg-name="4K TR: ENGLISH CLUB TV (1)" tvg-logo="" group-title="Turkey",4K TR: ENGLISH CLUB TV (1)
-https://vavoo.to/live2/play3/925055356.m3u8
 #EXTINF:-1 tvg-id="TrEpicDrama.tr" tvg-name="4K TR: EPIC DRAMA (1)" tvg-logo="" group-title="Turkey",4K TR: EPIC DRAMA (1)
 https://vavoo.to/live2/play3/678261693.m3u8
 #EXTINF:-1 tvg-id="TrEurosport1.tr" tvg-name="4K TR: EUROSPORT 1 HD (1)" tvg-logo="" group-title="Turkey",4K TR: EUROSPORT 1 HD (1)
@@ -1267,8 +1251,6 @@ https://vavoo.to/live2/play3/879588960.m3u8
 https://vavoo.to/live2/play3/960578312.m3u8
 #EXTINF:-1 tvg-id="TrSporSmart.tr" tvg-name="4K TR: SPOR SMART (1)" tvg-logo="" group-title="Turkey",4K TR: SPOR SMART (1)
 https://vavoo.to/live2/play3/31596047.m3u8
-#EXTINF:-1 tvg-id="TrSportsTv.tr" tvg-name="4K TR: SPORTS TV HD (1)" tvg-logo="" group-title="Turkey",4K TR: SPORTS TV HD (1)
-https://vavoo.to/live2/play3/2429298798.m3u8
 #EXTINF:-1 tvg-id="startv.tr" tvg-name="4K TR: STAR TV HD (1)" tvg-logo="" group-title="Turkey",4K TR: STAR TV HD (1)
 https://vavoo.to/live2/play3/2192971293.m3u8
 #EXTINF:-1 tvg-id="TrTeve2.tr" tvg-name="4K TR: TEVE2 HD (1)" tvg-logo="" group-title="Turkey",4K TR: TEVE2 HD (1)
@@ -1349,6 +1331,8 @@ https://vavoo.to/live2/play3/4225961715.m3u8
 https://vavoo.to/live2/play3/225124967.m3u8
 #EXTINF:-1 tvg-id="AdiyamanMercanTv.tr" tvg-name="ADIYAMAN MERCAN TV (1)" tvg-logo="" group-title="Turkey",ADIYAMAN MERCAN TV (1)
 https://vavoo.to/live2/play3/3055235391.m3u8
+#EXTINF:-1 tvg-id="AfyonTRkTv.tr" tvg-name="AFYON T RK TV (1)" tvg-logo="" group-title="Turkey",AFYON T RK TV (1)
+https://vavoo.to/live2/play3/145755891.m3u8
 #EXTINF:-1 tvg-id="AhmetKaya.tr" tvg-name="AHMET KAYA (1)" tvg-logo="" group-title="Turkey",AHMET KAYA (1)
 https://vavoo.to/live2/play3/292984675.m3u8
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="AKIT TV (1)" tvg-logo="https://i.imgur.com/oGto929.png" group-title="Turkey",AKIT TV (1)
@@ -1359,8 +1343,6 @@ https://vavoo.to/live2/play3/955806672.m3u8
 https://vavoo.to/live2/play3/3728553873.m3u8
 #EXTINF:-1 tvg-id="AlemFmRadyoland.tr" tvg-name="ALEM FM RADYOLAND (1)" tvg-logo="" group-title="Turkey",ALEM FM RADYOLAND (1)
 https://vavoo.to/live2/play3/1908714253.m3u8
-#EXTINF:-1 tvg-id="AlemRadyo.tr" tvg-name="ALEM RADYO (1)" tvg-logo="" group-title="Turkey",ALEM RADYO (1)
-https://vavoo.to/live2/play3/809445873.m3u8
 #EXTINF:-1 tvg-id="AnadoluDernekTV.tr" tvg-name="ANADOLU DERNEK TV (1)" tvg-logo="https://i.imgur.com/taaRzdO.png" group-title="Turkey",ANADOLU DERNEK TV (1)
 https://vavoo.to/live2/play3/4274827801.m3u8
 #EXTINF:-1 tvg-id="AnakkaleBoazTv.tr" tvg-name="ANAKKALE BOĞAZ TV (1)" tvg-logo="" group-title="Turkey",ANAKKALE BOĞAZ TV (1)
@@ -1373,16 +1355,12 @@ https://vavoo.to/live2/play3/3913298991.m3u8
 https://vavoo.to/live2/play3/727427437.m3u8
 #EXTINF:-1 tvg-id="Animaux.tr" tvg-name="ANIMAUX (1)" tvg-logo="" group-title="Turkey",ANIMAUX (1)
 https://vavoo.to/live2/play3/2103702130.m3u8
-#EXTINF:-1 tvg-id="AnkaraTRkiyemTv.tr" tvg-name="ANKARA T RKIYEM TV (1)" tvg-logo="" group-title="Turkey",ANKARA T RKIYEM TV (1)
-https://vavoo.to/live2/play3/1443355363.m3u8
 #EXTINF:-1 tvg-id="AnliurfaKanalUrfa.tr" tvg-name="ANLIURFA KANAL URFA (1)" tvg-logo="" group-title="Turkey",ANLIURFA KANAL URFA (1)
 https://vavoo.to/live2/play3/754868351.m3u8
 #EXTINF:-1 tvg-id="AntalyaKanalV.tr" tvg-name="ANTALYA KANAL V (1)" tvg-logo="" group-title="Turkey",ANTALYA KANAL V (1)
 https://vavoo.to/live2/play3/1940767005.m3u8
 #EXTINF:-1 tvg-id="APara.tr" tvg-name="APARA HD (1)" tvg-logo="/live2/logo/931406409.png" group-title="Turkey",APARA HD (1)
 https://vavoo.to/live2/play3/931406409.m3u8
-#EXTINF:-1 tvg-id="AshabiKehf.tr" tvg-name="ASHABI KEHF (1)" tvg-logo="" group-title="Turkey",ASHABI KEHF (1)
-https://vavoo.to/live2/play3/2460324140.m3u8
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV EUROPA (1)" tvg-logo="/live2/logo/90085139.png" group-title="Turkey",ATV EUROPA (1)
 https://vavoo.to/live2/play3/90085139.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV FHD (1)" tvg-logo="/live2/logo/2861010641.png" group-title="Turkey",ATV FHD (1)
@@ -1397,6 +1375,10 @@ https://vavoo.to/live2/play3/3511150491.m3u8
 https://vavoo.to/live2/play3/962169494.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV SD (1)" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="Turkey",ATV SD (1)
 https://vavoo.to/live2/play3/645431530.m3u8
+#EXTINF:-1 tvg-id="AvTv.tr" tvg-name="AV TV (1)" tvg-logo="" group-title="Turkey",AV TV (1)
+https://vavoo.to/live2/play3/154080342.m3u8
+#EXTINF:-1 tvg-id="BabaRadyoArabesk.tr" tvg-name="BABA RADYO ARABESK (1)" tvg-logo="" group-title="Turkey",BABA RADYO ARABESK (1)
+https://vavoo.to/live2/play3/4096569454.m3u8
 #EXTINF:-1 tvg-id="BabyTv.tr" tvg-name="BABY TV HD (1)" tvg-logo="" group-title="Turkey",BABY TV HD (1)
 https://vavoo.to/live2/play3/2751658995.m3u8
 #EXTINF:-1 tvg-id="BarbieAnimation2.tr" tvg-name="BARBIE ANIMATION 2 HD (1)" tvg-logo="" group-title="Turkey",BARBIE ANIMATION 2 HD (1)
@@ -1409,8 +1391,6 @@ https://vavoo.to/live2/play3/2228496856.m3u8
 https://vavoo.to/live2/play3/1363827223.m3u8
 #EXTINF:-1 tvg-id="Bein1.tr" tvg-name="BEIN 1 SD (360P) (1)" tvg-logo="/live2/logo/3692337241.png" group-title="Turkey",BEIN 1 SD (360P) (1)
 https://vavoo.to/live2/play3/3692337241.m3u8
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN 1 SD (480P) (1)" tvg-logo="/live2/logo/2919229346.png" group-title="Turkey",BEIN 1 SD (480P) (1)
-https://vavoo.to/live2/play3/2919229346.m3u8
 #EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="BEIN GURME HD (1)" tvg-logo="https://i.imgur.com/Q8ITIMl.png" group-title="Turkey",BEIN GURME HD (1)
 https://vavoo.to/live2/play3/950394656.m3u8
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 (720P) (1)" tvg-logo="/live2/logo/3840475653.png" group-title="Turkey",BEIN SPORTS 1 (720P) (1)
@@ -1473,8 +1453,6 @@ https://vavoo.to/live2/play3/3407936242.m3u8
 https://vavoo.to/live2/play3/2212659820.m3u8
 #EXTINF:-1 tvg-id="BeinSpots1.tr" tvg-name="BEIN SPOTS1 SD (1)" tvg-logo="" group-title="Turkey",BEIN SPOTS1 SD (1)
 https://vavoo.to/live2/play3/143239535.m3u8
-#EXTINF:-1 tvg-id="BestFmTRkEPop.tr" tvg-name="BEST FM T RK E POP (1)" tvg-logo="" group-title="Turkey",BEST FM T RK E POP (1)
-https://vavoo.to/live2/play3/2591986518.m3u8
 #EXTINF:-1 tvg-id="Beyaz.tr" tvg-name="BEYAZ HD+ SD (1)" tvg-logo="/live2/logo/1020985035.png" group-title="Turkey",BEYAZ HD+ SD (1)
 https://vavoo.to/live2/play3/1020985035.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV FHD (1)" tvg-logo="/live2/logo/1600348811.png" group-title="Turkey",BEYAZ TV FHD (1)
@@ -1489,8 +1467,6 @@ https://vavoo.to/live2/play3/3434964684.m3u8
 https://vavoo.to/live2/play3/2224047651.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="BLOOMBERG HT HD (1)" tvg-logo="/live2/logo/236989031.png" group-title="Turkey",BLOOMBERG HT HD (1)
 https://vavoo.to/live2/play3/236989031.m3u8
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="BLOOMBERGHT HD (1)" tvg-logo="/live2/logo/858568307.png" group-title="Turkey",BLOOMBERGHT HD (1)
-https://vavoo.to/live2/play3/858568307.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="BLOOMBERGHT RAW (1)" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Turkey",BLOOMBERGHT RAW (1)
 https://vavoo.to/live2/play3/3578150260.m3u8
 #EXTINF:-1 tvg-id="BonusMasalDiyari.tr" tvg-name="BONUS MASAL DIYARI (1)" tvg-logo="" group-title="Turkey",BONUS MASAL DIYARI (1)
@@ -1527,14 +1503,18 @@ https://vavoo.to/live2/play3/983597357.m3u8
 https://vavoo.to/live2/play3/2739070764.m3u8
 #EXTINF:-1 tvg-id="Cinemaximum7.tr" tvg-name="CINEMAXIMUM 7 ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM 7 ʜᴅ (1)
 https://vavoo.to/live2/play3/1657551084.m3u8
+#EXTINF:-1 tvg-id="Cinemaximum8.tr" tvg-name="CINEMAXIMUM 8 ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM 8 ʜᴅ (1)
+https://vavoo.to/live2/play3/4046769194.m3u8
+#EXTINF:-1 tvg-id="Cinemaximum9.tr" tvg-name="CINEMAXIMUM 9 ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM 9 ʜᴅ (1)
+https://vavoo.to/live2/play3/817501162.m3u8
 #EXTINF:-1 tvg-id="CinemaximumAksiyon.tr" tvg-name="CINEMAXIMUM AKSIYON ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM AKSIYON ʜᴅ (1)
 https://vavoo.to/live2/play3/2963805115.m3u8
 #EXTINF:-1 tvg-id="CinemaximumAnimasyon.tr" tvg-name="CINEMAXIMUM ANIMASYON ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM ANIMASYON ʜᴅ (1)
 https://vavoo.to/live2/play3/3859462252.m3u8
 #EXTINF:-1 tvg-id="CinemaximumBilimkurgu.tr" tvg-name="CINEMAXIMUM BILIMKURGU ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM BILIMKURGU ʜᴅ (1)
 https://vavoo.to/live2/play3/91605144.m3u8
-#EXTINF:-1 tvg-id="CinemaximumBollywood.tr" tvg-name="CINEMAXIMUM BOLLYWOOD ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM BOLLYWOOD ʜᴅ (1)
-https://vavoo.to/live2/play3/2495744105.m3u8
+#EXTINF:-1 tvg-id="CinemaximumDram.tr" tvg-name="CINEMAXIMUM DRAM ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM DRAM ʜᴅ (1)
+https://vavoo.to/live2/play3/2936937751.m3u8
 #EXTINF:-1 tvg-id="CinemaximumFantastik.tr" tvg-name="CINEMAXIMUM FANTASTIK ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM FANTASTIK ʜᴅ (1)
 https://vavoo.to/live2/play3/2562962072.m3u8
 #EXTINF:-1 tvg-id="CinemaximumGerilim.tr" tvg-name="CINEMAXIMUM GERILIM ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM GERILIM ʜᴅ (1)
@@ -1549,6 +1529,8 @@ https://vavoo.to/live2/play3/3137399142.m3u8
 https://vavoo.to/live2/play3/707311771.m3u8
 #EXTINF:-1 tvg-id="CinemaximumRomantik.tr" tvg-name="CINEMAXIMUM ROMANTIK ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM ROMANTIK ʜᴅ (1)
 https://vavoo.to/live2/play3/1642556261.m3u8
+#EXTINF:-1 tvg-id="CinemaximumSu.tr" tvg-name="CINEMAXIMUM SU ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM SU ʜᴅ (1)
+https://vavoo.to/live2/play3/3653679102.m3u8
 #EXTINF:-1 tvg-id="CinemaximumYerli1.tr" tvg-name="CINEMAXIMUM YERLI 1 ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM YERLI 1 ʜᴅ (1)
 https://vavoo.to/live2/play3/3743970784.m3u8
 #EXTINF:-1 tvg-id="CinemaximumYerli2.tr" tvg-name="CINEMAXIMUM YERLI 2 ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM YERLI 2 ʜᴅ (1)
@@ -1557,6 +1539,10 @@ https://vavoo.to/live2/play3/1187648481.m3u8
 https://vavoo.to/live2/play3/2269432865.m3u8
 #EXTINF:-1 tvg-id="CinemaximumYerli5.tr" tvg-name="CINEMAXIMUM YERLI 5 ʜᴅ (1)" tvg-logo="" group-title="Turkey",CINEMAXIMUM YERLI 5 ʜᴅ (1)
 https://vavoo.to/live2/play3/1878066786.m3u8
+#EXTINF:-1 tvg-id="CineverseAksYon4.tr" tvg-name="CINEVERSE AKS YON 4 (1)" tvg-logo="" group-title="Turkey",CINEVERSE AKS YON 4 (1)
+https://vavoo.to/live2/play3/325208253.m3u8
+#EXTINF:-1 tvg-id="CineverseAksYon5.tr" tvg-name="CINEVERSE AKS YON 5 (1)" tvg-logo="" group-title="Turkey",CINEVERSE AKS YON 5 (1)
+https://vavoo.to/live2/play3/771907853.m3u8
 #EXTINF:-1 tvg-id="CineverseAksYon6.tr" tvg-name="CINEVERSE AKS YON 6 (1)" tvg-logo="" group-title="Turkey",CINEVERSE AKS YON 6 (1)
 https://vavoo.to/live2/play3/1772231645.m3u8
 #EXTINF:-1 tvg-id="CineverseAksYon7.tr" tvg-name="CINEVERSE AKS YON 7 (1)" tvg-logo="" group-title="Turkey",CINEVERSE AKS YON 7 (1)
@@ -1585,6 +1571,8 @@ https://vavoo.to/live2/play3/2157145319.m3u8
 https://vavoo.to/live2/play3/3186836823.m3u8
 #EXTINF:-1 tvg-id="CineverseFantasy6.tr" tvg-name="CINEVERSE FANTASY 6 (1)" tvg-logo="" group-title="Turkey",CINEVERSE FANTASY 6 (1)
 https://vavoo.to/live2/play3/4199759751.m3u8
+#EXTINF:-1 tvg-id="CineverseFantasy7.tr" tvg-name="CINEVERSE FANTASY 7 (1)" tvg-logo="" group-title="Turkey",CINEVERSE FANTASY 7 (1)
+https://vavoo.to/live2/play3/3342014007.m3u8
 #EXTINF:-1 tvg-id="CineverseFantasy8.tr" tvg-name="CINEVERSE FANTASY 8 (1)" tvg-logo="" group-title="Turkey",CINEVERSE FANTASY 8 (1)
 https://vavoo.to/live2/play3/1164149222.m3u8
 #EXTINF:-1 tvg-id="CineverseKorku1.tr" tvg-name="CINEVERSE KORKU 1 (1)" tvg-logo="" group-title="Turkey",CINEVERSE KORKU 1 (1)
@@ -1597,12 +1585,18 @@ https://vavoo.to/live2/play3/295471889.m3u8
 https://vavoo.to/live2/play3/2747029249.m3u8
 #EXTINF:-1 tvg-id="CineverseKorku5.tr" tvg-name="CINEVERSE KORKU 5 (1)" tvg-logo="" group-title="Turkey",CINEVERSE KORKU 5 (1)
 https://vavoo.to/live2/play3/2665250481.m3u8
+#EXTINF:-1 tvg-id="CineverseKorku6.tr" tvg-name="CINEVERSE KORKU 6 (1)" tvg-logo="" group-title="Turkey",CINEVERSE KORKU 6 (1)
+https://vavoo.to/live2/play3/3648783457.m3u8
 #EXTINF:-1 tvg-id="CineverseKorku7.tr" tvg-name="CINEVERSE KORKU 7 (1)" tvg-logo="" group-title="Turkey",CINEVERSE KORKU 7 (1)
 https://vavoo.to/live2/play3/3827051985.m3u8
 #EXTINF:-1 tvg-id="CineverseKorku8.tr" tvg-name="CINEVERSE KORKU 8 (1)" tvg-logo="" group-title="Turkey",CINEVERSE KORKU 8 (1)
 https://vavoo.to/live2/play3/1716304384.m3u8
+#EXTINF:-1 tvg-id="CineverseMarvel1.tr" tvg-name="CINEVERSE MARVEL 1 (1)" tvg-logo="" group-title="Turkey",CINEVERSE MARVEL 1 (1)
+https://vavoo.to/live2/play3/2799833516.m3u8
 #EXTINF:-1 tvg-id="CineverseMarvel2.tr" tvg-name="CINEVERSE MARVEL 2 (1)" tvg-logo="" group-title="Turkey",CINEVERSE MARVEL 2 (1)
 https://vavoo.to/live2/play3/3779226492.m3u8
+#EXTINF:-1 tvg-id="CineverseMarvel3.tr" tvg-name="CINEVERSE MARVEL 3 (1)" tvg-logo="" group-title="Turkey",CINEVERSE MARVEL 3 (1)
+https://vavoo.to/live2/play3/3693232844.m3u8
 #EXTINF:-1 tvg-id="CineverseMarvel4.tr" tvg-name="CINEVERSE MARVEL 4 (1)" tvg-logo="" group-title="Turkey",CINEVERSE MARVEL 4 (1)
 https://vavoo.to/live2/play3/1845665500.m3u8
 #EXTINF:-1 tvg-id="CineverseMarvel5.tr" tvg-name="CINEVERSE MARVEL 5 (1)" tvg-logo="" group-title="Turkey",CINEVERSE MARVEL 5 (1)
@@ -1679,6 +1673,8 @@ https://vavoo.to/live2/play3/657495272.m3u8
 https://vavoo.to/live2/play3/814969642.m3u8
 #EXTINF:-1 tvg-id="EkolTv.tr" tvg-name="EKOL TV (1)" tvg-logo="" group-title="Turkey",EKOL TV (1)
 https://vavoo.to/live2/play3/3448641845.m3u8
+#EXTINF:-1 tvg-id="EkolTv.tr" tvg-name="EKOL TV SD (1)" tvg-logo="" group-title="Turkey",EKOL TV SD (1)
+https://vavoo.to/live2/play3/3549408298.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="EKOTURK HD (1)" tvg-logo="/live2/logo/711944272.png" group-title="Turkey",EKOTURK HD (1)
 https://vavoo.to/live2/play3/711944272.m3u8
 #EXTINF:-1 tvg-id="ElazigKanal23.tr" tvg-name="ELAZIG KANAL 23 (1)" tvg-logo="" group-title="Turkey",ELAZIG KANAL 23 (1)
@@ -1915,14 +1911,12 @@ https://vavoo.to/live2/play3/1986235183.m3u8
 https://vavoo.to/live2/play3/517032049.m3u8
 #EXTINF:-1 tvg-id="MaviKaradeniz.tr" tvg-name="MAVI KARADENIZ (1)" tvg-logo="" group-title="Turkey",MAVI KARADENIZ (1)
 https://vavoo.to/live2/play3/3854689350.m3u8
-#EXTINF:-1 tvg-id="MbatFmArabesk.tr" tvg-name="MBAT FM ARABESK (1)" tvg-logo="" group-title="Turkey",MBAT FM ARABESK (1)
-https://vavoo.to/live2/play3/2719293629.m3u8
 #EXTINF:-1 tvg-id="MeltemTV.tr" tvg-name="MELTEM TV (1)" tvg-logo="https://i.imgur.com/C3m6w5S.png" group-title="Turkey",MELTEM TV (1)
 https://vavoo.to/live2/play3/3628846585.m3u8
 #EXTINF:-1 tvg-id="MersinElTv.tr" tvg-name="MERSIN EL TV (1)" tvg-logo="" group-title="Turkey",MERSIN EL TV (1)
 https://vavoo.to/live2/play3/1480015488.m3u8
-#EXTINF:-1 tvg-id="MesajTv.tr" tvg-name="MESAJ TV (1)" tvg-logo="" group-title="Turkey",MESAJ TV (1)
-https://vavoo.to/live2/play3/1751593588.m3u8
+#EXTINF:-1 tvg-id="Mgc.tr" tvg-name="MGC (1)" tvg-logo="" group-title="Turkey",MGC (1)
+https://vavoo.to/live2/play3/2073766557.m3u8
 #EXTINF:-1 tvg-id="MgcTv.tr" tvg-name="MGC TV (1)" tvg-logo="" group-title="Turkey",MGC TV (1)
 https://vavoo.to/live2/play3/2591544773.m3u8
 #EXTINF:-1 tvg-id="MinicaGo.tr" tvg-name="MINICA GO (1)" tvg-logo="" group-title="Turkey",MINICA GO (1)
@@ -1969,6 +1963,8 @@ https://vavoo.to/live2/play3/4021287013.m3u8
 https://vavoo.to/live2/play3/3548270931.m3u8
 #EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV HABER HD (1)" tvg-logo="/live2/logo/1220417659.png" group-title="Turkey",NTV HABER HD (1)
 https://vavoo.to/live2/play3/1220417659.m3u8
+#EXTINF:-1 tvg-id="NtvHaberHevc.tr" tvg-name="NTV HABER HEVC (1)" tvg-logo="" group-title="Turkey",NTV HABER HEVC (1)
+https://vavoo.to/live2/play3/1712849933.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV HD (1)" tvg-logo="/live2/logo/3194104127.png" group-title="Turkey",NTV HD (1)
 https://vavoo.to/live2/play3/3194104127.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV RAW (1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png" group-title="Turkey",NTV RAW (1)
@@ -2009,12 +2005,22 @@ https://vavoo.to/live2/play3/2387657693.m3u8
 https://vavoo.to/live2/play3/3839151666.m3u8
 #EXTINF:-1 tvg-id="RehberTV.tr" tvg-name="REHBER TV (1)" tvg-logo="https://i.imgur.com/fpkaw78.png" group-title="Turkey",REHBER TV (1)
 https://vavoo.to/live2/play3/1959665596.m3u8
-#EXTINF:-1 tvg-id="SPerFmTRkEPop.tr" tvg-name="S PER FM T RK E POP (1)" tvg-logo="" group-title="Turkey",S PER FM T RK E POP (1)
-https://vavoo.to/live2/play3/460410710.m3u8
+#EXTINF:-1 tvg-id="RetroTRkTRkEKlasik.tr" tvg-name="RETRO T RK T RK E KLASIK (1)" tvg-logo="" group-title="Turkey",RETRO T RK T RK E KLASIK (1)
+https://vavoo.to/live2/play3/3415299258.m3u8
+#EXTINF:-1 tvg-id="SSport10MacSaati.tr" tvg-name="S SPORT+10 MAC SAATI (1)" tvg-logo="" group-title="Turkey",S SPORT+10 MAC SAATI (1)
+https://vavoo.to/live2/play3/1024063139.m3u8
+#EXTINF:-1 tvg-id="SSport3MacSaati.tr" tvg-name="S SPORT+3 MAC SAATI (1)" tvg-logo="/live2/logo/3269372326.png" group-title="Turkey",S SPORT+3 MAC SAATI (1)
+https://vavoo.to/live2/play3/3269372326.m3u8
 #EXTINF:-1 tvg-id="SSport4MacSaati.tr" tvg-name="S SPORT+4 MAC SAATI (1)" tvg-logo="/live2/logo/1507829436.png" group-title="Turkey",S SPORT+4 MAC SAATI (1)
 https://vavoo.to/live2/play3/1507829436.m3u8
+#EXTINF:-1 tvg-id="SSport6MacSaati.tr" tvg-name="S SPORT+6 MAC SAATI (1)" tvg-logo="" group-title="Turkey",S SPORT+6 MAC SAATI (1)
+https://vavoo.to/live2/play3/4049147693.m3u8
+#EXTINF:-1 tvg-id="SSport7MacSaati.tr" tvg-name="S SPORT+7 MAC SAATI (1)" tvg-logo="" group-title="Turkey",S SPORT+7 MAC SAATI (1)
+https://vavoo.to/live2/play3/1218628805.m3u8
 #EXTINF:-1 tvg-id="SSport8MacSaati.tr" tvg-name="S SPORT+8 MAC SAATI (1)" tvg-logo="" group-title="Turkey",S SPORT+8 MAC SAATI (1)
 https://vavoo.to/live2/play3/472518488.m3u8
+#EXTINF:-1 tvg-id="SSport9MacSaati.tr" tvg-name="S SPORT+9 MAC SAATI (1)" tvg-logo="" group-title="Turkey",S SPORT+9 MAC SAATI (1)
+https://vavoo.to/live2/play3/2781992112.m3u8
 #EXTINF:-1 tvg-id="SZcSzcTv.tr" tvg-name="S ZC SZC TV (1)" tvg-logo="" group-title="Turkey",S ZC SZC TV (1)
 https://vavoo.to/live2/play3/2466905700.m3u8
 #EXTINF:-1 tvg-id="ssport.tr" tvg-name="S-SPORT 1 UHD (1)" tvg-logo="/live2/logo/3531762195.png" group-title="Turkey",S-SPORT 1 UHD (1)
@@ -2067,6 +2073,8 @@ https://vavoo.to/live2/play3/351471337.m3u8
 https://vavoo.to/live2/play3/3747646907.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV RAW (1)" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Turkey",SHOW TV RAW (1)
 https://vavoo.to/live2/play3/3317405854.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV SD (1)" tvg-logo="/live2/logo/2112025777.png" group-title="Turkey",SHOW TV SD (1)
+https://vavoo.to/live2/play3/2112025777.m3u8
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="SHOWMAX (1)" tvg-logo="/live2/logo/1197572527.png" group-title="Turkey",SHOWMAX (1)
 https://vavoo.to/live2/play3/1197572527.m3u8
 #EXTINF:-1 tvg-id="sportstv.tr" tvg-name="SIFIR TV HD (1)" tvg-logo="/live2/logo/1553288763.png" group-title="Turkey",SIFIR TV HD (1)
@@ -2077,8 +2085,6 @@ https://vavoo.to/live2/play3/383348303.m3u8
 https://vavoo.to/live2/play3/985769071.m3u8
 #EXTINF:-1 tvg-id="SivasVizyon58Tv.tr" tvg-name="SIVAS VIZYON 58 TV (1)" tvg-logo="" group-title="Turkey",SIVAS VIZYON 58 TV (1)
 https://vavoo.to/live2/play3/716793106.m3u8
-#EXTINF:-1 tvg-id="SlowKaradeniz.tr" tvg-name="SLOW KARADENIZ (1)" tvg-logo="" group-title="Turkey",SLOW KARADENIZ (1)
-https://vavoo.to/live2/play3/1388101311.m3u8
 #EXTINF:-1 tvg-id="SmartCocuk.tr" tvg-name="SMART COCUK HD (1)" tvg-logo="" group-title="Turkey",SMART COCUK HD (1)
 https://vavoo.to/live2/play3/813574895.m3u8
 #EXTINF:-1 tvg-id="SozcuSzcTv.tr" tvg-name="SOZCU SZC TV SD (1)" tvg-logo="" group-title="Turkey",SOZCU SZC TV SD (1)
@@ -2333,5 +2339,3 @@ https://vavoo.to/live2/play3/3245297818.m3u8
 https://vavoo.to/live2/play3/2655157451.m3u8
 #EXTINF:-1 tvg-id="ZonguldakKanalZ.tr" tvg-name="ZONGULDAK KANAL Z (1)" tvg-logo="" group-title="Turkey",ZONGULDAK KANAL Z (1)
 https://vavoo.to/live2/play3/1467834090.m3u8
-#EXTINF:-1 tvg-id="NetflixMovies.tr" tvg-name="⚜ ⚜ NETFLIX MOVIES ⚜ ⚜ (1)" tvg-logo="" group-title="Turkey",⚜ ⚜ NETFLIX MOVIES ⚜ ⚜ (1)
-https://vavoo.to/live2/play3/3416743954.m3u8
